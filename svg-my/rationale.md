@@ -207,6 +207,7 @@ Subtotal: 253
 - 133C9: wanted bounding lines just two thick lines
 - 133D6: consistency with other breads
 - 133D7: same
+- 13421: too thick
 
 Subtotal: 164
 

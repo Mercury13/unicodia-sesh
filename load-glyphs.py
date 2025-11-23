@@ -307,7 +307,9 @@ GLYPH_SIZES = {
     # Aa: misc
     0x1340D: MEDIUM,  # some circle
     0x1340E: MEDIUM, 0x1340F: MEDIUM,  # pustule
+    0x1341E: TINY,  # some short half
     0x1341F: MEDIUM,  # lid
+    0x13421: MEDIUM,  # instrument looking like earphones
     # EGYP A
     # A: man
     0x1347B: MEDWIDE, 0x1347C: MEDWIDE,
