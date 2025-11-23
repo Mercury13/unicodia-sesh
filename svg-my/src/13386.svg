@@ -137,14 +137,14 @@
      id="use20"
      transform="matrix(-1,0,0,1,-1597.3777,0)" />
   <path
-     style="fill:none;stroke:#613583;stroke-width:60;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-     d="M 29.741297,649.76187 V 331.90476 c 0,-219.31733 92.581363,-302.142855 213.190723,-302.142855"
+     style="fill:none;stroke:#613583;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 25.108262,650.10082 v -320.4205 c 0,-221.08603 93.383208,-304.579512 215.037168,-304.579512"
      id="path13"
      sodipodi:nodetypes="ccc" />
   <use
      x="0"
      y="0"
      xlink:href="#path13"
-     id="use13"
-     transform="matrix(-1,0,0,1,485.86404,0)" />
+     id="use1"
+     transform="matrix(-1,0,0,1,480.29086,0)" />
 </svg>
