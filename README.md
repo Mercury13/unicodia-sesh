@@ -15,6 +15,7 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 - Phase 4. Create stubs of special characters. 🗓 December 2025 / January 2026
 - ??? Damaged hashes. An interesting programmer’s task that won’t bloat the font highly.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
+- ??? Phase out ``manual`` directory used for quick fixes
 
 Probably WILL NEVER support full formatting.
 
