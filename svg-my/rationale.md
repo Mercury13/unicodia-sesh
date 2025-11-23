@@ -205,11 +205,12 @@ Subtotal: 253
 - 1337D: too thick
 - 133A8: too thick, franken
 - 133C9: wanted bounding lines just two thick lines
+- 133CA: too thick
 - 133D6: consistency with other breads
 - 133D7: same
 - 13421: too thick
 
-Subtotal: 164
+Subtotal: 166
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -876,4 +877,4 @@ Subtotal: 280
 
 Subtotal: 2
 
-Total: 1070
+Total: 1072
