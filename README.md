@@ -6,14 +6,24 @@ The font is semi-free, see license. Well, that’s the really old man at JSesh.
 
 Software maturity index: **4 (beta)**. Usable but incomplete.
 
+# What makes UnicodiaSesh so special?
+
+**Coverage.** The initial version covered 2930/3995 of block A. By the time of writing, it covers 3320 characters from block A, and the main block is steadily marching to 1072/1072.
+
+**Consistency.** It was not the strength of JSesh. One example: all open booths O22 now have the same style.
+
+**Counting marks.** All counting marks are done from scratch, only the biggest have a separate style.
+
+**Beauty.** It’s actually the strength of JSesh, but the real beauty is in extensions, and I scour through them manually.
+
 # Roadmap
 
-- The first working version. 📈 ≈2900/3995. ✅ autumn 2024
+- The first working version. 📈 ≈2930/3995. ✅ autumn 2024
 - Phase 1. Together with NewGardiner, 100% coverage. 📈 ≈2950/3995. ✅ May 2025
 - **Phase 2.** Check all glyphs, maturity 3. 📈 ≈3200/3995 ✅ September 2025
-- Phase 3. Extend to main block, maturity 5. 📈 1072/1072, ≈3350/3995 🗓 December 2025 if I survive
+- Phase 3. Cover main block, maturity 5. 📈 1072/1072, >3330/3995 🗓 December 2025 if I survive
 - Phase 4. Create stubs of special characters. 🗓 December 2025 / January 2026
-- ??? Damaged hashes. An interesting programmer’s task that won’t bloat the font highly.
+- Phase 5. Laying damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
 - ??? Phase out ``manual`` directory used for quick fixes
 - ??? Make build process less path-dependent
