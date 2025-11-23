@@ -16,6 +16,10 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 
 💄 **Beauty.** It’s actually the strength of JSesh, but the real beauty is in extensions, and I scour through them manually.
 
+# Stability policy
+
+The author does not provide any stability. Everything may change, including bearings, line height, character styles etc. For exact text layout, freeze the version.
+
 # Roadmap
 
 - The first working version. 📈 ≈2930/3995. ✅ autumn 2024
