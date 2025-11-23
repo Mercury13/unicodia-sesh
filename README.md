@@ -22,8 +22,8 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 - Phase 1. Together with NewGardiner, 100% coverage. 📈 ≈2950/3995. ✅ May 2025
 - **Phase 2.** Check all glyphs, maturity 3. 📈 ≈3200/3995 ✅ September 2025
 - Phase 3. Cover main block, maturity 5. 📈 1072/1072, >3330/3995 🗓 December 2025 if I survive
-- Phase 4. Create stubs of special characters. 🗓 December 2025 / January 2026
-- Phase 5. Laying damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
+- Mini-task. Create stubs of special characters. 🗓 December 2025 / January 2026
+- Mini-task. Laying damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
 - ??? Phase out ``manual`` directory used for quick fixes
 - ??? Make build process less path-dependent
