@@ -1,5 +1,7 @@
 ﻿# What is UnicodiaSesh?
 
+**In a nutshell:** the nicest JSesh based Egyptian Unicode font, and will probably be a truly world-class Egyptian font.
+
 In my humble software called Unicodia, it was just a “gag font” for Egyptian hieroglyphs. Even in that state it was taken to various sites. But when I started to check/fix existing glyphs and draw new, it became clear that it might be the new standard for Egyptian font: at the moment of writing, more than 1’000 hieroglyphs are modified.
 
 The font is semi-free, see license. Well, that’s the really old man at JSesh.
@@ -28,8 +30,8 @@ The author does not provide any stability. Everything may change, including bear
 - Phase 1. Together with NewGardiner, 100% coverage. 📈 ≈2950/3995. ✅ May 2025
 - **Phase 2.** Check all glyphs, maturity 3. 📈 ≈3200/3995 ✅ September 2025
 - Phase 3. Cover main block, maturity 5. 📈 1072/1072, >3330/3995 🗓 December 2025 if I survive
-- Mini-task. Create stubs of special characters. 🗓 December 2025 / January 2026
-- Mini-task. Laying damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
+- Mini-task 3a. Create stubs of special characters. 🗓 December 2025 / January 2026
+- Mini-task 3b. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
 - ??? Phase out ``manual`` directory used for quick fixes
 - ??? Make build process less path-dependent
