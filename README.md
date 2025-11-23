@@ -4,14 +4,14 @@ In my humble software called Unicodia, it was just a “gag font” for Egyptian
 
 The font is semi-free, see license. Well, that’s the really old man at JSesh.
 
-Software maturity index: '''4 (beta)'''. Usable but incomplete.
+Software maturity index: **4 (beta)**. Usable but incomplete.
 
 # Phases
 
 - The first working version. 📈 ≈2900/3995. ✅ autumn 2024
 - Phase 1. Together with NewGardiner, 100% coverage. 📈 ≈2950/3995. ✅ May 2025
-- **Phase 2.** Check all glyphs. 📈 ≈3200/3995 ✅ September 2025
-- Phase 3. Extend to main block. 📈 1072/1072, ≈3350/3995 🗓 December 2025 if I survive
+- **Phase 2.** Check all glyphs, maturity 4. 📈 ≈3200/3995 ✅ September 2025
+- Phase 3. Extend to main block, maturity 5. 📈 1072/1072, ≈3350/3995 🗓 December 2025 if I survive
 - Phase 4. Create stubs of special characters. 🗓 December 2025 / January 2026
 - ??? Damaged hashes. An interesting programmer’s task that won’t bloat the font highly.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
