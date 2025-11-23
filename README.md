@@ -41,7 +41,7 @@ Probably WILL NEVER support full formatting.
 - InkTest: just a test for Inkscape
 - svg: raw JSesh SVGs
 - svg-ex:
-  - SVGs from JSesh exceptions
+  - SVGs from JSesh extensions
   - SVGs that appeared after UniKemet
   - possibly with my slight remakes (see svg-remade)
 - svg-my: rather big remakes, both new and existing. These changes automatically make object My:
