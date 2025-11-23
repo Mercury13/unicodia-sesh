@@ -58,4 +58,4 @@ Probably WILL NEVER support full formatting.
 
 # How to develop?
 
-See develop.md
+See [develop.md](develop.md).
