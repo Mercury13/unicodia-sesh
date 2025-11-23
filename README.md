@@ -1,4 +1,22 @@
-﻿# How to build UnicodiaSesh font
+﻿# What is UnicodiaSesh?
+
+In my humble software called Unicodia, it was just a “gag font” for Egyptian hieroglyphs. But when I started to check/fix existing glyphs and draw new, it became clear that it might be the new standard for Egyptian font: at the moment of writing, more than 1’000 hieroglyphs are modified.
+
+The font is semi-free, see license. Well, that’s the really old man at JSesh.
+
+# Phases
+
+- The first working version. 📈 0/1072, ≈2900/3995. ✅ autumn 2024
+- Phase 1. Together with NewGardiner, 100% coverage. 📈 0/1072, ≈2950/3995. ✅ May 2025
+- Phase 2. Checked all characters. 📈 0/1072, ≈3200/3995 ✅ September 2025
+- Phase 3. Main block. 📈 1072/1072, ≈3350/3995 🗓 December 2025 if I survive
+- Phase 4. Create stubs of special characters. 🗓 December 2025 / January 2026
+- ??? Damaged hashes. An interesting programmer’s task that won’t bloat the font highly.
+- ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
+
+Probably WILL NEVER support full formatting.
+
+# How to build UnicodiaSesh font
 
 1. Need software: FontForge, Inkscape, TtfAutoHint
 2. Put JSesh SVGs to Svg directory. WARNING: those SVGs are non-versioned
