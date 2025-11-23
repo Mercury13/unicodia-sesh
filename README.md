@@ -16,7 +16,7 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 
 💄 **Beauty.** It’s actually the strength of JSesh, but the real beauty is in extensions, and I scour through them manually.
 
-🔍 **Small pitches.** JSesh is not optimized for small pitches, but I’m trying to make it more legible. For example, I always exaggerate props.
+🔍 **Small pitches.** JSesh’s black arms are a miracle. And I address other troubles: I exaggerate props, I prefer thick lines to double.
 
 # Stability policy
 
