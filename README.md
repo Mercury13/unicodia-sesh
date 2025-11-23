@@ -10,7 +10,7 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 
 # What makes UnicodiaSesh so special?
 
-📈 **Coverage.** The initial version covered 2930/3995 of block A. At the time of writing, it covered 3320 characters from block A, and the main block was steadily marching to 1072/1072.
+☂️ **Coverage.** The initial version covered 2930/3995 of block A. At the time of writing, it covered 3320 characters from block A, and the main block was steadily marching to 1072/1072.
 
 👥 **Consistency.** It was not the strength of JSesh. One example: all open booths O22 now have the same style.
 
@@ -26,10 +26,10 @@ The author does not provide any stability. Everything may change, including bear
 
 # Roadmap
 
-- The first working version. 📈 ≈2930/3995 ✅ autumn 2024
-- Phase 1. Together with NewGardiner, 100% coverage. 📈 ≈2950/3995 ✅ May 2025
-- **Phase 2.** Check all glyphs, maturity 3. 📈 ≈3200/3995 ✅ September 2025
-- Phase 3. Cover main block, maturity 5. 📈 1072/1072, >3330/3995 🗓 December 2025 if I survive
+- The first working version. ☂️ ≈2930/3995 ✅ autumn 2024
+- Phase 1. Together with NewGardiner, 100% coverage. ☂️ ≈2950/3995 ✅ May 2025
+- **Phase 2.** Check all glyphs, maturity 3. ☂️ ≈3200/3995 ✅ September 2025
+- Phase 3. Cover main block, maturity 5. ☂️ 1072/1072, >3330/3995 🗓 December 2025 if I survive
 - Mini-task 3a. Create stubs of special characters. 🗓 December 2025 / January 2026
 - Mini-task 3b. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
