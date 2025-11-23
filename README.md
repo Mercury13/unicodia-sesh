@@ -1,6 +1,6 @@
 ﻿# What is UnicodiaSesh?
 
-**In a nutshell:** the nicest JSesh based Egyptian Unicode font, and will probably be a truly world-class Egyptian font.
+**In a nutshell:** the nicest JSesh based font ever, and will probably be a truly world-class Egyptian Unicode font.
 
 In my humble software called Unicodia, it was just a “gag font” for Egyptian hieroglyphs. Even in that state it was taken to various sites. But when I started to check/fix existing glyphs and draw new, it became clear that it might be the new standard for Egyptian font: at the moment of writing, more than 1’000 hieroglyphs are modified.
 
