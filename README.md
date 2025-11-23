@@ -12,7 +12,7 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 
 👥 **Consistency.** It was not the strength of JSesh. One example: all open booths O22 now have the same style.
 
-🔢 **Counting marks.** All counting marks are done from scratch, only the biggest (e.g. 9 flowers) have a separate style.
+🔢 **Counting marks.** All counting marks are done from scratch, only the biggest (e.g. 9 flowers) have a separate style. It is not a font for Egyptian word processor, it’s a general-use Unicode font, right?
 
 💄 **Beauty.** It’s actually the strength of JSesh, but the real beauty is in extensions, and I scour through them manually.
 
