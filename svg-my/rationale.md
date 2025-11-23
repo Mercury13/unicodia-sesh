@@ -215,6 +215,23 @@ Subtotal: 253
 
 Subtotal: 169
 
+# Campaign for counting hobbles
+
+- 13386
+- 13387
+- 13388
+- 13389
+- 1338A
+- 1338B
+- 1338C
+- 1338D
+- 1338E
+- 1338F
+- 13390
+- 13391
+
+Subtotal: 12
+
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
 - 13475: from extended, better feet
@@ -885,4 +902,4 @@ Subtotal: 284
 
 Subtotal: 2
 
-Total: 1080
+Total: 1092
