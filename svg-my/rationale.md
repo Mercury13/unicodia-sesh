@@ -208,9 +208,10 @@ Subtotal: 253
 - 133CA: too thick
 - 133D6: consistency with other breads
 - 133D7: same
+- 1341E: too thick
 - 13421: too thick
 
-Subtotal: 166
+Subtotal: 167
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -707,11 +708,14 @@ Subtotal: 371
 - 13693: Kolya’s work, fixed
 - 13694: Kolya’s work, fixed
 - 13695: Kolya’s work, fixed
+- 13696: Kolya’s work, minor fixes
 - 136D4: just three holes in seated women
 - 136D7: same
 - 136D9: same
 - 136A2: franken from two extended A310’s
+- 136AF: Kolya’s work re-grafted to 1369F, other curl, other feathers, exaggerated stick
 - 1371B: after 46
+- 1371E: after 21
 - 13747: after 46
 - 13776: after 75
 - 137D4: found similar, drew sun
@@ -869,7 +873,7 @@ Subtotal: 371
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 280
+Subtotal: 283
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -877,4 +881,4 @@ Subtotal: 280
 
 Subtotal: 2
 
-Total: 1072
+Total: 1076
