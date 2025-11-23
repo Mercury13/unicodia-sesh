@@ -283,7 +283,7 @@ GLYPH_SIZES = {
     0x13385: MEDIUM,  # hobble + crossbar
     0x133A3: MEDWIDE,  # frail
     0x133A4: SMALL,  # some bag
-    0x133A6: SMALL, 0x133A7: SMALL,  # another bag
+    0x133A6: SMALL, 0x133A7: MEDIUM,  # another bag
     0x133A9: MEDIUM,  # bandage
     # W: vessels
     0x133B6: SMALL,  # some really craggy vessel
