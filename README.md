@@ -16,6 +16,7 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 - ??? Damaged hashes. An interesting programmer’s task that won’t bloat the font highly.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
 - ??? Phase out ``manual`` directory used for quick fixes
+- ??? Make build process less path-dependent
 
 Probably WILL NEVER support full formatting.
 
