@@ -204,6 +204,8 @@ Subtotal: 253
 - 13353: rope behind, franken between rope and drill
 - 1337D: too thick
 - 133A8: too thick, franken
+- 133B3: campaign for O22
+- 133B5: too thick, new from scratch
 - 133C9: wanted bounding lines just two thick lines
 - 133CA: too thick
 - 133D6: consistency with other breads
@@ -211,7 +213,7 @@ Subtotal: 253
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 167
+Subtotal: 169
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -490,6 +492,7 @@ Subtotal: 167
 - 13FC9: campaign for forked booth
 - 13FCA: campaign for forked booth
 - 13FD7: self-intersections, no beard
+- 13FD0: campaign for O22
 - 13FDB: thinner lines
 - 13FEA: thinner lines
 - 13FEC: bovid’s ears
@@ -512,8 +515,8 @@ Subtotal: 167
 - 14094: really other thing
 - 140A8: more details
 - 140BF: bull → bubalis
-- 140FC: removed PLACEHOLDERS
-- 14137: no sun: THREE HUNDRED
+- 140FC: removed PLACEHOLDERS: THREE HUNDRED
+- 14137: no sun
 - 14138: no sun
 - 1413A: no sun
 - 1413B: no sun
@@ -586,7 +589,7 @@ Subtotal: 167
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 371
+Subtotal: 372
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -850,6 +853,7 @@ Subtotal: 371
 - 14124: after 23
 - 14128: after 2A
 - 1414E: after 4D
+- 14168: after extended S8, round circles
 - 14189: 1A + simplified
 - 14196: after 97, pectoral
 - 141A2: after A1
@@ -873,7 +877,7 @@ Subtotal: 371
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 283
+Subtotal: 284
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -881,4 +885,4 @@ Subtotal: 283
 
 Subtotal: 2
 
-Total: 1076
+Total: 1080
