@@ -6,7 +6,7 @@ The font is semi-free, see license. Well, that’s the really old man at JSesh.
 
 Software maturity index: **4 (beta)**. Usable but incomplete.
 
-# Phases
+# Roadmap
 
 - The first working version. 📈 ≈2900/3995. ✅ autumn 2024
 - Phase 1. Together with NewGardiner, 100% coverage. 📈 ≈2950/3995. ✅ May 2025
