@@ -8,7 +8,7 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 
 # What makes UnicodiaSesh so special?
 
-📈 **Coverage.** The initial version covered 2930/3995 of block A. At the time of writing, it covered 3320 characters from block A, and the main block is steadily marching to 1072/1072.
+📈 **Coverage.** The initial version covered 2930/3995 of block A. At the time of writing, it covered 3320 characters from block A, and the main block was steadily marching to 1072/1072.
 
 👥 **Consistency.** It was not the strength of JSesh. One example: all open booths O22 now have the same style.
 
