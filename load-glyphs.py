@@ -281,6 +281,8 @@ GLYPH_SIZES = {
     0x13378: SMALL,  # part of cartouche
     0x13382: EVERYBIT,  # looped cord
     0x13385: MEDIUM,  # hobble + crossbar
+    0x13386: SMALL, 0x1338A: MEDWIDE, 0x1338B: MEDWIDE, 0x1338C: WIDE, 0x1338D: WIDE,  # counting hobbles
+    0x13390: MEDWIDE, 0x13391: WIDE, 0x13392: EVERYBIT,  # counting hobbles
     0x133A3: MEDWIDE,  # frail
     0x133A4: SMALL,  # some bag
     0x133A6: SMALL, 0x133A7: MEDIUM,  # another bag
