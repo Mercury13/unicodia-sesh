@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1400"
+   width="1500"
    height="1000"
    id="svg3378"
    sodipodi:version="0.32"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="1338A.svg"
+   sodipodi:docname="13392.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -51,8 +51,8 @@
      id="base"
      showgrid="false"
      inkscape:zoom="0.37535714"
-     inkscape:cx="835.20457"
-     inkscape:cy="656.7079"
+     inkscape:cx="318.36346"
+     inkscape:cy="622.07422"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:current-layer="svg3378"
@@ -86,14 +86,14 @@
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="0,400"
+       position="0,450"
        orientation="0,1"
        id="guide5"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="1350,703.31126"
+       position="1500,0"
        orientation="-1,0"
        id="guide6"
        inkscape:locked="false"
@@ -124,44 +124,52 @@
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="0,900"
+       position="0,950"
        orientation="0,1"
        id="guide11"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="-949.53681,550"
+       position="-949.44728,238.93512"
        orientation="1,0"
        id="guide13"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="-819.53681,550"
+       orientation="-1,0"
+       id="guide12"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
   <path
      id="path12"
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;enable-background:accumulate;stop-color:#000000"
-     d="M 150.84766,100 C 16.324999,100 0,238.13378 0,305.18359 V 500 H 40 V 305.18359 C 40,223.17888 61.918186,140 150.84766,140 c 88.92845,0 110.84765,83.17696 110.84765,165.18359 V 500 h 40 V 305.18359 C 301.69531,238.1354 285.3711,100 150.84766,100 Z"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#000000;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     d="M 131.12305,600 C 15.393289,600 0,733.08968 0,803.90234 V 1000 H 35 V 803.90234 C 35,726.97884 51.621968,635 131.12305,635 c 79.49991,0 96.12109,91.98209 96.12109,168.90234 V 1000 h 35 V 803.90234 C 262.24414,733.09295 246.85168,600 131.12305,600 Z"
      sodipodi:nodetypes="ssccsssccss" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path12"
+     id="use13"
+     transform="translate(1237.7559)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path12"
+     id="use14"
+     transform="translate(928.31693)" />
   <use
      x="0"
      y="0"
      xlink:href="#path12"
      id="use15"
-     transform="translate(698.8698)" />
+     transform="translate(618.87795)" />
   <use
      x="0"
      y="0"
      xlink:href="#path12"
      id="use16"
-     transform="translate(349.4349)" />
-  <path
-     id="path16"
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;enable-background:accumulate;stop-color:#000000"
-     d="M 325.56511,600 C 191.04245,600 174.71745,738.13378 174.71745,805.18359 V 1000 h 40 V 805.18359 C 214.71745,723.17888 236.63564,640 325.56511,640 c 88.92845,0 110.84765,83.17696 110.84765,165.18359 V 1000 h 40 V 805.18359 C 476.41276,738.1354 460.08855,600 325.56511,600 Z"
-     sodipodi:nodetypes="ssccsssccss" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#path12"
-     id="use19"
-     transform="translate(524.15235,500)" />
+     transform="translate(309.43898)" />
 </svg>

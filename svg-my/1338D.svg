@@ -50,9 +50,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.26541758"
-     inkscape:cx="152.58974"
-     inkscape:cy="69.701487"
+     inkscape:zoom="0.37535714"
+     inkscape:cx="-17.316841"
+     inkscape:cy="459.56232"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:current-layer="svg3378"
@@ -86,7 +86,7 @@
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="0,450"
+       position="0,400"
        orientation="0,1"
        id="guide5"
        inkscape:locked="false"
@@ -124,71 +124,62 @@
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="0,950"
+       position="0,900"
        orientation="0,1"
        id="guide11"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="0,50"
-       orientation="0,1"
-       id="guide12"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,134,229)" />
+       position="-949.53681,550"
+       orientation="1,0"
+       id="guide13"
+       inkscape:locked="false" />
   </sodipodi:namedview>
-  <g
-     id="g16">
-    <path
-       id="path12"
-       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#000000;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-       d="M 150.84766,50 C 16.324999,50 0,188.13378 0,255.18359 V 450 H 40 V 255.18359 C 40,173.17888 61.918186,90 150.84766,90 c 88.92845,0 110.84765,83.17696 110.84765,165.18359 V 450 h 40 V 255.18359 C 301.69531,188.1354 285.3711,50 150.84766,50 Z"
-       sodipodi:nodetypes="ssccsssccss" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path12"
-       id="use14"
-       transform="translate(1048.3047)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path12"
-       id="use15"
-       transform="translate(698.8698)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path12"
-       id="use16"
-       transform="translate(349.4349)" />
-  </g>
-  <g
-     id="g19"
-     transform="translate(0,500)">
-    <path
-       id="path16"
-       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#000000;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-       d="M 150.84766,50 C 16.324999,50 0,188.13378 0,255.18359 V 450 H 40 V 255.18359 C 40,173.17888 61.918186,90 150.84766,90 c 88.92845,0 110.84765,83.17696 110.84765,165.18359 V 450 h 40 V 255.18359 C 301.69531,188.1354 285.3711,50 150.84766,50 Z"
-       sodipodi:nodetypes="ssccsssccss" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path12"
-       id="use17"
-       transform="translate(1048.3047)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path12"
-       id="use18"
-       transform="translate(698.8698)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path12"
-       id="use19"
-       transform="translate(349.4349)" />
-  </g>
+  <path
+     id="path12"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;enable-background:accumulate;stop-color:#000000"
+     d="M 150.84766,100 C 16.324999,100 0,238.13378 0,305.18359 V 500 H 40 V 305.18359 C 40,223.17888 61.918186,140 150.84766,140 c 88.92845,0 110.84765,83.17696 110.84765,165.18359 V 500 h 40 V 305.18359 C 301.69531,238.1354 285.3711,100 150.84766,100 Z"
+     sodipodi:nodetypes="ssccsssccss" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path12"
+     id="use14"
+     transform="translate(1048.3047)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path12"
+     id="use15"
+     transform="translate(698.8698)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path12"
+     id="use16"
+     transform="translate(349.4349)" />
+  <path
+     id="path16"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;enable-background:accumulate;stop-color:#000000"
+     d="M 150.84766,600 C 16.324999,600 0,738.13378 0,805.18359 V 1000 H 40 V 805.18359 C 40,723.17888 61.918186,640 150.84766,640 c 88.92845,0 110.84765,83.17696 110.84765,165.18359 V 1000 h 40 V 805.18359 C 301.69531,738.1354 285.3711,600 150.84766,600 Z"
+     sodipodi:nodetypes="ssccsssccss" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path12"
+     id="use17"
+     transform="translate(1048.3047,500)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path12"
+     id="use18"
+     transform="translate(698.8698,500)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path12"
+     id="use19"
+     transform="translate(349.4349,500)" />
 </svg>
