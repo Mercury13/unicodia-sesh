@@ -250,6 +250,7 @@ Subtotal: 169
 - 135C8: see C0
 - 135DE: black arms, not really vertical forearms
 - 135DF: black arms, not really vertical forearms
+- 135F1: was probably simplified and/or rounded
 - 135FB: removed intersection, major simplifications
 - 1360F: kneel rather than ride the back
 - 1361E: arm raise in front rather than begging
@@ -316,8 +317,8 @@ Subtotal: 169
 - 13755: short hair
 - 13756: short hair
 - 13757: short hair
-- 13759: short hair
-- 1375A: short hair: ONE HUNDRED
+- 13759: short hair: ONE HUNDRED
+- 1375A: short hair
 - 1375B: short hair
 - 1375C: short hair
 - 13766: vertical ankh
@@ -416,8 +417,8 @@ Subtotal: 169
 - 13C1C: white neck
 - 13C1F: wrong direction
 - 13C20: same
-- 13C28: white neck
-- 13C2B: white curvier neck: TWO HUNDRED
+- 13C28: white neck: TWO HUNDRED
+- 13C2B: white curvier neck
 - 13C51: egret has two feathers
 - 13C52: same + fixed intersection at claw/base
 - 13C53: same
@@ -516,8 +517,8 @@ Subtotal: 169
 - 14075: removed cow on the bow
 - 14094: really other thing
 - 140A8: more details
-- 140BF: bull → bubalis
-- 140FC: removed PLACEHOLDERS: THREE HUNDRED
+- 140BF: bull → bubalis: THREE HUNDRED
+- 140FC: removed PLACEHOLDERS
 - 14137: no sun
 - 14138: no sun
 - 1413A: no sun
@@ -591,7 +592,7 @@ Subtotal: 169
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 372
+Subtotal: 373
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -887,4 +888,4 @@ Subtotal: 284
 
 Subtotal: 2
 
-Total: 1095
+Total: 1096
