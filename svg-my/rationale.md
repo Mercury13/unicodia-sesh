@@ -20,6 +20,8 @@ RETURN = temporarily deleted, then returned
 - 13338, 13339, 1333A, 1333B, 1333C = campaign for hoes (5)
 - 13362, 13363, 13364, 13365, 13366 / 13367, 13368, 13369, 1336A, 1336B = counting ropes (10)
 - 13376, 13377, 13378, 13379, 1337A / 1337B, 1342F = campaign for cartouches (7)
+- 13386, 13387, 13388, 13389, 1338A / 1338B, 1338C, 1338D, 1338E, 1338F…
+- 13390, 13391, 13392, 133AD, 133AE = counting hobbles (15)
 - 133E4, 133E5, 133E6, 133E7, 133EA / 133EB, 133EC, 133ED, 133EE, 133F0 / 143E7, 143E8 = sticks and dots (12)
 - 13460, 61, 62, 63, 64, 65, 67 = above the fold (7)
 - 134CC, 135EC, 1372D, 1374C / 137CA, 13804, 13806, 13887, 1393B…
@@ -40,7 +42,7 @@ RETURN = temporarily deleted, then returned
 - 1437A, 1437B, 1437C, 1437D, 1437E = 60 unit racks (5)
 - 143CA, 143CB, 143CC, 143DF, 143E0 = circles, 4 fixed + 1 new (5)
 
-Subtotal: 253
+Subtotal: 268
 
 # Misrenders / basic
 - 13000: A1 extended + someone’s else head
@@ -214,26 +216,6 @@ Subtotal: 253
 - 13421: too thick
 
 Subtotal: 169
-
-# Campaign for counting hobbles
-
-- 13386
-- 13387
-- 13388
-- 13389
-- 1338A
-- 1338B
-- 1338C
-- 1338D
-- 1338E
-- 1338F
-- 13390
-- 13391
-- 13392
-- 133AD
-- 133AE
-
-Subtotal: 15
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
