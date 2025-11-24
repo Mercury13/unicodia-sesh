@@ -715,6 +715,7 @@ Subtotal: 373
 - 13694: Kolya’s work, fixed
 - 13695: Kolya’s work, fixed
 - 13696: Kolya’s work, minor fixes
+- 136B9: Kolya’s work, fixed
 - 136D4: just three holes in seated women
 - 136D7: same
 - 136D9: same
@@ -880,7 +881,7 @@ Subtotal: 373
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 284
+Subtotal: 285
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -888,4 +889,4 @@ Subtotal: 284
 
 Subtotal: 2
 
-Total: 1096
+Total: 1097
