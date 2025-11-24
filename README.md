@@ -14,7 +14,7 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 
 ☂️ **Coverage.** The initial version covered 2930/3995 of block A. At the time of writing, it covered 3320 characters from block A, and the main block was steadily marching to 1072/1072.
 
-🤖 **Synergy of automation and handwork.** The font started as an automatic script that works around FontForge’s bugs, but lots of handwork made it usable outside Unicodia.
+🤖 **Synergy of automation and handwork.** The font started as an automatic script that worked around FontForge’s bugs, but lots of handwork made it usable outside Unicodia.
 
 👥 **Consistency.** It was not the strength of JSesh. One example: all open booths O22 now have the same style.
 
