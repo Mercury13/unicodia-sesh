@@ -230,8 +230,10 @@ Subtotal: 169
 - 13390
 - 13391
 - 13392
+- 133AD
+- 133AE
 
-Subtotal: 13
+Subtotal: 15
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -903,4 +905,4 @@ Subtotal: 284
 
 Subtotal: 2
 
-Total: 1093
+Total: 1095
