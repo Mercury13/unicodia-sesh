@@ -841,7 +841,9 @@ Subtotal: 373
 - 14020: inverted 1F
 - 14022: “low-hanging” boats, after 1E
 - 1402D: after 1329E
+- 14038: found among P3 ex, just too much water
 - 14046: “low-hanging” boats, after 45
+- 1404D: another “low-hanging” boat, franken from 47 and 4A
 - 14051: “low-hanging” boats, after 4F
 - 14052: “low-hanging” boats, after 4E
 - 14061: “low-hanging” boats
@@ -886,7 +888,7 @@ Subtotal: 373
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 290
+Subtotal: 292
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -894,4 +896,4 @@ Subtotal: 290
 
 Subtotal: 2
 
-Total: 1102
+Total: 1104
