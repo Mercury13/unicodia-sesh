@@ -181,6 +181,8 @@ Subtotal: 268
 - 13296: thinner
 - 13298: craggy
 - 13299: 13298 turned
+- 1329B: from other crescents, mainly 14022
+- 1329C: 1329B inverted
 - 132A6: different P8 as source
 - 132AA: bigger, thicker
 - 132AB: thinner
@@ -215,7 +217,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 169
+Subtotal: 171
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -505,6 +507,8 @@ Subtotal: 169
 - 14018: double lines → thin
 - 1401A: consistency, after 22/26
 - 1401E: canal does not have curved lines
+- 14021: consistency, after other P1’s
+- 14023: consistency, after other P1’s
 - 14026: consistency, after 22
 - 14048: greatly simplified, removed self-intersection on margin of error
 - 14049: greatly simplified, removed self-intersection on margin of error
@@ -515,9 +519,9 @@ Subtotal: 169
 - 1405D: most curves to lines, simplified Re, removed one rope
 - 1406A: removed cow on the bow
 - 14075: removed cow on the bow
-- 14094: really other thing
+- 14094: really other thing: THREE HUNDRED
 - 140A8: more details
-- 140BF: bull → bubalis: THREE HUNDRED
+- 140BF: bull → bubalis
 - 140FC: removed PLACEHOLDERS
 - 14137: no sun
 - 14138: no sun
@@ -592,7 +596,7 @@ Subtotal: 169
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 373
+Subtotal: 375
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -896,4 +900,4 @@ Subtotal: 292
 
 Subtotal: 2
 
-Total: 1104
+Total: 1108

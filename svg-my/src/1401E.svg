@@ -10,6 +10,7 @@
    version="1.1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -54,8 +55,8 @@
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
      inkscape:zoom="0.4204"
-     inkscape:cx="476.92674"
-     inkscape:cy="455.51855"
+     inkscape:cx="512.60704"
+     inkscape:cy="450.76118"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -75,6 +76,21 @@
        orientation="1,0"
        id="guide3"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="214.86397,542.12507"
+       orientation="1,0"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1036.1639,542.12507"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1036.1639,542.12507"
+       orientation="0,-1"
+       id="guide6"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <path
      style="fill:#000000;stroke:none;stroke-width:51.8696"
@@ -90,10 +106,13 @@
      id="path7" />
   <path
      style="fill:none;stroke:#813d9c;stroke-width:36.3719;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-     d="M 214.86397,257.87493 V 425.3021"
-     id="path9" />
-  <path
-     style="fill:none;stroke:#9141ac;stroke-width:36.3719;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1036.1639,257.87493 V 425.3021"
-     id="path10" />
+     d="m 171.07375,257.87493 c 62.51585,62.14761 54.10688,117.95808 0,167.42717"
+     id="path9"
+     sodipodi:nodetypes="cc" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path9"
+     id="use6"
+     transform="matrix(-1,0,0,1,1251.0279,0)" />
 </svg>
