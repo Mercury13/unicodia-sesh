@@ -756,6 +756,7 @@ Subtotal: 375
 - 138FB: after FA
 - 138FE: JSesh C204 + strip of land
 - 13900: after 01
+- 13914: Kolya’s work
 - 13925: after nearby (23?)
 - 13926: same
 - 1392D: after some woman’s head+arms
@@ -851,6 +852,7 @@ Subtotal: 375
 - 1404D: another “low-hanging” boat, franken from 47 and 4A
 - 14051: “low-hanging” boats, after 4F
 - 14052: “low-hanging” boats, after 4E
+- 1405A: another master class, turned head, now he looks back; shorter rudder, lower star for detail
 - 14061: “low-hanging” boats
 - 14063: “low-hanging” boats
 - 14067: “low-hanging” boats, after 69
@@ -894,7 +896,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 294
+Subtotal: 296
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -902,4 +904,4 @@ Subtotal: 294
 
 Subtotal: 2
 
-Total: 1110
+Total: 1112
