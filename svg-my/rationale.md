@@ -742,6 +742,7 @@ Subtotal: 375
 - 137F0: after EF, man with palm branches for million
 - 13817: after initial 16
 - 13819: after 17
+- 1382E: extended C97, more curved beard, simple stick
 - 1383C: Imhotep is close to Ptah, copied beard from newer (Sep’25) Ptah
 - 1383F: combo of old 3F (IDR how made) and new Sep’25 Ptah + longer beard
 - 13853: 52 + horns from ram
@@ -893,7 +894,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 293
+Subtotal: 294
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -901,4 +902,4 @@ Subtotal: 293
 
 Subtotal: 2
 
-Total: 1109
+Total: 1110
