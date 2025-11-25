@@ -855,6 +855,7 @@ Subtotal: 375
 - 14067: “low-hanging” boats, after 69
 - 1406B: “low-hanging” boats
 - 14076: after 78
+- 14079: found P4d laden with elliptic pile, and replaced with trapezoidal
 - 14081: after 7F, trusted description/NG rather than samples
 - 1408C: after 8E
 - 140B1: from JSesh Q25a
@@ -892,7 +893,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 292
+Subtotal: 293
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -900,4 +901,4 @@ Subtotal: 292
 
 Subtotal: 2
 
-Total: 1108
+Total: 1109
