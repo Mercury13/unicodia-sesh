@@ -389,11 +389,13 @@ GLYPH_SIZES = {
     0x13AAB: GOAT_CALF,  #goat
     0x13A54: WIDE, 0x13A55: WIDE, 0x13A56: WIDE, 0x13A58: WIDE,
     0x13A85: EVERYBIT,
+    0x13A9F: WIDE, 0x13AA0: WIDE, 0x13AA1: WIDE,  # cats holding smth
     0x13ABB: MEDWIDE,  # hyena
     0x13ABD: HARE_NO_WHISKERS, 0x13ABE: HARE_NO_WHISKERS, 0x13ABF: MEDWIDE,  # hares
     0x13B2D: EVERYBIT,
     0x13B3C: WIDE,  # attacking bull
     0x13B59: WIDE,
+    # F: parts of animals
     0x13B5B: WIDE,
     0x13B60: MEDIUM,
     0x13B69: WIDE,

@@ -780,6 +780,9 @@ Subtotal: 375
 - 13A8B: 8A + longer paws + found S42 at main range
 - 13A8F: after 8E
 - 13A59: after 58
+- 13A9F: Kolya’s work
+- 13AA0: Kolya’s work, replaced loaf
+- 13AA1: Kolya’s work
 - 13AA7: after A8
 - 13ABD: after BE
 - 13AC5: after C4
@@ -896,7 +899,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 296
+Subtotal: 298
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -904,4 +907,4 @@ Subtotal: 296
 
 Subtotal: 2
 
-Total: 1112
+Total: 1115
