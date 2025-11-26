@@ -212,12 +212,13 @@ Subtotal: 268
 - 133B5: too thick, new from scratch
 - 133C9: wanted bounding lines just two thick lines
 - 133CA: too thick
+- 133CC: greatly simplified while leaving general pattern
 - 133D6: consistency with other breads
 - 133D7: same
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 171
+Subtotal: 172
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -629,6 +630,7 @@ Subtotal: 375
 - 132F0: from scratch
 - 132F1: from scratch
 - 13332: 14201 + loop
+- 133CD: 133CC, 3pcs
 - 134FF: after FE + random jug W22?
 - 13502: campaign for standing with props
 - 13507: campaign for standing with props
@@ -900,7 +902,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 299
+Subtotal: 301
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -908,4 +910,4 @@ Subtotal: 299
 
 Subtotal: 2
 
-Total: 1116
+Total: 1118
