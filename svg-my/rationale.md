@@ -746,6 +746,7 @@ Subtotal: 375
 - 13819: after 17
 - 1382E: extended C97, more curved beard, simple stick
 - 13835: Lots of complaints to Kolya
+- 13836: 13835 + banged ram’s horns
 - 1383C: Imhotep is close to Ptah, copied beard from newer (Sep’25) Ptah
 - 1383F: combo of old 3F (IDR how made) and new Sep’25 Ptah + longer beard
 - 13853: 52 + horns from ram
@@ -903,7 +904,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 302
+Subtotal: 303
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -911,4 +912,4 @@ Subtotal: 302
 
 Subtotal: 2
 
-Total: 1119
+Total: 1120
