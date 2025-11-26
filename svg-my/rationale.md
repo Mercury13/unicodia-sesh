@@ -658,6 +658,7 @@ Subtotal: 375
 - 13533: after 13574
 - 13534: after 13027
 - 13536: after 13535
+- 13538: after 13536, 37
 - 13541: after some other JSesh’s A152
 - 13548: was squished in NewG
 - 1356C: after 6B
@@ -904,7 +905,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 303
+Subtotal: 304
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -912,4 +913,4 @@ Subtotal: 303
 
 Subtotal: 2
 
-Total: 1120
+Total: 1121
