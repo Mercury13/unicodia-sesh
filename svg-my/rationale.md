@@ -62,7 +62,7 @@ Subtotal: 268
 - 13015: same
 - 13019: lots of bugs (beard, hair…)
 - 1301A: found more modern char, more pronounced overlaps, mace T3 to my low-detail scepter S42
-- 1301B: beard god→king, enlarged triangular thing, aligned staff to feet
+- 1301B: found mismatch with description and franken-modernized
 - 1301C: craggy
 - 1301D: craggy
 - 1301E: palm up, arm a bit lower
