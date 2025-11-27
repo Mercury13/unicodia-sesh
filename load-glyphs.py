@@ -10,7 +10,6 @@ INKSCAPE = 'c:/Program Files/Inkscape/bin/inkscape.com'
 
 # These pairs are known to be bad
 BAD_JSESH_HIEROS = {
-    0x133F9: "Ff1",    # ??? no file
     0x13416: "Aa8",    # ??? no file, even in base
     0x13417: "Aa9",    # ??? no file, even in base
     0x13418: "Aa10",   # ??? no file, even in base

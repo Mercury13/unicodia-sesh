@@ -215,10 +215,11 @@ Subtotal: 268
 - 133CC: greatly simplified while leaving general pattern
 - 133D6: consistency with other breads
 - 133D7: same
+- 13413: from scratch
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 172
+Subtotal: 173
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -635,6 +636,7 @@ Subtotal: 375
 - 133F3: from scratch
 - 133F4: from scratch
 - 133F9: from scratch
+- 13414: after 413
 - 134FF: after FE + random jug W22?
 - 13502: campaign for standing with props
 - 13507: campaign for standing with props
@@ -911,7 +913,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 310
+Subtotal: 311
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -919,4 +921,4 @@ Subtotal: 310
 
 Subtotal: 2
 
-Total: 1127
+Total: 1129
