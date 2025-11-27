@@ -285,6 +285,7 @@ GLYPH_SIZES = {
     0x133A6: SMALL, 0x133A7: MEDIUM,  # another bag
     0x133A9: MEDIUM,  # bandage
     # W: vessels
+    0x133A0: SQUARE,  # small version of bowl with square
     0x133B2: SQUARE,  # small version of bowl with square
     0x133B6: SMALL,  # some really craggy vessel
     0x133B8: MEDIUM, 0x133B9: MEDIUM,  # jug

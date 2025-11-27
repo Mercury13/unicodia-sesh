@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="500"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="13417.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.3775"
+     inkscape:cx="319.2053"
+     inkscape:cy="592.05298"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showguides="true"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+    <sodipodi:guide
+       position="150.99338,280.13245"
+       orientation="0,1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="174.83444,140.06623"
+       orientation="1,0"
+       id="guide7"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="925.16556,140.06623"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     id="path5"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 0 219.86719 L 0 500 L 40 500 L 40 379.93359 L 174.83398 379.93359 L 174.83398 500 L 925.16602 500 L 925.16602 379.93359 L 1060 379.93359 L 1060 500 L 1100 500 L 1100 219.86719 L 1060 219.86719 L 1060 339.93359 L 925.16602 339.93359 L 925.16602 219.86719 L 174.83398 219.86719 L 174.83398 339.93359 L 40 339.93359 L 40 219.86719 L 0 219.86719 z M 214.83398 259.86719 L 885.16602 259.86719 L 885.16602 460 L 214.83398 460 L 214.83398 259.86719 z " />
+</svg>
