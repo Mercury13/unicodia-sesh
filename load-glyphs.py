@@ -10,8 +10,6 @@ INKSCAPE = 'c:/Program Files/Inkscape/bin/inkscape.com'
 
 # These pairs are known to be bad
 BAD_JSESH_HIEROS = {
-    0x133F3: "Z8",     # ??? no file
-    0x133F4: "Z9",     # ??? no file
     0x133F9: "Ff1",    # ??? no file
     0x13416: "Aa8",    # ??? no file, even in base
     0x13417: "Aa9",    # ??? no file, even in base
@@ -306,6 +304,7 @@ GLYPH_SIZES = {
     # Z: marks
     0x133EF: SMALL,  # backslash
     0x133F2: SMALL,  # spiral
+    0x133F3: TINY,  # oval
     # Aa: misc
     0x1340D: MEDIUM,  # some circle
     0x1340E: MEDIUM, 0x1340F: MEDIUM,  # pustule
@@ -326,6 +325,8 @@ GLYPH_SIZES = {
     0x13518: MEDWIDE,  # pouring
     0x1351B: WIDE, 0x1351C: WIDE, 0x1351D: WIDE, 0x1351E: WIDE,  # pouring
     0x1352E: WIDE,  # man w/grindstone, no need to squeeze
+    0x13537: MEDWIDE,  # building, want surely height-limited
+    0x13539: MEDWIDE,  # building, same
     0x13548: EVERYBIT,
     0x135BB: MEDWIDE,
     0x135BD: WIDE,

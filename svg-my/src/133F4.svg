@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="1000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="133F4.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.3775"
+     inkscape:cx="618.54305"
+     inkscape:cy="912.58278"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showguides="true">
+    <sodipodi:guide
+       position="96.412097,757.76525"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="550,500"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="850,907.28477"
+       orientation="-1,0"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#ffbe6f;stroke:none;stroke-width:1"
+     d="M 109.94362,298.61609 509.68734,536.54536 409.89236,596.30958 56.945156,385.44336 Z m 880.11276,0 52.99842,86.82727 L 109.37981,943.05484 56.381343,854.53613 Z M 690.67145,644.23373 1043.6187,854.53613 990.6202,943.05484 590.31266,703.99795 Z M 96.412097,242.23475 0,399.5387 369.2978,619.98975 0,839.87699 95.28447,1000 550.28191,728.24193 1004.7155,1000 1100,839.87699 730.70221,619.98975 1100,399.5387 1004.1517,242.23475 550.28191,512.30138 Z"
+     id="path1" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#613583;stroke-width:35;stroke-linecap:round;stroke-miterlimit:2;stroke-dasharray:none"
+     id="rect3"
+     width="850"
+     height="92.522179"
+     x="-490.06757"
+     y="796.62384"
+     transform="rotate(-45)" />
+  <rect
+     style="fill:#f9f06b;fill-rule:evenodd;stroke:#613583;stroke-width:35;stroke-linecap:round;stroke-miterlimit:2;stroke-dasharray:none"
+     id="use3"
+     width="850"
+     height="92.522179"
+     x="-1267.8849"
+     y="18.806477"
+     transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+</svg>

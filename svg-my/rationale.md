@@ -631,6 +631,8 @@ Subtotal: 375
 - 132F1: from scratch
 - 13332: 14201 + loop
 - 133CD: 133CC, 3pcs
+- 133F3: from scratch
+- 133F4: from scratch
 - 134FF: after FE + random jug W22?
 - 13502: campaign for standing with props
 - 13507: campaign for standing with props
@@ -659,6 +661,7 @@ Subtotal: 375
 - 13534: after 13027
 - 13536: after 13535
 - 13538: after 13536, 37
+- 13539: same, but troubles with wall
 - 13541: after some other JSesh’s A152
 - 13548: was squished in NewG
 - 1356C: after 6B
@@ -743,6 +746,7 @@ Subtotal: 375
 - 137E8: campaign for millions
 - 137E9: campaign for millions
 - 137F0: after EF, man with palm branches for million
+- 13815: Kolya’s work, fixed
 - 13817: after initial 16
 - 13819: after 17
 - 1382E: extended C97, more curved beard, simple stick
@@ -905,7 +909,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 304
+Subtotal: 308
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -913,4 +917,4 @@ Subtotal: 304
 
 Subtotal: 2
 
-Total: 1121
+Total: 1125
