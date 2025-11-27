@@ -61,6 +61,7 @@ Subtotal: 268
 - 13014: absent somehow in detailed form
 - 13015: same
 - 13019: lots of bugs (beard, hair…)
+- 1301A: found more modern char
 - 1301B: beard god→king, enlarged triangular thing, aligned staff to feet
 - 1301C: craggy
 - 1301D: craggy
@@ -213,13 +214,14 @@ Subtotal: 268
 - 133C9: wanted bounding lines just two thick lines
 - 133CA: too thick
 - 133CC: greatly simplified while leaving general pattern
+- 133D0: as a pair to JSesh’s X3
 - 133D6: consistency with other breads
 - 133D7: same
 - 13413: from scratch
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 173
+Subtotal: 175
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -929,4 +931,4 @@ Subtotal: 319
 
 Subtotal: 2
 
-Total: 1137
+Total: 1139
