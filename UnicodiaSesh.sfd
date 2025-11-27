@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1727638123
-ModificationTime: 1763847693
+ModificationTime: 1764280513
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -46,8 +46,7 @@ OS2Vendor: 'PfEd'
 OS2UnicodeRanges: 00000000.02000000.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: UnicodeBmp
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -57,6 +56,27 @@ WinInfo: 0 33 14
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 0
+BeginChars: 3 3
+
+StartChar: space
+Encoding: 0 32 0
+Width: 600
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Spec.FullSpace
+Encoding: 1 78913 1
+Width: 1200
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Spec.HalfSpace
+Encoding: 2 78914 2
+Width: 600
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
 EndSplineFont
