@@ -630,9 +630,11 @@ Subtotal: 375
 - 132F0: from scratch
 - 132F1: from scratch
 - 13332: 14201 + loop
+- 133B2: from open booths
 - 133CD: 133CC, 3pcs
 - 133F3: from scratch
 - 133F4: from scratch
+- 133F9: from scratch
 - 134FF: after FE + random jug W22?
 - 13502: campaign for standing with props
 - 13507: campaign for standing with props
@@ -909,7 +911,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 308
+Subtotal: 310
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -917,4 +919,4 @@ Subtotal: 308
 
 Subtotal: 2
 
-Total: 1125
+Total: 1127
