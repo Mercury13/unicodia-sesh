@@ -61,7 +61,7 @@ Subtotal: 268
 - 13014: absent somehow in detailed form
 - 13015: same
 - 13019: lots of bugs (beard, hair…)
-- 1301A: found more modern char
+- 1301A: found more modern char, more pronounced overlaps, mace T3 to my low-detail scepter S42
 - 1301B: beard god→king, enlarged triangular thing, aligned staff to feet
 - 1301C: craggy
 - 1301D: craggy
