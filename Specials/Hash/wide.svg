@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1000"
-   height="1000"
-   viewBox="0 0 1000 1000"
+   width="1050"
+   height="1050"
+   viewBox="0 0 1050 1050"
    version="1.1"
    id="svg1"
    sodipodi:docname="wide.svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.23779789"
-     inkscape:cx="1280.4992"
-     inkscape:cy="902.02651"
+     inkscape:zoom="0.47559578"
+     inkscape:cx="303.82944"
+     inkscape:cy="705.43099"
      inkscape:window-width="1680"
      inkscape:window-height="998"
      inkscape:window-x="-8"
@@ -34,40 +34,52 @@
      inkscape:current-layer="layer1"
      showguides="true">
     <sodipodi:guide
-       position="145.08119,1111.4392"
+       position="168.00626,1161.4392"
        orientation="0,-1"
        id="guide1"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="138.27064,1111.4392"
+       position="161.4392,1161.4392"
        orientation="1,0"
        id="guide15"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2088.2706,1111.4392"
-       orientation="-1,0"
-       id="guide16"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="288.27064,1111.4392"
-       orientation="1,0"
-       id="guide17"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="500,1000"
-       orientation="-1,0"
-       id="guide2"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="0,500"
+       position="-1120.6153,525"
        orientation="0,1"
        id="guide3"
        inkscape:locked="false"
        inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="525,1466.3199"
+       orientation="-1,0"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="368.00626,1161.4392"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,1050"
+       orientation="0,-1"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50,1050"
+       orientation="-1,0"
+       id="guide7"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="2161.4392,1161.4392"
+       orientation="-1,0"
+       id="guide8"
+       inkscape:label=""
+       inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
   <defs
@@ -77,8 +89,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect3"
-       style="fill:#000000;fill-rule:evenodd;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5"
-       d="M 65.123047,500 0,565.12305 v 21.21289 L 86.335938,500 Z M 215.12305,500 0,715.12305 v 21.21289 L 236.33594,500 Z m 150,0 L 0,865.12305 v 21.21289 L 386.33594,500 Z m 150,0 -500.000003,500 H 36.335938 L 536.33594,500 Z m 150,0 -500,500 h 21.21289 l 500,-500 z m 150,0 -500,500 h 21.21289 l 500,-500 z m 150,0 -500,500 h 21.21289 l 500,-500 z M 1000,615.12305 615.12305,1000 h 21.21289 L 1000,636.33594 Z m 0,150 L 765.12305,1000 h 21.21289 L 1000,786.33594 Z m 0,150 L 915.12305,1000 h 21.21289 L 1000,936.33594 Z" />
+       id="rect1"
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5"
+       d="M 1050,978.87304 978.87305,1050 H 944.93164 L 1050,944.93164 Z m 0,-200 L 778.87305,1050 H 744.93164 L 1050,744.93164 Z m 0,-200 L 578.87305,1050 H 544.93359 L 1050,544.93164 Z M 903.87305,525 l -525,525 H 344.93359 L 869.93164,525 Z m -200,0 -525,525 H 144.93359 L 669.93164,525 Z m -200,0 L 0,1028.873 V 994.93359 L 469.93164,525 Z m -200,0 L 0,828.87304 V 794.93359 L 269.93359,525 Z m -200,0 L 0,628.87304 V 594.93359 L 69.93359,525 Z" />
   </g>
 </svg>

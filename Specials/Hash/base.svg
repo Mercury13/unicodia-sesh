@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1000"
-   height="1000"
-   viewBox="0 0 1000 1000"
+   width="1050"
+   height="1050"
+   viewBox="0 0 1050 1050"
    version="1.1"
    id="svg1"
    sodipodi:docname="base.svg"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.23779789"
-     inkscape:cx="-98.823418"
-     inkscape:cy="670.73766"
+     inkscape:cx="376.37003"
+     inkscape:cy="910.43701"
      inkscape:window-width="1680"
      inkscape:window-height="998"
      inkscape:window-x="-8"
@@ -35,27 +35,53 @@
      inkscape:current-layer="layer1"
      showguides="true">
     <sodipodi:guide
-       position="145.08119,1111.4392"
+       position="168.00626,1161.4392"
        orientation="0,-1"
        id="guide1"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="138.27064,1111.4392"
+       position="161.4392,1161.4392"
        orientation="1,0"
        id="guide15"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2088.2706,1111.4392"
+       position="-1120.6153,525"
+       orientation="0,1"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="525,1466.3199"
        orientation="-1,0"
-       id="guide16"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="368.00626,1161.4392"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,1050"
+       orientation="0,-1"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50,1050"
+       orientation="-1,0"
+       id="guide7"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="2161.4392,1161.4392"
+       orientation="-1,0"
+       id="guide8"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="288.27064,1111.4392"
-       orientation="1,0"
-       id="guide17"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
@@ -64,86 +90,69 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 138.27064,-111.4392 -1143.2798,1170.1112"
-       id="path1" />
+       style="fill:none;stroke:#000000;stroke-width:24;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 161.4392,-111.4392 -1120.1113,1170.1112"
+       id="path1"
+       sodipodi:nodetypes="cc" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use1"
-       transform="translate(1200)" />
+       transform="translate(1600)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use2"
-       transform="translate(1050)" />
+       transform="translate(1400)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use3"
-       transform="translate(899.99998)" />
+       transform="translate(1200)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use4"
-       transform="translate(749.99998)" />
+       transform="translate(1000)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use5"
-       transform="translate(599.99999)" />
+       transform="translate(800)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use6"
-       transform="translate(449.99999)" />
+       transform="translate(600)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use7"
-       transform="translate(299.99999)" />
+       transform="translate(400)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use8"
-       transform="translate(150)" />
+       transform="translate(200)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use9"
-       transform="translate(1350)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path1"
-       id="use10"
-       transform="translate(1500)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path1"
-       id="use11"
-       transform="translate(1650)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path1"
-       id="use12"
        transform="translate(1800)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
-       id="use13"
-       transform="translate(1950)" />
+       id="use11"
+       transform="translate(2000)" />
   </g>
 </svg>

@@ -32,7 +32,7 @@ Software maturity index: **5 (production/stable)**. With coverage of the main bl
 
 **Why are lost signs put this way?**
 
-Because short hieroglyphs are put this way. Lost signs — surprise — are just totally unreadable hieroglyphs.
+Because short hieroglyphs are put this way. Lost signs — surprise — are just totally unreadable hieroglyphs. They are just a little bit bigger than average hieroglyph.
 
 # Stability policy
 
