@@ -354,6 +354,7 @@ Subtotal: 177
 - 13840: Ptah, Sep’25 version + just lengthened beard
 - 1384E: turn knife around
 - 1385F: 5E + snakes
+- 13861: Kolya’s work (got rid of filled flail), just flail a bit lower
 - 1387A: strange image
 - 1387B: bigger tits
 - 1387B: same
@@ -424,8 +425,8 @@ Subtotal: 177
 - 13C19: white neck
 - 13C1C: white neck
 - 13C1F: wrong direction
-- 13C20: same
-- 13C28: white neck: TWO HUNDRED
+- 13C20: same: TWO HUNDRED
+- 13C28: white neck
 - 13C2B: white curvier neck
 - 13C51: egret has two feathers
 - 13C52: same + fixed intersection at claw/base
@@ -524,8 +525,8 @@ Subtotal: 177
 - 1405C: greatly simplified, removed touching curves, solid canal
 - 1405D: most curves to lines, simplified Re, removed one rope
 - 1406A: removed cow on the bow
-- 14075: removed cow on the bow
-- 14094: really other thing: THREE HUNDRED
+- 14075: removed cow on the bow: THREE HUNDRED
+- 14094: really other thing
 - 140A8: more details
 - 140BF: bull → bubalis
 - 140FC: removed PLACEHOLDERS
@@ -602,7 +603,7 @@ Subtotal: 177
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 375
+Subtotal: 376
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -773,6 +774,8 @@ Subtotal: 375
 - 1384B: Kolya’s work, master class on concealing shopping
 - 13853: 52 + horns from ram
 - 13859: after 58
+- 1385C: Kolya’s work, master class on concealing shopping
+- 1385D: 5C + pestle
 - 13865: after 69
 - 13892: after 90
 - 1389B: after 9A
@@ -926,7 +929,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 320
+Subtotal: 322
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -934,4 +937,4 @@ Subtotal: 320
 
 Subtotal: 2
 
-Total: 1142
+Total: 1145
