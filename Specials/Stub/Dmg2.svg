@@ -7,7 +7,7 @@
    viewBox="0 0 900 900"
    version="1.1"
    id="svg1"
-   sodipodi:docname="half.svg"
+   sodipodi:docname="Dmg2.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -40,8 +40,8 @@
        units="px"
        originx="0"
        originy="0"
-       spacingx="50"
-       spacingy="50"
+       spacingx="25"
+       spacingy="25"
        empcolor="#3f3fff"
        empopacity="0.25098039"
        color="#3f3fff"
@@ -49,6 +49,36 @@
        empspacing="5"
        enabled="true"
        visible="true" />
+    <sodipodi:guide
+       position="0,450"
+       orientation="0,-1"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="450,900"
+       orientation="1,0"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150,750"
+       orientation="1,0"
+       id="guide15"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="750,750"
+       orientation="1,0"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150,750"
+       orientation="0,-1"
+       id="guide17"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150,150"
+       orientation="0,-1"
+       id="guide18"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
@@ -100,5 +130,59 @@
        xlink:href="#path2"
        id="use7"
        transform="translate(0,400)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4"
+       id="use8"
+       transform="translate(400)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use9"
+       transform="translate(850,200)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use10"
+       transform="translate(850,400)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4"
+       id="use11"
+       transform="translate(0,-850)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4"
+       id="use12"
+       transform="translate(200,-850)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4"
+       id="use13"
+       transform="translate(400,-850)" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 900,0 H 800 v 50 h 50 v 50 h 50 z"
+       id="path13" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none"
+       id="rect18"
+       width="270"
+       height="270"
+       x="165"
+       y="465" />
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none"
+       id="rect19"
+       width="150"
+       height="150"
+       x="225"
+       y="525" />
   </g>
 </svg>
