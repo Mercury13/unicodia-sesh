@@ -586,6 +586,15 @@ def improveGlyph(glyph, cp, logBad):
     #glyph.removeOverlap()
     # Correct direction
     return isOk
+    
+def fixupY(glyph, checkCoord):
+    # Hang properly
+    [x1,y1,x2,y2] = glyph.boundingBox()
+    if checkCoord and (abs(y1) > 1):  # some tolerance permitted
+        raise Exception("Glyph does not lie on 0")
+    if y2 > V_THRESHOLD:
+        mat = psMat.translate(0, (V_THRESHOLD - y2)  / 2)
+        glyph.transform(mat)
 
 def fixSize(cp, glyph, svgHeight):
     mySize = glyphSize(cp)
@@ -609,11 +618,7 @@ def fixSize(cp, glyph, svgHeight):
         newHeight = myHeight * myWidth / actualWidth
         mat = psMat.scale(myWidth / actualWidth)
         glyph.transform(mat)
-    # Hang properly
-    [x1,y1,x2,y2] = glyph.boundingBox()
-    if y2 > V_THRESHOLD:
-        mat = psMat.translate(0, (V_THRESHOLD - y2)  / 2)
-        glyph.transform(mat)
+    fixupY(glyph, False)
 
 def loadGlyph(glyph, cp, fname, svgHeight, logBad):
     glyph.importOutlines(fname, scale=False, correctdir=True)
@@ -649,6 +654,72 @@ def checkLowPriority(fname):
     if os.path.exists(fname):
         log.write("WARN: {} exists!\n".format(fname))
 
+# Metrics for counting sticks
+STICK_STEP_HALF = 100
+STICK_STEP_FULL = STICK_STEP_HALF * 2
+STICK_2ND_FLOOR = 500
+NAME_STICK = "u133FA"
+
+# prerequisite: the glyph lies on Y=0
+# returns always True for convenience
+def fixupProgrammaticGlyph(glyph):
+    fixupY(glyph, True)
+    glyph.left_side_bearing = BEARING
+    glyph.right_side_bearing = BEARING
+    return True
+
+def addRefRow(glyph, refName, x0, y0, stepX, stepY, count):
+    for i in range(count):
+        x = i * stepX + x0
+        y = i * stepY + y0
+        matrix = psMat.translate(x, y)
+        glyph.addReference(refName, matrix)
+
+# creates a programmatic char: odd two-storey sticks
+# returns always True for convenience
+def createOddSticks(font, code, name, nLower):
+    glyph = newGlyph(font, code, name)
+    addRefRow(glyph, NAME_STICK, STICK_STEP_HALF, 0, STICK_STEP_FULL, 0, nLower)
+    addRefRow(glyph, NAME_STICK, 0, STICK_2ND_FLOOR, STICK_STEP_FULL, 0, nLower + 1)
+    return fixupProgrammaticGlyph(glyph)
+
+# creates a programmatic char: even two-storey sticks
+# returns always True for convenience
+def createEvenSticks(font, code, name, nHalf):
+    glyph = newGlyph(font, code, name)
+    addRefRow(glyph, NAME_STICK, 0, 0, STICK_STEP_FULL, 0, nHalf)
+    addRefRow(glyph, NAME_STICK, 0, STICK_2ND_FLOOR, STICK_STEP_FULL, 0, nHalf)
+    return fixupProgrammaticGlyph(glyph)
+
+# creates a programmatic char: even two-storey sticks
+# returns always True for convenience
+def createStickRow(font, code, name, count):
+    glyph = newGlyph(font, code, name)
+    addRefRow(glyph, NAME_STICK, 0, 0, STICK_STEP_FULL, 0, count)
+    return fixupProgrammaticGlyph(glyph)
+
+# Creates a programmatic char
+# Reasons:
+# • Counting marks: want consistent hinting of every mark, all inconsistencies in gaps
+def createProgrammaticChar(font, code):
+    if (code == 0x133FB):
+        return createStickRow(font, code, "Stick.2", 2)
+    elif (code == 0x133FC):
+        return createStickRow(font, code, "Stick.3", 3)
+    elif (code == 0x133FD):
+        return createStickRow(font, code, "Stick.4", 4)
+    elif (code == 0x133FE):
+        return createOddSticks(font, code, "Stick.5", 2)
+    elif (code == 0x133FF):
+        return createEvenSticks(font, code, "Stick.6", 3)
+    elif (code == 0x13400):
+        return createOddSticks(font, code, "Stick.7", 3)
+    elif (code == 0x13401):
+        return createEvenSticks(font, code, "Stick.8", 4)
+    elif (code == 0x13403):
+        return createStickRow(font, code, "Stick.5a", 5)
+    return False
+
 # import hieroglyphs
 def loadUnikemet():
     file = open('Unisesh.txt', 'r')
@@ -668,7 +739,9 @@ def loadUnikemet():
                         if (sOldCp != '') and not hasSeshGlyph:
                             sHex = sOldCp[2:]
                             code = int(sHex, base=16)
-                            if (isCpGood(code)):
+                            if createProgrammaticChar(font, code):
+                                pass  # do nothing, we created it programmatically
+                            elif (isCpGood(code)):
                                 extensionName = "svg-ex/{}.svg".format(sHex)
                                 svgName = "svg-my/{}.svg".format(sHex)
                                 if os.path.exists(svgName):
@@ -681,7 +754,9 @@ def loadUnikemet():
                     if sCommand == 'kEH_JSesh':
                         sHex = sCp[2:]
                         code = int(sHex, base=16)
-                        if (isCpGood(code)):
+                        if createProgrammaticChar(font, code):
+                            pass # do nothing, we created it programmatically
+                        elif (isCpGood(code)):
                             hasSeshGlyph = True
                             isKnownBadGlyph = (code in BAD_JSESH_KEYS) and (BAD_JSESH_HIEROS[code] == sValue)
                                   # both Unicode and fname, for troubleshooting
