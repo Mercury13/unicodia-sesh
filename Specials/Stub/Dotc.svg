@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Dotc.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.53386562"
+     inkscape:cx="557.25634"
+     inkscape:cy="516.04747"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     showgrid="true">
+    <sodipodi:guide
+       position="168.00626,1161.4392"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="500,500"
+       orientation="0,1"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="500,500"
+       orientation="-1,0"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="2161.4392,1161.4392"
+       orientation="-1,0"
+       id="guide8"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5"
+       id="path2"
+       cx="500"
+       cy="50"
+       r="50" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use9"
+       transform="translate(172.20754,34.25421)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use10"
+       transform="translate(318.19805,131.80195)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use11"
+       transform="translate(415.74579,277.79246)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use12"
+       transform="translate(450,450)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use13"
+       transform="translate(415.74578,622.20755)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use14"
+       transform="translate(318.19804,768.19805)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use15"
+       transform="translate(172.20753,865.74578)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use16"
+       transform="translate(-5e-6,899.99999)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use17"
+       transform="translate(-172.20755,865.74578)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use18"
+       transform="translate(-318.19805,768.19804)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use19"
+       transform="translate(-415.74578,622.20754)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use20"
+       transform="translate(-449.99999,450)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use21"
+       transform="translate(-415.74578,277.79246)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use22"
+       transform="translate(-318.19805,131.80196)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use23"
+       transform="translate(-172.20755,34.254224)" />
+  </g>
+</svg>
