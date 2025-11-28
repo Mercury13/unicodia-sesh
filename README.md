@@ -26,6 +26,8 @@ Software maturity index: **4 (beta)**. Usable but incomplete.
 
 📖 **Unique way of combining hieroglyphs and text.** Short hieroglyphs are aligned to baseline, tall ones go a bit down. Maybe it is not historically accurate, but surely saves space.
 
+🗳 **“Voting”.** This simple policy — if image and description contradict, NewGardiner decides — makes UnicodiaSesh a compromise between Unicode compliance and usability for specialists.
+
 # Stability policy
 
 The author does not provide any stability. Everything may change, including bearings, line height, character styles etc. For exact text layout, freeze the version.
