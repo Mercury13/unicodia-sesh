@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="tall.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.23779789"
+     inkscape:cx="611.86413"
+     inkscape:cy="843.15298"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="145.08119,1111.4392"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="138.27064,1111.4392"
+       orientation="1,0"
+       id="guide15"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2088.2706,1111.4392"
+       orientation="-1,0"
+       id="guide16"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="288.27064,1111.4392"
+       orientation="1,0"
+       id="guide17"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#000000;fill-rule:evenodd;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5"
+       d="M 66.01172,0 0,66.011719 v 21.21289 L 87.22461,0 Z m 150,0 L 0,216.01172 v 21.21289 L 237.22461,0 Z m 150,0 L 0,366.01172 v 21.21289 L 387.22461,0 Z M 500,16.011719 0,516.01172 v 21.21289 L 500,37.224609 Z m 0,150.000001 -500,500 v 21.21289 l 500,-500 z m 0,150 -500,500 v 21.21289 l 500,-500 z m 0,150 -500,500 v 21.21289 l 500,-500 z m 0,150 L 116.01172,1000 h 21.21289 L 500,637.22461 Z m 0,150 L 266.01172,1000 h 21.21289 L 500,787.22461 Z m 0,150 L 416.01172,1000 h 21.21289 L 500,937.22461 Z" />
+  </g>
+</svg>
