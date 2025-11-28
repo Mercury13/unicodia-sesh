@@ -658,7 +658,9 @@ def checkLowPriority(fname):
 STICK_STEP_HALF = 100
 STICK_STEP_FULL = STICK_STEP_HALF * 2
 STICK_2ND_FLOOR = 500
+STICK_2ND_STACK = 460 # Replicate fonts’ bhv: stacks closer than floors
 NAME_STICK = "u133FA"
+NAME_HSTICK = "u13404"
 
 # prerequisite: the glyph lies on Y=0
 # returns always True for convenience
@@ -683,42 +685,97 @@ def createOddSticks(font, code, name, nLower):
     addRefRow(glyph, NAME_STICK, 0, STICK_2ND_FLOOR, STICK_STEP_FULL, 0, nLower + 1)
     return fixupProgrammaticGlyph(glyph)
 
-# creates a programmatic char: even two-storey sticks
+# creates a programmatic char: odd two-storey horz sticks
 # returns always True for convenience
-def createEvenSticks(font, code, name, nHalf):
+def createOddHsticks(font, code, name, nLower):
     glyph = newGlyph(font, code, name)
-    addRefRow(glyph, NAME_STICK, 0, 0, STICK_STEP_FULL, 0, nHalf)
-    addRefRow(glyph, NAME_STICK, 0, STICK_2ND_FLOOR, STICK_STEP_FULL, 0, nHalf)
+    addRefRow(glyph, NAME_HSTICK, 0, 0, 0, STICK_STEP_FULL, nLower + 1)
+    addRefRow(glyph, NAME_HSTICK, STICK_2ND_STACK, STICK_STEP_HALF, 0, STICK_STEP_FULL, nLower)
     return fixupProgrammaticGlyph(glyph)
+
+# return always True for convenience
+def createRowChar(font, code, name, refName, stepX, stepY, count):
+    glyph = newGlyph(font, code, name)
+    addRefRow(glyph, refName, 0, 0, stepX, stepY, count)
+    return fixupProgrammaticGlyph(glyph)
+
+# return always True for convenience
+def createMatrixChar(font, code, name, refName, stepX, stepY, nx, ny):
+    glyph = newGlyph(font, code, name)
+    for i in range(ny):
+        y = i * stepY
+        addRefRow(glyph, refName, 0, y, stepX, 0, nx)
+    return fixupProgrammaticGlyph(glyph)
+
+# Creates matrix 3×3
+# return always True for convenience
+def createNineChar(font, code, name, refName, stepX, stepY):
+    return createMatrixChar(font, code, name, refName, stepX, stepY, 3, 3)
 
 # creates a programmatic char: even two-storey sticks
 # returns always True for convenience
+def createEvenSticks(font, code, name, nHalf):
+    return createMatrixChar(font, code, name, NAME_STICK, 
+            STICK_STEP_FULL, STICK_2ND_FLOOR, nHalf, 2)
+
+# creates a programmatic char: even two-storey sticks
+# returns always True for convenience
+def createEvenHsticks(font, code, name, nHalf):
+    return createMatrixChar(font, code, name, NAME_HSTICK, 
+            STICK_2ND_STACK, STICK_STEP_FULL, 2, nHalf)
+
+# creates a programmatic char: just a row of sticks
+# returns always True for convenience
 def createStickRow(font, code, name, count):
-    glyph = newGlyph(font, code, name)
-    addRefRow(glyph, NAME_STICK, 0, 0, STICK_STEP_FULL, 0, count)
-    return fixupProgrammaticGlyph(glyph)
+    return createRowChar(font, code, name, NAME_STICK, 
+            STICK_STEP_FULL, 0, count)
+
+# creates a programmatic char: row of horz even two-storey sticks
+# returns always True for convenience
+def createHstickCol(font, code, name, count):
+    return createRowChar(font, code, name, NAME_HSTICK, 
+            0, STICK_STEP_FULL, count)
 
 # Creates a programmatic char
 # Reasons:
 # • Counting marks: want consistent hinting of every mark, all inconsistencies in gaps
 def createProgrammaticChar(font, code):
-    if (code == 0x133FB):
-        return createStickRow(font, code, "Stick.2", 2)
-    elif (code == 0x133FC):
-        return createStickRow(font, code, "Stick.3", 3)
-    elif (code == 0x133FD):
-        return createStickRow(font, code, "Stick.4", 4)
-    elif (code == 0x133FE):
-        return createOddSticks(font, code, "Stick.5", 2)
-    elif (code == 0x133FF):
-        return createEvenSticks(font, code, "Stick.6", 3)
-    elif (code == 0x13400):
-        return createOddSticks(font, code, "Stick.7", 3)
-    elif (code == 0x13401):
-        return createEvenSticks(font, code, "Stick.8", 4)
-    elif (code == 0x13403):
-        return createStickRow(font, code, "Stick.5a", 5)
-    return False
+    match code:            
+        case 0x133FB:
+            return createStickRow(font, code, "Stick.2", 2)
+        case 0x133FC:
+            return createStickRow(font, code, "Stick.3", 3)
+        case 0x133FD:
+            return createStickRow(font, code, "Stick.4", 4)
+        case 0x133FE:
+            return createOddSticks(font, code, "Stick.5", 2)
+        case 0x133FF:
+            return createEvenSticks(font, code, "Stick.6", 3)
+        case 0x13400:
+            return createOddSticks(font, code, "Stick.7", 3)
+        case 0x13401:
+            return createEvenSticks(font, code, "Stick.8", 4)
+        case 0x13403:
+            return createStickRow(font, code, "Stick.5a", 5)
+        case 0x13405:
+            return createHstickCol(font, code, "Stick.2h", 2)
+        case 0x13406:
+            return createHstickCol(font, code, "Stick.3h", 3)
+        case 0x13407:
+            return createHstickCol(font, code, "Stick.4h", 4)
+        case 0x13408:
+            return createOddHsticks(font, code, "Stick.5h", 2)
+        case 0x13409:
+            return createEvenHsticks(font, code, "Stick.6h", 3)
+        case 0x1340A:
+            return createOddHsticks(font, code, "Stick.7h", 3)
+        case 0x1340B:
+            return createEvenHsticks(font, code, "Stick.8h", 3)
+        case 0x1340C:
+            return createNineChar(font, code, "Stick.9h", NAME_HSTICK,
+                        STICK_2ND_STACK, STICK_STEP_FULL)
+        case _:
+            return False
 
 # import hieroglyphs
 def loadUnikemet():

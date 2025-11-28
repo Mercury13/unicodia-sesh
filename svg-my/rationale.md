@@ -217,11 +217,13 @@ Subtotal: 268
 - 133D0: as a pair to JSesh’s X3
 - 133D6: consistency with other breads
 - 133D7: same
+- 133FA: vertical stick; the rest counting marks are programmatic
+- 13404: horizontal stick; the rest counting marks are programmatic
 - 13413: from scratch
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 175
+Subtotal: 177
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -931,4 +933,4 @@ Subtotal: 319
 
 Subtotal: 2
 
-Total: 1139
+Total: 1141
