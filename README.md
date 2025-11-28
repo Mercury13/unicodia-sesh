@@ -8,7 +8,7 @@ In my humble software called Unicodia, it was just a “gag font” for Egyptian
 
 The font is semi-free, see license. Well, that’s the really old man at JSesh.
 
-Software maturity index: **4 (beta)**. Usable but incomplete.
+Software maturity index: **5 (production/stable)**. With coverage of the main block (13000), it is usable for general audience now.
 
 # What makes UnicodiaSesh so special?
 
