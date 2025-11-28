@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1727638123
-ModificationTime: 1764280513
+ModificationTime: 1764323860
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,10 +53,9 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 0 33 14
-OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 3 3
+BeginChars: 4 4
 
 StartChar: space
 Encoding: 0 32 0
@@ -77,6 +76,31 @@ Encoding: 2 78914 2
 Width: 600
 Flags: W
 LayerCount: 2
+EndChar
+
+StartChar: Part.Stick.9
+Encoding: 3 -1 3
+Width: 100
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 290 m 1
+ 60 290 l 1
+ 60 0 l 1
+ 0 0 l 1
+ 0 290 l 1
+0 645 m 1
+ 60 645 l 1
+ 60 355 l 1
+ 0 355 l 1
+ 0 645 l 1
+0 1000 m 1
+ 60 1000 l 1
+ 60 710 l 1
+ 0 710 l 1
+ 0 1000 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

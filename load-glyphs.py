@@ -755,6 +755,9 @@ def createProgrammaticChar(font, code):
             return createOddSticks(font, code, "Stick.7", 3)
         case 0x13401:
             return createEvenSticks(font, code, "Stick.8", 4)
+        case 0x13402:  # 9 is a special case: lay rows as you want, but columns must be identical
+            return createRowChar(font, code, "Stick.9", "Part.Stick.9",
+                        STICK_STEP_FULL, 0, 3)
         case 0x13403:
             return createStickRow(font, code, "Stick.5a", 5)
         case 0x13405:
