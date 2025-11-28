@@ -28,6 +28,12 @@ Software maturity index: **5 (production/stable)**. With coverage of the main bl
 
 🗳 **“Voting”.** This simple policy — if image and description contradict, NewGardiner decides — makes UnicodiaSesh a compromise between Unicode compliance and usability for specialists.
 
+# FAQ
+
+**Why are lost signs put this way?**
+
+Because short hieroglyphs are put this way. Lost signs — surprise — are just totally unreadable hieroglyphs.
+
 # Stability policy
 
 The author does not provide any stability. Everything may change, including bearings, line height, character styles etc. For exact text layout, freeze the version.
