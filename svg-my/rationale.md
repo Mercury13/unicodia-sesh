@@ -787,7 +787,9 @@ Subtotal: 376
 - 138FE: JSesh C204 + strip of land
 - 13900: after 01
 - 13914: Kolya’s work
+- 13922: Kolya’s work
 - 13925: after nearby (23?)
+- 13928: Kolya’s work
 - 13926: same
 - 1392D: after some woman’s head+arms
 - 13933: after 32
@@ -930,7 +932,7 @@ Subtotal: 376
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 323
+Subtotal: 325
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -938,4 +940,4 @@ Subtotal: 323
 
 Subtotal: 2
 
-Total: 1146
+Total: 1148
