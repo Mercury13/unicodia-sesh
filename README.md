@@ -12,7 +12,7 @@ Software maturity index: **5 (production/stable)**. With coverage of the main bl
 
 # What makes UnicodiaSesh so special?
 
-☂️ **Coverage.** The initial version covered 2930/3995 of block A. At the time of writing, it covered 3320 characters from block A, and the main block was steadily marching to 1072/1072.
+☂️ **Coverage.** The initial version covered 2930/3995 of block A. When I finished the main block, the coverage of A was 3349/3995.
 
 🤖 **Synergy of automation and handwork.** The font started as an automatic script that worked around FontForge’s bugs, but lots of handwork made it usable outside Unicodia.
 
