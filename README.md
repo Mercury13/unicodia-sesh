@@ -14,7 +14,7 @@ Software maturity index: **5 (production/stable)**. With coverage of the main bl
 
 ☂️ **Coverage.** The initial version covered 2930/3995 of block A. When I finished the main block, the coverage of A was 3349/3995.
 
-🤖 **Synergy of automation and handwork.** The font started as an automatic script that worked around FontForge’s bugs, but lots of handwork made it usable outside Unicodia.
+🤖 **Synergy of automation and handwork.** The font started as an automatic script that worked around FontForge’s bugs, but lots of handwork made it usable outside Unicodia. Everything is checked, and you wouldn’t find Ptah with curved beard — long before Rosmorduc did this in JSesh.
 
 👥 **Consistency.** It was not the strength of JSesh. One example: all open booths O22 now have the same style.
 
