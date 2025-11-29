@@ -269,7 +269,6 @@ Subtotal: 177
 - 13659: beard god → king
 - 1365A: beard ambiguous → king
 - 1365B: beard king → god
-- 1365C: beard god → king
 - 1365D: beard king → god
 - 1365E: beard king → god
 - 1365F: beard king → god
@@ -325,8 +324,8 @@ Subtotal: 177
 - 13755: short hair
 - 13756: short hair
 - 13757: short hair
-- 13759: short hair: ONE HUNDRED
-- 1375A: short hair
+- 13759: short hair
+- 1375A: short hair: ONE HUNDRED
 - 1375B: short hair
 - 1375C: short hair
 - 13766: vertical ankh
@@ -425,8 +424,8 @@ Subtotal: 177
 - 13C19: white neck
 - 13C1C: white neck
 - 13C1F: wrong direction
-- 13C20: same: TWO HUNDRED
-- 13C28: white neck
+- 13C20: same
+- 13C28: white neck: TWO HUNDRED
 - 13C2B: white curvier neck
 - 13C51: egret has two feathers
 - 13C52: same + fixed intersection at claw/base
@@ -525,8 +524,8 @@ Subtotal: 177
 - 1405C: greatly simplified, removed touching curves, solid canal
 - 1405D: most curves to lines, simplified Re, removed one rope
 - 1406A: removed cow on the bow
-- 14075: removed cow on the bow: THREE HUNDRED
-- 14094: really other thing
+- 14075: removed cow on the bow
+- 14094: really other thing: THREE HUNDRED
 - 140A8: more details
 - 140BF: bull → bubalis
 - 140FC: removed PLACEHOLDERS
@@ -603,7 +602,7 @@ Subtotal: 177
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 376
+Subtotal: 375
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -720,6 +719,8 @@ Subtotal: 376
 - 13654: seat-covered #2
 - 13656: seat-covered #2, after 58
 - 13657: seat-covered #2
+- 13660: assembled from some random hieros, incl. extended A40?
+- 13661: 5F + my bold scarab
 - 136D2: 13478×2
 - 136DE: after DD
 - 1366F: franken
@@ -777,6 +778,9 @@ Subtotal: 376
 - 1385C: Kolya’s work, master class on concealing shopping
 - 1385D: 5C + pestle
 - 13860: Kolya’s work with minimal fixes
+- 13861: Kolya’s work with minimal fixes
+- 13862: Kolya’s work with minimal fixes
+- 13863: Kolya’s work with minimal fixes
 - 13862: more modern that Kolya’s
 - 13865: after 69
 - 13892: after 90
@@ -934,7 +938,7 @@ Subtotal: 376
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 327
+Subtotal: 332
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -942,4 +946,4 @@ Subtotal: 327
 
 Subtotal: 2
 
-Total: 1150
+Total: 1154
