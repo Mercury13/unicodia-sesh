@@ -301,6 +301,7 @@ GLYPH_SIZES = {
     0x133EF: SMALL,  # backslash
     0x133F2: SMALL,  # spiral
     0x133F3: TINY,  # oval
+    0x133F7: MEDIUM,  # reverse F
     0x133F9: TINY,  # backslash stroke
     # Aa: misc
     0x1340D: MEDIUM,  # some circle
