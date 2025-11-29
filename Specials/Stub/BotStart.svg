@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 900 900"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="BotStart.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.672594"
+     inkscape:cx="262.41685"
+     inkscape:cy="583.56155"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="25"
+       spacingy="25"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="0,450"
+       orientation="0,-1"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="450,900"
+       orientation="1,0"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150,750"
+       orientation="1,0"
+       id="guide15"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="750,750"
+       orientation="1,0"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150,750"
+       orientation="0,-1"
+       id="guide17"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150,150"
+       orientation="0,-1"
+       id="guide18"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,0 V 100 H 50 V 50 h 50 V 0 Z"
+       id="path1" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,200 V 300 H 50 V 200 Z"
+       id="path2" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use2"
+       transform="translate(0,200)" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,900 H 100 V 850 H 50 V 800 H 0 Z"
+       id="path3" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200,850 v 50 h 100 v -50 z"
+       id="path4" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4"
+       id="use4"
+       transform="translate(200)" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 900,900 V 800 h -50 v 50 h -50 v 50 z"
+       id="path5" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use6"
+       transform="translate(850)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use7"
+       transform="translate(0,400)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4"
+       id="use8"
+       transform="translate(400)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use9"
+       transform="translate(850,200)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path2"
+       id="use10"
+       transform="translate(850,400)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4"
+       id="use11"
+       transform="translate(0,-850)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4"
+       id="use12"
+       transform="translate(200,-850)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4"
+       id="use13"
+       transform="translate(400,-850)" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 900,0 H 800 v 50 h 50 v 50 h 50 z"
+       id="path13" />
+    <path
+       id="rect16"
+       style="fill-rule:evenodd;stroke-width:60;stroke-linecap:round;stroke-miterlimit:5"
+       d="M 150,750 H 350 V 550 H 150 Z M 750,150 V 750 H 550 V 350 H 150 V 150 Z" />
+  </g>
+</svg>
