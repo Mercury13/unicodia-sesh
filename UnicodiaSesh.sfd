@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1727638123
-ModificationTime: 1764370532
+ModificationTime: 1764374173
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -44,8 +44,18 @@ OS2CapHeight: 714
 OS2XHeight: 536
 OS2Vendor: 'PfEd'
 OS2UnicodeRanges: 00000000.02000000.00000000.00000000
+Lookup: 1 0 0 "Dmg dotc table" { "Dotc"  } []
+Lookup: 5 8 0 "Dmg ctx" { "Dotc1"  } ['rclt' ('DFLT' <'dflt' > 'egyp' <'dflt' > ) ]
+Lookup: 260 0 0 "Egyp centre mark" { "Egyp centre mark-1"  } ['mark' ('DFLT' <'dflt' > 'egyp' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ContextSub2: coverage "Dotc1" 0 0 0 1
+ 2 0 0
+  Coverage: 9 Stub.Dotc
+  Coverage: 179 Stub.Dmg.01 Stub.Dmg.02 Stub.Dmg.03 Stub.Dmg.04 Stub.Dmg.05 Stub.Dmg.06 Stub.Dmg.07 Stub.Dmg.08 Stub.Dmg.09 Stub.Dmg.10 Stub.Dmg.11 Stub.Dmg.12 Stub.Dmg.13 Stub.Dmg.14 Stub.Dmg.15
+ 1
+  SeqLookup: 1 "Dmg dotc table"
+EndFPST
 GaspTable: 1 65535 15 1
 Encoding: Custom
 UnicodeInterp: none
@@ -56,7 +66,8 @@ FitToEm: 0
 WinInfo: 0 33 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 24 24
+AnchorClass2: "Centre" "Egyp centre mark-1"
+BeginChars: 39 39
 
 StartChar: space
 Encoding: 0 32 0
@@ -316,6 +327,7 @@ Encoding: 8 9676 8
 Width: 1100
 VWidth: 1100
 Flags: HW
+AnchorPoint: "Centre" 550 400 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -514,6 +526,7 @@ SplineSet
  425 475 l 1
  275 475 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.01
 EndChar
 
 StartChar: Stub.Dmg.02
@@ -628,6 +641,7 @@ SplineSet
  425 175 l 1
  275 175 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.02
 EndChar
 
 StartChar: Stub.Dmg.03
@@ -742,6 +756,7 @@ SplineSet
  425 175 l 1
  275 175 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.03
 EndChar
 
 StartChar: Stub.Dmg.04
@@ -856,6 +871,7 @@ SplineSet
  725 475 l 1
  575 475 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.04
 EndChar
 
 StartChar: Stub.Dmg.05
@@ -970,6 +986,7 @@ SplineSet
  725 475 l 1
  275 475 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.05
 EndChar
 
 StartChar: Stub.Dmg.06
@@ -1100,6 +1117,7 @@ SplineSet
  500 100 l 1
  200 100 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.06
 EndChar
 
 StartChar: Stub.Dmg.07
@@ -1220,6 +1238,7 @@ SplineSet
  275 175 l 1
  275 625 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.07
 EndChar
 
 StartChar: Stub.Dmg.08
@@ -1334,6 +1353,7 @@ SplineSet
  725 175 l 1
  575 175 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.08
 EndChar
 
 StartChar: Stub.Dmg.09
@@ -1464,6 +1484,7 @@ SplineSet
  475 400 l 1
  200 400 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.09
 EndChar
 
 StartChar: Stub.Dmg.10
@@ -1578,6 +1599,7 @@ SplineSet
  725 175 l 1
  275 175 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.10
 EndChar
 
 StartChar: Stub.Dmg.11
@@ -1698,6 +1720,7 @@ SplineSet
  275 175 l 1
  275 625 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.11
 EndChar
 
 StartChar: Stub.Dmg.12
@@ -1812,6 +1835,7 @@ SplineSet
  725 175 l 1
  575 175 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.12
 EndChar
 
 StartChar: Stub.Dmg.13
@@ -1932,6 +1956,7 @@ SplineSet
  275 475 l 1
  275 625 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.13
 EndChar
 
 StartChar: Stub.Dmg.14
@@ -2052,6 +2077,7 @@ SplineSet
  575 625 l 1
  725 625 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.14
 EndChar
 
 StartChar: Stub.Dmg.15
@@ -2166,6 +2192,326 @@ SplineSet
  725 175 l 1
  275 175 l 1
 EndSplineSet
+Substitution2: "Dotc" Dmg.Dotc.15
+EndChar
+
+StartChar: Dmg.Dotc.01
+Encoding: 24 -1 24
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Centre" -525 400 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-941.970703125 925 m 1
+ -908.029296875 925 l 1
+ -1050 783.029296875 l 1
+ -1050 816.970703125 l 1
+ -941.970703125 925 l 1
+-741.970703125 925 m 1
+ -708.029296875 925 l 1
+ -1050 583.029296875 l 1
+ -1050 616.970703125 l 1
+ -741.970703125 925 l 1
+-541.970703125 925 m 1
+ -525 925 l 1
+ -525 908.029296875 l 1
+ -1033.03125 400 l 1
+ -1050 400 l 1
+ -1050 416.970703125 l 1
+ -541.970703125 925 l 1
+-525 741.970703125 m 1
+ -525 708.029296875 l 1
+ -833.03125 400 l 1
+ -866.970703125 400 l 1
+ -525 741.970703125 l 1
+-525 541.970703125 m 1
+ -525 508.029296875 l 1
+ -633.029296875 400 l 1
+ -666.970703125 400 l 1
+ -525 541.970703125 l 1
+EndSplineSet
+EndChar
+
+StartChar: Dmg.Dotc.02
+Encoding: 25 -1 25
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Centre" -525 400 mark 0
+LayerCount: 2
+Fore
+Refer: 24 -1 N 1 0 0 1 0 -525 2
+EndChar
+
+StartChar: Dmg.Dotc.03
+Encoding: 26 -1 26
+Width: 0
+VWidth: 1225
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Centre" -525 400 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-978.873046875 925 m 1
+ -944.931640625 925 l 1
+ -1050 819.931640625 l 1
+ -1050 853.873046875 l 1
+ -978.873046875 925 l 1
+-778.873046875 925 m 1
+ -744.931640625 925 l 1
+ -1050 619.931640625 l 1
+ -1050 653.873046875 l 1
+ -778.873046875 925 l 1
+-578.873046875 925 m 1
+ -544.931640625 925 l 1
+ -1050 419.93359375 l 1
+ -1050 453.873046875 l 1
+ -578.873046875 925 l 1
+-525 778.873046875 m 1
+ -525 744.931640625 l 1
+ -1050 219.93359375 l 1
+ -1050 253.873046875 l 1
+ -525 778.873046875 l 1
+-525 578.873046875 m 1
+ -525 544.931640625 l 1
+ -1050 19.93359375 l 1
+ -1050 53.873046875 l 1
+ -525 578.873046875 l 1
+-525 378.873046875 m 1
+ -525 344.931640625 l 1
+ -994.93359375 -125 l 1
+ -1028.87304688 -125 l 1
+ -525 378.873046875 l 1
+-525 178.873046875 m 1
+ -525 144.93359375 l 1
+ -794.93359375 -125 l 1
+ -828.873046875 -125 l 1
+ -525 178.873046875 l 1
+-525 -21.126953125 m 1
+ -525 -55.06640625 l 1
+ -594.93359375 -125 l 1
+ -628.873046875 -125 l 1
+ -525 -21.126953125 l 1
+EndSplineSet
+EndChar
+
+StartChar: Dmg.Dotc.04
+Encoding: 27 -1 27
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Centre" -525 400 mark 0
+LayerCount: 2
+Fore
+Refer: 24 -1 N 1 0 0 1 525 0 2
+EndChar
+
+StartChar: Dmg.Dotc.05
+Encoding: 28 -1 28
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Centre" -525 400 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 471.126953125 m 1
+ -71.126953125 400 l 1
+ -105.068359375 400 l 1
+ 0 505.068359375 l 1
+ 0 471.126953125 l 1
+0 671.126953125 m 1
+ -271.126953125 400 l 1
+ -305.068359375 400 l 1
+ 0 705.068359375 l 1
+ 0 671.126953125 l 1
+0 871.126953125 m 1
+ -471.126953125 400 l 1
+ -505.06640625 400 l 1
+ 0 905.068359375 l 1
+ 0 871.126953125 l 1
+-146.126953125 925 m 1
+ -671.126953125 400 l 1
+ -705.06640625 400 l 1
+ -180.068359375 925 l 1
+ -146.126953125 925 l 1
+-346.126953125 925 m 1
+ -871.126953125 400 l 1
+ -905.06640625 400 l 1
+ -380.068359375 925 l 1
+ -346.126953125 925 l 1
+-546.126953125 925 m 1
+ -1050 421.126953125 l 1
+ -1050 455.06640625 l 1
+ -580.068359375 925 l 1
+ -546.126953125 925 l 1
+-746.126953125 925 m 1
+ -1050 621.126953125 l 1
+ -1050 655.06640625 l 1
+ -780.06640625 925 l 1
+ -746.126953125 925 l 1
+-946.126953125 925 m 1
+ -1050 821.126953125 l 1
+ -1050 855.06640625 l 1
+ -980.06640625 925 l 1
+ -946.126953125 925 l 1
+EndSplineSet
+EndChar
+
+StartChar: Dmg.Dotc.08
+Encoding: 31 -1 29
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Centre" -525 400 mark 0
+LayerCount: 2
+Fore
+Refer: 24 -1 N 1 0 0 1 525 -525 2
+EndChar
+
+StartChar: Dmg.Dotc.10
+Encoding: 33 -1 30
+Width: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Centre" -525 400 mark 0
+LayerCount: 2
+Fore
+Refer: 28 -1 S 1 0 0 1 0 -525 2
+EndChar
+
+StartChar: Dmg.Dotc.11
+Encoding: 34 -1 31
+Width: 0
+VWidth: 1225
+GlyphClass: 4
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: Dmg.Dotc.12
+Encoding: 35 -1 32
+Width: 0
+VWidth: 1225
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Centre" -525 400 mark 0
+LayerCount: 2
+Fore
+Refer: 26 -1 N 1 0 0 1 525 0 2
+EndChar
+
+StartChar: Dmg.Dotc.15
+Encoding: 38 -1 33
+Width: 0
+VWidth: 1600
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Centre" -525 400 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-1016.97070312 925 m 1
+ -983.029296875 925 l 1
+ -1050 858.029296875 l 1
+ -1050 891.970703125 l 1
+ -1016.97070312 925 l 1
+-816.970703125 925 m 1
+ -783.029296875 925 l 1
+ -1050 658.029296875 l 1
+ -1050 691.970703125 l 1
+ -816.970703125 925 l 1
+-616.970703125 925 m 1
+ -583.029296875 925 l 1
+ -1050 458.029296875 l 1
+ -1050 491.970703125 l 1
+ -616.970703125 925 l 1
+-416.970703125 925 m 1
+ -383.029296875 925 l 1
+ -1050 258.03125 l 1
+ -1050 291.970703125 l 1
+ -416.970703125 925 l 1
+-216.970703125 925 m 1
+ -183.029296875 925 l 1
+ -1050 58.03125 l 1
+ -1050 91.970703125 l 1
+ -216.970703125 925 l 1
+-16.970703125 925 m 1
+ 0 925 l 1
+ 0 908.029296875 l 1
+ -1033.03125 -125 l 1
+ -1050 -125 l 1
+ -1050 -108.029296875 l 1
+ -16.970703125 925 l 1
+0 741.970703125 m 1
+ 0 708.029296875 l 1
+ -833.03125 -125 l 1
+ -866.970703125 -125 l 1
+ 0 741.970703125 l 1
+0 541.970703125 m 1
+ 0 508.029296875 l 1
+ -633.03125 -125 l 1
+ -666.970703125 -125 l 1
+ 0 541.970703125 l 1
+0 341.970703125 m 1
+ 0 308.03125 l 1
+ -433.03125 -125 l 1
+ -466.970703125 -125 l 1
+ 0 341.970703125 l 1
+0 141.970703125 m 1
+ 0 108.03125 l 1
+ -233.03125 -125 l 1
+ -266.970703125 -125 l 1
+ 0 141.970703125 l 1
+0 -58.029296875 m 1
+ 0 -91.96875 l 1
+ -33.03125 -125 l 1
+ -66.970703125 -125 l 1
+ 0 -58.029296875 l 1
+EndSplineSet
+EndChar
+
+StartChar: Dmg.Dotc.06
+Encoding: 29 -1 34
+Width: 0
+GlyphClass: 4
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Dmg.Dotc.07
+Encoding: 30 -1 35
+Width: 0
+GlyphClass: 4
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: Dmg.Dotc.09
+Encoding: 32 -1 36
+Width: 0
+GlyphClass: 4
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: Dmg.Dotc.13
+Encoding: 36 -1 37
+Width: 0
+GlyphClass: 4
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: Dmg.Dotc.14
+Encoding: 37 -1 38
+Width: 0
+GlyphClass: 4
+Flags: HW
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
