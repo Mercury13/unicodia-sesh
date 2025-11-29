@@ -929,11 +929,12 @@ Subtotal: 376
 - 142F0: after F1
 - 142FE: after FD
 - 1432A: after 2B/2C
+- 1439B: 1439A + broken
 - 143C4: after C3
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 326
+Subtotal: 327
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -941,4 +942,4 @@ Subtotal: 326
 
 Subtotal: 2
 
-Total: 1149
+Total: 1150
