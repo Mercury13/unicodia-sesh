@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.23779789"
-     inkscape:cx="376.37003"
-     inkscape:cy="910.43701"
+     inkscape:cx="813.71622"
+     inkscape:cy="670.73766"
      inkscape:window-width="1680"
      inkscape:window-height="998"
      inkscape:window-x="-8"
@@ -40,10 +40,12 @@
        id="guide1"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="161.4392,1161.4392"
-       orientation="1,0"
+       position="261.4392,1161.4392"
+       orientation="-1,0"
        id="guide15"
-       inkscape:locked="false" />
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
        position="-1120.6153,525"
        orientation="0,1"
@@ -59,26 +61,14 @@
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="368.00626,1161.4392"
-       orientation="1,0"
-       id="guide5"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="0,1050"
        orientation="0,-1"
        id="guide6"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="50,1050"
+       position="2261.4392,1161.4392"
        orientation="-1,0"
-       id="guide7"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="2161.4392,1161.4392"
-       orientation="-1,0"
-       id="guide8"
+       id="guide2"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
@@ -90,8 +80,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 161.4392,-111.4392 -1120.1113,1170.1112"
+       style="fill:none;stroke:#000000;stroke-width:26;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 261.4392,-111.4392 -1020.1113,1170.1112"
        id="path1"
        sodipodi:nodetypes="cc" />
     <use
