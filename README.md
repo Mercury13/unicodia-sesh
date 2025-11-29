@@ -43,8 +43,8 @@ The author does not provide any stability. Everything may change, including bear
 - The first working version. ☂️ ≈2930/3995 ✅ autumn 2024
 - Phase 1. Together with NewGardiner, 100% coverage. ☂️ ≈2950/3995 ✅ May 2025
 - Phase 2. Check all glyphs, maturity 3. ☂️ ≈3200/3995 ✅ September 2025
-- **Phase 3.** Cover main block, maturity 5. Done, just wait for release
-- Mini-task 3a. Create stubs of special characters. 🗓 December 2025 / January 2026
+- Phase 3. Cover main block, maturity 5. Done, just wait for release
+- **Mini-task 3a.** Create stubs of special characters. Done, just wait for release
 - Mini-task 3b. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
 - ??? Phase out ``manual`` directory used for quick fixes
