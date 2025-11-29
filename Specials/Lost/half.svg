@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.336297"
-     inkscape:cx="63.931584"
-     inkscape:cy="477.25671"
+     inkscape:zoom="0.47559578"
+     inkscape:cx="125.10624"
+     inkscape:cy="549.83667"
      inkscape:window-width="1680"
      inkscape:window-height="998"
      inkscape:window-x="-8"
@@ -65,9 +65,19 @@
        id="guide6"
        inkscape:locked="false" />
     <sodipodi:guide
+       position="1050,1050"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="525,525"
+       orientation="0.70710678,-0.70710678"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
        position="2161.4392,1161.4392"
        orientation="-1,0"
-       id="guide2"
+       id="guide11"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
@@ -81,6 +91,6 @@
     <path
        id="use11"
        style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
-       d="M 96.714844 525 L 0 621.71484 L 0 678.28516 L 153.28516 525 L 96.714844 525 z M 296.71484 525 L 0 821.71484 L 0 878.28516 L 353.28516 525 L 296.71484 525 z M 496.71484 525 L 0 1021.7148 L 0 1050 L 28.285156 1050 L 525 553.28516 L 525 525 L 496.71484 525 z M 525 696.71484 L 171.71484 1050 L 228.28516 1050 L 525 753.28516 L 525 696.71484 z M 525 896.71484 L 371.71484 1050 L 428.28516 1050 L 525 953.28516 L 525 896.71484 z " />
+       d="M 93.179688 525 L 0 618.17969 L 0 681.82031 L 156.82031 525 L 93.179688 525 z M 293.17969 525 L 0 818.17969 L 0 881.82031 L 356.82031 525 L 293.17969 525 z M 493.17969 525 L 0 1018.1797 L 0 1050 L 31.820312 1050 L 525 556.82031 L 525 525 L 493.17969 525 z M 525 693.17969 L 168.17969 1050 L 231.82031 1050 L 525 756.82031 L 525 693.17969 z M 525 893.17969 L 368.17969 1050 L 431.82031 1050 L 525 956.82031 L 525 893.17969 z " />
   </g>
 </svg>

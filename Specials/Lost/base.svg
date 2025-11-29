@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.336297"
-     inkscape:cx="63.931584"
-     inkscape:cy="477.25671"
+     inkscape:cx="994.65651"
+     inkscape:cy="349.39354"
      inkscape:window-width="1680"
      inkscape:window-height="998"
      inkscape:window-x="-8"
@@ -66,9 +66,19 @@
        id="guide6"
        inkscape:locked="false" />
     <sodipodi:guide
+       position="1050,1050"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="525,525"
+       orientation="0.70710678,-0.70710678"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
        position="2161.4392,1161.4392"
        orientation="-1,0"
-       id="guide2"
+       id="guide11"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
@@ -80,8 +90,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 161.4392,-111.4392 -1120.1113,1170.1112"
+       style="fill:none;stroke:#000000;stroke-width:45;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 161.4392,-111.4392 -1120.1115,1170.1112"
        id="path1"
        sodipodi:nodetypes="cc" />
     <use
@@ -89,19 +99,19 @@
        y="0"
        xlink:href="#path1"
        id="use1"
-       transform="translate(1600)" />
+       transform="translate(1600.0001)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use2"
-       transform="translate(1400)" />
+       transform="translate(1400.0001)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use3"
-       transform="translate(1200)" />
+       transform="translate(1200.0001)" />
     <use
        x="0"
        y="0"
@@ -113,36 +123,36 @@
        y="0"
        xlink:href="#path1"
        id="use5"
-       transform="translate(800)" />
+       transform="translate(800.00006)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use6"
-       transform="translate(600)" />
+       transform="translate(600.00006)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use7"
-       transform="translate(400)" />
+       transform="translate(400.00006)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use8"
-       transform="translate(200)" />
+       transform="translate(200.00006)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use9"
-       transform="translate(1800)" />
+       transform="translate(1800.0001)" />
     <use
        x="0"
        y="0"
        xlink:href="#path1"
        id="use11"
-       transform="translate(2000)" />
+       transform="translate(2000.0001)" />
   </g>
 </svg>
