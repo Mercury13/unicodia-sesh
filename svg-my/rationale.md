@@ -777,6 +777,7 @@ Subtotal: 376
 - 1385C: Kolya’s work, master class on concealing shopping
 - 1385D: 5C + pestle
 - 13860: Kolya’s work with minimal fixes
+- 13862: more modern that Kolya’s
 - 13865: after 69
 - 13892: after 90
 - 1389B: after 9A
@@ -932,7 +933,7 @@ Subtotal: 376
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 325
+Subtotal: 326
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -940,4 +941,4 @@ Subtotal: 325
 
 Subtotal: 2
 
-Total: 1148
+Total: 1149
