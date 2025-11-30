@@ -49,7 +49,7 @@ The author does not provide any stability. Everything may change, including bear
 * Other men may have any beard except god’s unless specified
 * Described but really small detail (ankh in the hand…) = thing of lower importance, fix if the hiero was touched for another reason.
 * The difference between duck and goose is ephemeral, no efforts to make them distinct. However, their necks are light.
-* If the hieroglyph is not extensively disunified, any image is suitable.
+* If the hieroglyph is not extensively disunified, any confirmed image is suitable.
 
 # Roadmap
 
