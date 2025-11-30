@@ -528,7 +528,6 @@ Subtotal: 178
 - 14075: removed cow on the bow
 - 14094: really other thing: THREE HUNDRED
 - 140A8: more details
-- 140BF: bull → bubalis
 - 140FC: removed PLACEHOLDERS
 - 14137: no sun
 - 14138: no sun
@@ -603,7 +602,7 @@ Subtotal: 178
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 375
+Subtotal: 374
 
 # Duped with NewGardiner
 - 13007: basic, after 08
