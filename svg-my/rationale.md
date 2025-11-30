@@ -314,6 +314,7 @@ Subtotal: 178
 - 136D3: beard ?→gods
 - 136E7: slanted ankh
 - 136F4: more traditional woman
+- 13724: possible intersections, exaggerated ankh
 - 13737: pregnant
 - 13738: same
 - 13739: same
@@ -325,8 +326,8 @@ Subtotal: 178
 - 13755: short hair
 - 13756: short hair
 - 13757: short hair
-- 13759: short hair
-- 1375A: short hair: ONE HUNDRED
+- 13759: short hair: ONE HUNDRED
+- 1375A: short hair
 - 1375B: short hair
 - 1375C: short hair
 - 13766: vertical ankh
@@ -425,8 +426,8 @@ Subtotal: 178
 - 13C19: white neck
 - 13C1C: white neck
 - 13C1F: wrong direction
-- 13C20: same
-- 13C28: white neck: TWO HUNDRED
+- 13C20: same: TWO HUNDRED
+- 13C28: white neck
 - 13C2B: white curvier neck
 - 13C51: egret has two feathers
 - 13C52: same + fixed intersection at claw/base
@@ -525,8 +526,8 @@ Subtotal: 178
 - 1405C: greatly simplified, removed touching curves, solid canal
 - 1405D: most curves to lines, simplified Re, removed one rope
 - 1406A: removed cow on the bow
-- 14075: removed cow on the bow
-- 14094: really other thing: THREE HUNDRED
+- 14075: removed cow on the bow: THREE HUNDRED
+- 14094: really other thing
 - 140A8: more details
 - 140FC: removed PLACEHOLDERS
 - 14137: no sun
@@ -602,7 +603,7 @@ Subtotal: 178
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 374
+Subtotal: 375
 
 # Duped with NewGardiner
 - 13007: basic, after 08
