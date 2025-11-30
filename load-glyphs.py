@@ -587,14 +587,27 @@ def improveGlyph(glyph, cp, logBad):
     #glyph.removeOverlap()
     # Correct direction
     return isOk
+
+NO_NOMINAL_HEIGHT = 99999
     
-def fixupY(glyph, checkCoord):
+def fixupY(glyph, nominalHeight, checkCoord):
     # Hang properly
     [x1,y1,x2,y2] = glyph.boundingBox()
     if checkCoord and (abs(y1) > 1):  # some tolerance permitted
         raise Exception("Glyph does not lie on 0")
-    if y2 > V_THRESHOLD:
-        mat = psMat.translate(0, (V_THRESHOLD - y2)  / 2)
+    # default 
+    actualHeight = y2 - y1
+    actualY = y1
+    # Taller than nominal → fixup actual dimensions
+    if actualHeight > nominalHeight:
+        actualY = max(0, y1)
+        actualHeight = nominalHeight - actualY
+    if actualHeight > V_THRESHOLD:
+        wantedY = (V_THRESHOLD - actualHeight) / 2
+        mat = psMat.translate(0, wantedY - actualY)
+        glyph.transform(mat)
+    elif actualY > 0:
+        mat = psMat.translate(0, - actualY)
         glyph.transform(mat)
 
 def fixSize(cp, glyph, svgHeight):
@@ -615,11 +628,12 @@ def fixSize(cp, glyph, svgHeight):
     if (actualWidth < 220) and (actualHeight < 220):
         log.write("{} is really small\n".format(
                 glyph.glyphname))
+    nominalHeight = svgHeight
     if actualWidth > myWidth:
-        newHeight = myHeight * myWidth / actualWidth
-        mat = psMat.scale(myWidth / actualWidth)
+        scale = myWidth / actualWidth
+        mat = psMat.scale(scale)
         glyph.transform(mat)
-    fixupY(glyph, False)
+    fixupY(glyph, myHeight, False)
 
 def loadGlyph(glyph, cp, fname, svgHeight, logBad):
     glyph.importOutlines(fname, scale=False, correctdir=True)
@@ -666,7 +680,7 @@ NAME_HSTICK = "u13404"
 # prerequisite: the glyph lies on Y=0
 # returns always True for convenience
 def fixupProgrammaticGlyph(glyph):
-    fixupY(glyph, True)
+    fixupY(glyph, NO_NOMINAL_HEIGHT, True)
     glyph.left_side_bearing = BEARING
     glyph.right_side_bearing = BEARING
     return True
