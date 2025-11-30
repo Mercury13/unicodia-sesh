@@ -38,6 +38,19 @@ Because short hieroglyphs are put this way. Lost signs — surprise — are just
 
 The author does not provide any stability. Everything may change, including bearings, line height, character styles etc. For exact text layout, freeze the version.
 
+# Quality policy
+
+* Legacy:
+  * Equiv. sequence = some core: invent a difference
+  * Equiv. sequence = flipped/combination: normal quality
+* No description (mostly extended): just vaguely resembles the sample image
+* Same if the sample image is not in harmony with description, but just for details that are not in harmony. I use the “rule of vote”: the NewGardiner font decides what’s right.
+* Short-haired man has no beard unless specified
+* Other men may have any beard except god’s unless specified
+* Described but really small detail (ankh in the hand…) = thing of lower importance, fix if the hiero was touched for another reason.
+* The difference between duck and goose is ephemeral, no efforts to make them distinct. However, their necks are light.
+* If the hieroglyph is not extensively disunified, any image is suitable.
+
 # Roadmap
 
 - The first working version. ☂️ ≈2930/3995 ✅ autumn 2024
