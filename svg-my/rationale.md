@@ -371,6 +371,7 @@ Subtotal: 178
 - 138DB: palm up
 - 138DC: simplified, palm up
 - 138DD: same + detailed beads
+- 138DE: so much simplified that it’s not Remade
 - 138E2: arm lower
 - 138E6: no heels
 - 138EB: arm lower
@@ -425,8 +426,8 @@ Subtotal: 178
 - 13C19: white neck
 - 13C1C: white neck
 - 13C1F: wrong direction
-- 13C20: same
-- 13C28: white neck: TWO HUNDRED
+- 13C20: same: TWO HUNDRED
+- 13C28: white neck
 - 13C2B: white curvier neck
 - 13C51: egret has two feathers
 - 13C52: same + fixed intersection at claw/base
@@ -525,8 +526,8 @@ Subtotal: 178
 - 1405C: greatly simplified, removed touching curves, solid canal
 - 1405D: most curves to lines, simplified Re, removed one rope
 - 1406A: removed cow on the bow
-- 14075: removed cow on the bow
-- 14094: really other thing: THREE HUNDRED
+- 14075: removed cow on the bow: THREE HUNDRED
+- 14094: really other thing
 - 140A8: more details
 - 140FC: removed PLACEHOLDERS
 - 14137: no sun
@@ -602,7 +603,7 @@ Subtotal: 178
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 374
+Subtotal: 375
 
 # Duped with NewGardiner
 - 13007: basic, after 08
