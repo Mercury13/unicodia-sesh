@@ -716,6 +716,7 @@ Subtotal: 375
 - 13633: after 13014
 - 1363C: after 13014
 - 13639: just drew a line
+- 1363F: Werning + short beard
 - 13652: seat-covered #2
 - 13654: seat-covered #2
 - 13656: seat-covered #2, after 58
@@ -940,7 +941,7 @@ Subtotal: 375
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 333
+Subtotal: 334
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -948,4 +949,4 @@ Subtotal: 333
 
 Subtotal: 2
 
-Total: 1155
+Total: 1157
