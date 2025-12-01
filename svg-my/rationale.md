@@ -756,6 +756,7 @@ Subtotal: 374
 - 1371E: after 21
 - 13747: after 46
 - 13776: after 75
+- 1377F: Werning + flipped knife (actually knife from another hand)
 - 137D4: found similar, drew sun
 - 1378F: after 8E
 - 137E2: JSesh C72, −staff, +spear
@@ -938,7 +939,7 @@ Subtotal: 374
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 332
+Subtotal: 333
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -946,4 +947,4 @@ Subtotal: 332
 
 Subtotal: 2
 
-Total: 1154
+Total: 1155
