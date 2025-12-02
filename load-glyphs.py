@@ -30,10 +30,12 @@ def isCpGood(code):
 
 log.write("Loading SVG\n");
 
-# Gets SVG’s height in units
-# No complete XML parsing
-# Very basic error checking
 def getSvgHeight(fname):
+    """
+        Gets SVG’s height in units
+        No complete XML parsing
+        Very basic error checking
+    """
     # Read data
     f = open(fname, 'r')
     data = f.read()
@@ -646,8 +648,10 @@ def newGlyph(font, code, glyphName):
     glyph.glyphname = glyphName
     return glyph
 
-# Load glyph manually optimized by user
 def loadManualGlyph(font, code, glyphName, fname, logName):
+    """
+        Load glyph manually optimized by user
+    """
     glyph = newGlyph(font, code, glyphName)
     glyph.importOutlines(fname, scale=False, correctdir=True)
     glyph.simplify(SMALLSIMPVALUE, ['mergelines'])
@@ -658,17 +662,33 @@ def loadManualGlyph(font, code, glyphName, fname, logName):
 def getManualName(dirName, glyphName):
     return "{}/{}_UnicodiaSesh.svg".format(dirName, glyphName)
     
-# Load glyph created from scratch by user
-# The glyph is surely flat, do not run InkScape
 def loadMyGlyph(font, sHex, cp, svgName):
+    """
+        Load glyph created from scratch by user
+        The glyph is surely pre-united (Path→Union), do not run InkScape
+    """
     newGlyphName = "u{}".format(sHex.upper())
     glyph = newGlyph(font, cp, newGlyphName)
     newSvgHeight = getSvgHeight(svgName)
     loadGlyph(glyph, cp, svgName, newSvgHeight, True)
 
 def checkLowPriority(fname):
+    """
+        Checks if low-priority MANUAL files are present.
+        Cannot delete these files (they are man-made)
+    """    
     if os.path.exists(fname):
         log.write("WARN: {} exists!\n".format(fname))
+
+def checkAutoPriority(fname):
+    """
+        More automatic version of checkLowPriority
+        Use when the file is created automatically.
+        Machine made, machine took.
+    """    
+    if os.path.exists(fname):
+        log.write("INFO: {} exists, deleting!\n".format(fname))
+        os.remove(fname)
 
 # Metrics for counting sticks
 STICK_STEP_HALF = 100
@@ -678,9 +698,11 @@ STICK_2ND_STACK = 460 # Replicate fonts’ bhv: stacks closer than floors
 NAME_STICK = "u133FA"
 NAME_HSTICK = "u13404"
 
-# prerequisite: the glyph lies on Y=0
-# returns always True for convenience
 def fixupProgrammaticGlyph(glyph):
+    """
+        prerequisite: the glyph lies on Y=0
+        returns always True for convenience
+    """
     fixupY(glyph, NO_NOMINAL_HEIGHT, True)
     glyph.left_side_bearing = BEARING
     glyph.right_side_bearing = BEARING
@@ -849,22 +871,22 @@ def loadUnikemet():
                                 checkLowPriority(manualName)
                                 checkLowPriority(extensionName)
                                 checkLowPriority(svgRemadeName)
-                                checkLowPriority(cacheName)
+                                checkAutoPriority(cacheName)
                                 loadMyGlyph(font, sHex, code, reallyMyName)
                             elif os.path.exists(manualName):
                                 # Manual glyph
                                 checkLowPriority(extensionName)
                                 checkLowPriority(svgRemadeName)
-                                checkLowPriority(cacheName)
+                                checkAutoPriority(cacheName)
                                 loadManualGlyph(font, code, glyphName, manualName, 'manual')
                             elif os.path.exists(extensionName):
                                 checkLowPriority(svgRemadeName)
-                                checkLowPriority(cacheName)
+                                checkAutoPriority(cacheName)
                                 loadMyGlyph(font, sHex, code, extensionName)
                             elif os.path.exists(svgRemadeName):
                                 glyph = newGlyph(font, code, glyphName)
                                 svgHeight = getSvgHeight(svgRemadeName)
-                                checkLowPriority(cacheName)
+                                checkAutoPriority(cacheName)
                                 loadGlyph(glyph, code, svgRemadeName, svgHeight, True)
                             elif os.path.exists(cacheName) and not isKnownBadGlyph:
                                 # Cached glyph: already ran software
