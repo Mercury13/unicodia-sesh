@@ -1,12 +1,12 @@
 ﻿# Meaning of directories
 
-- InkTest: just a test for Inkscape
-- svg: raw JSesh SVGs
-- svg-ex:
+- ``InkTest``: just a test for Inkscape
+- ``svg``: raw JSesh SVGs
+- ``svg-ex``:
   - SVGs from JSesh extensions
   - SVGs that appeared after UniKemet
   - possibly with my slight remakes (see svg-remade)
-- svg-my: rather big remakes, both new and existing. These changes automatically make object My:
+- ``svg-my``: rather big remakes, both new and existing. These changes automatically make object My:
   - deleting an object
   - adding an object
   - filling hollow object, hollowing filled object
@@ -14,7 +14,7 @@
   - making anything (pose, object, thickness) more pronounced
   - rotation by non-right angle
   - frankencombos: combo hieros when objects A and B are from different SVGs
-- svg-remade: small remakes of existing JSesh hieros w/o changing content:
+- ``svg-remade``: small remakes of existing JSesh hieros w/o changing content:
   - changing canvas and/or image size
   - subtracting white
   - manual uniting
@@ -31,10 +31,12 @@
 - cache: cache for auto-Inkscape’d JSesh SVGs (running Inkscape takes ≈1s/file)
 - manual: fixed directly in FontForge, everything is done manually except bearings (gradually phasing out this directory)
 
+All SVGs except rawmost (``svg``) are pre-united (Path → Union).
+
 # Error messages
 
 - XXX self-intersects / Critical / Built-in systems are unable to fix SVG’s self-intersections. Use other ways, like ``manual`` (complete pre-scaled glyphs) and ``svg-remade`` (technical changes).
-- XXX exists / Warning / Way A is overridden by way B. Just delete that file.
+- XXX exists / Warning / Way A is overridden by way B. Check which is correct.
 
 # How to update data
 
