@@ -348,6 +348,7 @@ Subtotal: 178
 - 13800: mismatch, removed beard, fixed very sharp inner angles
 - 13816: sit on block
 - 1381D: stick + vertical knife, based on 1B
+- 13837: strange simplification led to self-intersection + simplifications, better Seth stick
 - 1383A: Ptah, Sep’25 version + stick same height as he
 - 1383D: Ptah, Sep’25 version + lengthened beard + stick same height as he
 - 1383E: Ptah, Sep’25 version + lengthened beard + stick same height as he
@@ -425,8 +426,8 @@ Subtotal: 178
 - 13C18: more detailed head, white neck
 - 13C19: white neck
 - 13C1C: white neck
-- 13C1F: wrong direction
-- 13C20: same: TWO HUNDRED
+- 13C1F: wrong direction: TWO HUNDRED
+- 13C20: same
 - 13C28: white neck
 - 13C2B: white curvier neck
 - 13C51: egret has two feathers
@@ -525,8 +526,8 @@ Subtotal: 178
 - 1403C: thicker throwing stick
 - 1405C: greatly simplified, removed touching curves, solid canal
 - 1405D: most curves to lines, simplified Re, removed one rope
-- 1406A: removed cow on the bow
-- 14075: removed cow on the bow: THREE HUNDRED
+- 1406A: removed cow on the bow: THREE HUNDRED
+- 14075: removed cow on the bow
 - 14094: really other thing
 - 140A8: more details
 - 140FC: removed PLACEHOLDERS
@@ -603,7 +604,7 @@ Subtotal: 178
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 375
+Subtotal: 376
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -949,4 +950,4 @@ Subtotal: 334
 
 Subtotal: 2
 
-Total: 1157
+Total: 1158
