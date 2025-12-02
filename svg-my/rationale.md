@@ -197,6 +197,7 @@ Subtotal: 268
 - 132F5: made for myself, nicer
 - 132F9: had good optimized ankh
 - 13304: made from scratch, taking flail from 132EC
+- 13314: extracted from some Anubis
 - 13315: made from cowhide pierced by arrow
 - 13316: 2×13315×1.0
 - 13317: campaign for bowstrings
@@ -224,7 +225,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 178
+Subtotal: 179
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -953,4 +954,4 @@ Subtotal: 336
 
 Subtotal: 2
 
-Total: 1161
+Total: 1162
