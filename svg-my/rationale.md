@@ -332,6 +332,7 @@ Subtotal: 178
 - 13766: vertical ankh
 - 13767: same
 - 13772: stretched heel → normal, white legs → black
+- 13795: Shu no longer has uraeus, also removed ornate clothes
 - 13797: too long and polygonal foot he sits on, deleted armbands
 - 137EC: man’s hair/beard
 - 137EF: no beard, no collar
@@ -425,8 +426,8 @@ Subtotal: 178
 - 13C17: just 10% bigger
 - 13C18: more detailed head, white neck
 - 13C19: white neck
-- 13C1C: white neck
-- 13C1F: wrong direction: TWO HUNDRED
+- 13C1C: white neck: TWO HUNDRED
+- 13C1F: wrong direction
 - 13C20: same
 - 13C28: white neck
 - 13C2B: white curvier neck
@@ -525,8 +526,8 @@ Subtotal: 178
 - 1404A: greatly simplified, removed touching curves
 - 1403C: thicker throwing stick
 - 1405C: greatly simplified, removed touching curves, solid canal
-- 1405D: most curves to lines, simplified Re, removed one rope
-- 1406A: removed cow on the bow: THREE HUNDRED
+- 1405D: most curves to lines, simplified Re, removed one rope: THREE HUNDRED
+- 1406A: removed cow on the bow
 - 14075: removed cow on the bow
 - 14094: really other thing
 - 140A8: more details
@@ -604,7 +605,7 @@ Subtotal: 178
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 376
+Subtotal: 377
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -762,6 +763,8 @@ Subtotal: 376
 - 1377F: Werning + flipped knife (actually knife from another hand)
 - 137D4: found similar, drew sun
 - 1378F: after 8E
+- 13793: 95 + other Shu’s knees from base
+- 13794: same
 - 137E2: JSesh C72, −staff, +spear
 - 137E8: campaign for millions
 - 137E9: campaign for millions
@@ -942,7 +945,7 @@ Subtotal: 376
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 334
+Subtotal: 336
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -950,4 +953,4 @@ Subtotal: 334
 
 Subtotal: 2
 
-Total: 1158
+Total: 1161
