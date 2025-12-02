@@ -760,7 +760,7 @@ Subtotal: 377
 - 1371E: after 21
 - 13747: after 46
 - 13776: after 75
-- 1377F: Werning + flipped knife (actually knife from another hand)
+- 1377F: Werning + flipped knife (actually knife from another hand), fixed rubber-hose anatomy
 - 137D4: found similar, drew sun
 - 1378F: after 8E
 - 13793: 95 + other Shu’s knees from base
