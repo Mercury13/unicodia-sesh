@@ -12,6 +12,7 @@ INKSCAPE = 'c:/Program Files/Inkscape/bin/inkscape.com'
 BAD_JSESH_HIEROS = {
     0x13BD4: "F128",   # cauldron? → udder
     0x13BDA: "F132B",  # IDK
+    0x13E12: "M3E",    # until the new Unicode checks glyphs
     0x13F29: "N31h",   # flowers in circular road
 }
 BAD_JSESH_KEYS = BAD_JSESH_HIEROS.keys()
@@ -434,6 +435,7 @@ GLYPH_SIZES = {
     0x13DC9: MEDIUM,
     0x13DE4: EVERYBIT,
     0x13E0C: MEDIUM,
+    0x13E11: MEDWIDE,  # some long branch
     0x13E2B: MEDIUM, 0x13E2C: MEDIUM, 0x13E2D: MEDIUM,
     0x13E2F: MEDIUM, 0x13E30: MEDIUM, 0x13E31: MEDIUM, 0x13E32: MEDIUM,
     0x13E35: WIDE,
