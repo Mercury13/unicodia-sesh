@@ -922,6 +922,7 @@ Subtotal: 378
 - 14107: misrender in NewG, need butcher’s block
 - 14114: after 13, just a bit wrong NewG
 - 14158: normal red crown + cut curl
+- 1415A: Werning + moved uraeus up
 - 1418E: implement somehow badly
 - 14124: after 23
 - 14128: after 2A
@@ -951,7 +952,7 @@ Subtotal: 378
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 337
+Subtotal: 338
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -959,4 +960,4 @@ Subtotal: 337
 
 Subtotal: 2
 
-Total: 1167
+Total: 1168
