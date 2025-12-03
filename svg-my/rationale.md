@@ -189,6 +189,7 @@ Subtotal: 268
 - 132AB: thinner
 - 132AE: after 140C6 and C7
 - 132C2: removed hollow handle
+- 132C6: consistency with 13300/01
 - 132DC: made from scratch, too thick
 - 132DE: liberated from some collar + Seth staff
 - 132E1: grafted fork from 132E2
@@ -227,7 +228,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 181
+Subtotal: 182
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -957,4 +958,4 @@ Subtotal: 337
 
 Subtotal: 2
 
-Total: 1165
+Total: 1166
