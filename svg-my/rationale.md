@@ -196,6 +196,8 @@ Subtotal: 268
 - 132F4: old S29 from intestine
 - 132F5: made for myself, nicer
 - 132F9: had good optimized ankh
+- 13300: based on 01
+- 13301: consistency, one of the waves was too long, fork larger and sleeker
 - 13304: made from scratch, taking flail from 132EC
 - 13314: extracted from some Anubis
 - 13315: made from cowhide pierced by arrow
@@ -225,7 +227,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 179
+Subtotal: 181
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -955,4 +957,4 @@ Subtotal: 337
 
 Subtotal: 2
 
-Total: 1163
+Total: 1165
