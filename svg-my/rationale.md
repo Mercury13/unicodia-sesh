@@ -405,6 +405,7 @@ Subtotal: 182
 - 13A5C: nothing on neck
 - 13A6E: wings in V-shape
 - 13A85: greatly simplified
+- 13A89: base consistent with 88
 - 13AA3: rotate 90°
 - 13AAC: aligned that goat
 - 13AB4: flip knife
@@ -429,8 +430,8 @@ Subtotal: 182
 - 13BE5: flip ←→
 - 13C17: just 10% bigger
 - 13C18: more detailed head, white neck
-- 13C19: white neck
-- 13C1C: white neck: TWO HUNDRED
+- 13C19: white neck: TWO HUNDRED
+- 13C1C: white neck
 - 13C1F: wrong direction
 - 13C20: same
 - 13C28: white neck
@@ -529,8 +530,8 @@ Subtotal: 182
 - 1403A: other hull, same plant (but a bit shorter)
 - 1404A: greatly simplified, removed touching curves
 - 1403C: thicker throwing stick
-- 1405C: greatly simplified, removed touching curves, solid canal
-- 1405D: most curves to lines, simplified Re, removed one rope: THREE HUNDRED
+- 1405C: greatly simplified, removed touching curves, solid canal: THREE HUNDRED
+- 1405D: most curves to lines, simplified Re, removed one rope
 - 1406A: removed cow on the bow
 - 14075: removed cow on the bow
 - 14094: really other thing
@@ -609,7 +610,7 @@ Subtotal: 182
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 377
+Subtotal: 378
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -958,4 +959,4 @@ Subtotal: 337
 
 Subtotal: 2
 
-Total: 1166
+Total: 1167
