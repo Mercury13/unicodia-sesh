@@ -544,6 +544,7 @@ Subtotal: 182
 - 1413E: other feather, no double lines, other handle
 - 1413F: per 3E
 - 14140: no double lines
+- 14143: campaign for Seth stick
 - 14146: after R22, but true circle
 - 1414D: bigger uraeus
 - 14176: back after 77
@@ -610,7 +611,7 @@ Subtotal: 182
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 378
+Subtotal: 379
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -961,4 +962,4 @@ Subtotal: 339
 
 Subtotal: 2
 
-Total: 1169
+Total: 1170
