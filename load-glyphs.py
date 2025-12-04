@@ -466,6 +466,7 @@ GLYPH_SIZES = {
     0x140FA: MEDIUM,
     0x140FE: EVERYBIT,
     # S: clothing and decorations
+    0x1416B: NORMAL, 0x1416C: NORMAL, 0x1416D: NORMAL,  # Hemhem crown, by sheer luck, just note
     0x14178: WIDE, 0x14179: WIDE,  # feathers on horns
     0x1417F: WIDE,  # more feathers on horns
     0x14180: MEDWIDE, 0x14181: MEDWIDE,
