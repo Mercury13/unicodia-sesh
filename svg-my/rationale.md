@@ -548,6 +548,7 @@ Subtotal: 182
 - 14143: campaign for Seth stick
 - 14146: after R22, but true circle
 - 1414D: bigger uraeus
+- 14160: removed hat on uraeus
 - 14176: back after 77
 - 14177: not slanted, after 76
 - 1417B: too thick lines, redrew
@@ -612,7 +613,7 @@ Subtotal: 182
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 380
+Subtotal: 381
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -916,6 +917,7 @@ Subtotal: 380
 - 14076: after 78
 - 14079: found P4d laden with elliptic pile, and replaced with trapezoidal
 - 14081: after 7F, trusted description/NG rather than samples
+- 14088: after 89, though omitted some detail present on image per rule of vote
 - 1408C: after 8E
 - 140B1: from JSesh Q25a
 - 140C8: after Q7=132AE
@@ -931,6 +933,7 @@ Subtotal: 380
 - 14141: campaign for Seth stick
 - 1414E: after 4D
 - 14168: after extended S8, round circles
+- 1416D: after 1416C, deleted suns and symmetrized
 - 14189: 1A + simplified
 - 14196: after 97, pectoral
 - 141A2: after A1
@@ -955,7 +958,7 @@ Subtotal: 380
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 339
+Subtotal: 341
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -963,4 +966,4 @@ Subtotal: 339
 
 Subtotal: 2
 
-Total: 1171
+Total: 1174
