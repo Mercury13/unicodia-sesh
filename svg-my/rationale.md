@@ -926,6 +926,7 @@ Subtotal: 378
 - 1418E: implement somehow badly
 - 14124: after 23
 - 14128: after 2A
+- 14141: campaign for Seth stick
 - 1414E: after 4D
 - 14168: after extended S8, round circles
 - 14189: 1A + simplified
@@ -952,7 +953,7 @@ Subtotal: 378
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 338
+Subtotal: 339
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -960,4 +961,4 @@ Subtotal: 338
 
 Subtotal: 2
 
-Total: 1168
+Total: 1169
