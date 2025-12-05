@@ -463,6 +463,7 @@ Subtotal: 182
 - 13D8F: removed sun
 - 13DC3: mirror
 - 13DD7: existing is DD8 now
+- 13DE9: wrong glyph
 - 13E51: canal outline → solid
 - 13E55: straight stem
 - 13E5C: after 131BC
@@ -529,8 +530,8 @@ Subtotal: 182
 - 14049: greatly simplified, removed self-intersection on margin of error
 - 1403A: other hull, same plant (but a bit shorter)
 - 1404A: greatly simplified, removed touching curves
-- 1403C: thicker throwing stick
-- 1405C: greatly simplified, removed touching curves, solid canal: THREE HUNDRED
+- 1403C: thicker throwing stick: THREE HUNDRED
+- 1405C: greatly simplified, removed touching curves, solid canal
 - 1405D: most curves to lines, simplified Re, removed one rope
 - 1406A: removed cow on the bow
 - 14075: removed cow on the bow
@@ -613,7 +614,7 @@ Subtotal: 182
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 381
+Subtotal: 382
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -966,4 +967,4 @@ Subtotal: 341
 
 Subtotal: 2
 
-Total: 1174
+Total: 1175
