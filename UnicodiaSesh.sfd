@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1727638123
-ModificationTime: 1764473709
+ModificationTime: 1764967296
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -74,6 +74,8 @@ Encoding: 0 32 0
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: Space.Full
@@ -81,6 +83,8 @@ Encoding: 1 78913 1
 Width: 1200
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: Space.Half
@@ -88,6 +92,8 @@ Encoding: 2 78914 2
 Width: 600
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: Part.Stick.9
@@ -113,6 +119,7 @@ SplineSet
  0 710 l 1
  0 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Lost.Full
@@ -181,6 +188,7 @@ SplineSet
  1018.1796875 -125 l 1
  1100 -43.1796875 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: Lost.Half
@@ -218,6 +226,7 @@ SplineSet
  418.1796875 0 l 1
  575 156.8203125 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: Lost.Tall
@@ -269,6 +278,7 @@ SplineSet
  456.740234375 -125 l 1
  575 -6.740234375 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: Lost.Wide
@@ -320,6 +330,7 @@ SplineSet
  104.619140625 525 l 1
  168.259765625 525 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: Stub.Dotc
@@ -412,6 +423,7 @@ SplineSet
  427.791992188 788.131835938 405.40625 765.74609375 377.791992188 765.74609375 c 0
  350.177734375 765.74609375 327.791992188 788.131835938 327.791992188 815.74609375 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: Stub.Dmg.01
@@ -526,6 +538,7 @@ SplineSet
  425 475 l 1
  275 475 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.01
 EndChar
 
@@ -641,6 +654,7 @@ SplineSet
  425 175 l 1
  275 175 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.02
 EndChar
 
@@ -756,6 +770,7 @@ SplineSet
  425 175 l 1
  275 175 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.03
 EndChar
 
@@ -871,6 +886,7 @@ SplineSet
  725 475 l 1
  575 475 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.04
 EndChar
 
@@ -986,6 +1002,7 @@ SplineSet
  725 475 l 1
  275 475 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.05
 EndChar
 
@@ -1117,6 +1134,7 @@ SplineSet
  500 100 l 1
  200 100 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.06
 EndChar
 
@@ -1238,6 +1256,7 @@ SplineSet
  275 175 l 1
  275 625 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.07
 EndChar
 
@@ -1353,6 +1372,7 @@ SplineSet
  725 175 l 1
  575 175 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.08
 EndChar
 
@@ -1484,6 +1504,7 @@ SplineSet
  475 400 l 1
  200 400 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.09
 EndChar
 
@@ -1599,6 +1620,7 @@ SplineSet
  725 175 l 1
  275 175 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.10
 EndChar
 
@@ -1720,6 +1742,7 @@ SplineSet
  275 175 l 1
  275 625 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.11
 EndChar
 
@@ -1835,6 +1858,7 @@ SplineSet
  725 175 l 1
  575 175 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.12
 EndChar
 
@@ -1956,6 +1980,7 @@ SplineSet
  275 475 l 1
  275 625 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.13
 EndChar
 
@@ -1963,7 +1988,7 @@ StartChar: Stub.Dmg.14
 Encoding: 22 78932 22
 Width: 1000
 VWidth: 1050
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -2056,18 +2081,18 @@ SplineSet
  850 850 l 1
  950 850 l 1
 800 700 m 1
- 500 700 l 1
- 500 400 l 1
- 200 400 l 1
- 200 100 l 1
  800 100 l 1
+ 200 100 l 1
+ 200 400 l 1
+ 500 400 l 1
+ 500 700 l 1
  800 700 l 1
 530 670 m 1
- 770 670 l 1
- 770 130 l 1
- 230 130 l 1
- 230 370 l 1
  530 370 l 1
+ 230 370 l 1
+ 230 130 l 1
+ 770 130 l 1
+ 770 670 l 1
  530 670 l 1
 725 625 m 1
  725 175 l 1
@@ -2077,6 +2102,7 @@ SplineSet
  575 625 l 1
  725 625 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.14
 EndChar
 
@@ -2192,6 +2218,7 @@ SplineSet
  725 175 l 1
  275 175 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Dotc" Dmg.Dotc.15
 EndChar
 
@@ -2230,6 +2257,7 @@ SplineSet
  -643 400 l 1
  -525 518 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.02
@@ -2272,6 +2300,7 @@ SplineSet
  -568 -125 l 1
  -525 -82 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.03
@@ -2325,6 +2354,7 @@ SplineSet
  -568 -125 l 1
  -525 -82 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.04
@@ -2367,6 +2397,7 @@ SplineSet
  -43 400 l 1
  0 443 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.05
@@ -2419,6 +2450,7 @@ SplineSet
  -43 400 l 1
  0 443 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.08
@@ -2456,6 +2488,7 @@ SplineSet
  -168 -125 l 1
  0 43 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.10
@@ -2508,6 +2541,7 @@ SplineSet
  -168 -125 l 1
  0 43 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.11
@@ -2570,6 +2604,7 @@ SplineSet
  -168 -125 l 1
  0 43 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.12
@@ -2623,6 +2658,7 @@ SplineSet
  -168 -125 l 1
  0 43 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.15
@@ -2686,6 +2722,7 @@ SplineSet
  -168 -125 l 1
  0 43 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.06
@@ -2758,6 +2795,7 @@ SplineSet
  -568 -125 l 1
  -525 -82 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.07
@@ -2824,6 +2862,7 @@ SplineSet
  -568 -125 l 1
  -532 -88 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.09
@@ -2886,6 +2925,7 @@ SplineSet
  -168 -125 l 1
  0 43 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.13
@@ -2949,6 +2989,7 @@ SplineSet
  -168 -125 l 1
  0 43 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Dmg.Dotc.14
@@ -3017,6 +3058,7 @@ SplineSet
  -168 -125 l 1
  0 43 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.Vjoin
@@ -3125,6 +3167,7 @@ SplineSet
  575 158.579101562 541.420898438 125 500 125 c 0
  458.579101562 125 425 158.579101562 425 200 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: Stub.Hjoin
@@ -3252,6 +3295,7 @@ SplineSet
  339.1171875 619.005859375 l 2
  336.573242188 623.412109375 335.065429688 628.537109375 335.065429688 633.986328125 c 0
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: Stub.TopStart
@@ -3362,6 +3406,7 @@ SplineSet
  800 700 l 1
  800 100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.BotStart
@@ -3472,6 +3517,7 @@ SplineSet
  200 700 l 1
  800 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.TopEnd
@@ -3582,6 +3628,7 @@ SplineSet
  800 100 l 1
  200 100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.BotEnd
@@ -3692,6 +3739,7 @@ SplineSet
  200 100 l 1
  200 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.Ovr
@@ -3803,6 +3851,7 @@ SplineSet
  450 450 l 1
  450 675 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.BegSeg
@@ -3908,6 +3957,7 @@ SplineSet
  587 658 l 1
  555 612 504 522 504 400 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.EndSeg
@@ -4013,6 +4063,7 @@ SplineSet
  413 142 l 1
  445 188 496 279 496 400 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.Mid
@@ -4126,6 +4177,7 @@ SplineSet
  200 100 l 1
  200 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.Top
@@ -4238,6 +4290,7 @@ SplineSet
  400 425 l 1
  400 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.Bot
@@ -4350,6 +4403,7 @@ SplineSet
  600 100 l 1
  400 100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.BegEncl
@@ -4470,6 +4524,7 @@ SplineSet
  633 426 l 1
  622 442 610 462 598 487 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.EndEncl
@@ -4590,6 +4645,7 @@ SplineSet
  310 423 344 450 375 487 c 1
  402 487 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.BegWall
@@ -4725,6 +4781,7 @@ SplineSet
  608 421 l 1
  599 434 590 451 580 471 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.EndWall
@@ -4860,6 +4917,7 @@ SplineSet
  345 419 372 441 398 471 c 1
  420 471 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Stub.Flip
@@ -4975,6 +5033,7 @@ SplineSet
  200 408 l 1
  252 434 300 474 346 528 c 1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
