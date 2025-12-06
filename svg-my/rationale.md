@@ -256,6 +256,8 @@ Subtotal: 184
 - 13577: RETURN: added another with pelt
 - 13581: improved legibility
 - 13584: bent, bigger vessel
+- 1359B: short hair, no beard specified → no beard
+- 1359C: short hair, no beard specified → no beard
 - 135A2: shield from inside, spear→Bronze Age sword
 - 135A5: sit on heel
 - 135B6: more detailed foreigner captive
@@ -330,9 +332,9 @@ Subtotal: 184
 - 13751: short hair
 - 13755: short hair
 - 13756: short hair
-- 13757: short hair
+- 13757: short hair: ONE HUNDRED
 - 13759: short hair
-- 1375A: short hair: ONE HUNDRED
+- 1375A: short hair
 - 1375B: short hair
 - 1375C: short hair
 - 13766: vertical ankh
@@ -430,9 +432,9 @@ Subtotal: 184
 - 13BAB: same, plus redrew semicircle
 - 13BDE: a bit out of canvas
 - 13BE5: flip ←→
-- 13C17: just 10% bigger
+- 13C17: just 10% bigger: TWO HUNDRED
 - 13C18: more detailed head, white neck
-- 13C19: white neck: TWO HUNDRED
+- 13C19: white neck
 - 13C1C: white neck
 - 13C1F: wrong direction
 - 13C20: same
@@ -530,9 +532,9 @@ Subtotal: 184
 - 14023: consistency, after other P1’s
 - 14026: consistency, after 22
 - 14048: greatly simplified, removed self-intersection on margin of error
-- 14049: greatly simplified, removed self-intersection on margin of error
+- 14049: greatly simplified, removed self-intersection on margin of error: THREE HUNDRED
 - 1403A: other hull, same plant (but a bit shorter)
-- 1404A: greatly simplified, removed touching curves: THREE HUNDRED
+- 1404A: greatly simplified, removed touching curves
 - 1403C: thicker throwing stick
 - 1405C: greatly simplified, removed touching curves, solid canal
 - 1405D: most curves to lines, simplified Re, removed one rope
@@ -617,7 +619,7 @@ Subtotal: 184
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 383
+Subtotal: 385
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -970,4 +972,4 @@ Subtotal: 341
 
 Subtotal: 2
 
-Total: 1178
+Total: 1180
