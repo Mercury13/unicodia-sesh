@@ -213,6 +213,7 @@ Subtotal: 268
 - 13337: 34 + 36
 - 13353: rope behind, franken between rope and drill
 - 1337D: too thick
+- 133A5: Werning + symmetry, three lines
 - 133A8: too thick, franken
 - 133B3: campaign for O22
 - 133B5: too thick, new from scratch
@@ -229,7 +230,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 183
+Subtotal: 184
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -969,4 +970,4 @@ Subtotal: 341
 
 Subtotal: 2
 
-Total: 1177
+Total: 1178
