@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600"
+   height="1000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="O22A.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="0.53386562"
+     inkscape:cx="59.003612"
+     inkscape:cy="740.82313"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <sodipodi:guide
+       position="255.40039,1000"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     id="path1"
+     style="fill:#000000;stroke:none;stroke-width:1"
+     d="M 255.40039 0 C 204.44383 0 162.64258 39.087593 162.64258 88.945312 C 162.64258 110.96985 172.38392 131.29937 191.86719 149.93555 C 141.04126 170.26591 96.568657 203.51474 58.449219 249.68164 C 20.329782 295.84851 0.847092 346.46396 0 401.52539 L 0 1000 L 68.615234 1000 L 68.615234 402.79492 C 68.615234 361.28712 85.979908 321.47494 120.71094 283.35547 L 222.36328 451.08008 L 222.36328 1000 L 255.40039 1000 L 255.40039 979.66992 L 243.96484 979.66992 L 243.96484 451.08008 L 120.71094 247.77539 C 91.980915 275.50482 47.013672 330.46067 47.013672 402.79492 L 47.013672 978.39844 L 22.871094 978.39844 L 22.871094 401.52539 C 22.871094 352.39364 42.3557 304.3206 81.322266 257.30664 C 120.28879 210.29269 167.30189 179.16187 222.36328 163.91406 L 222.36328 144.85352 C 201.18583 132.14702 184.24414 113.87361 184.24414 88.945312 C 184.24414 55.730986 211.70909 21.601562 255.40039 21.601562 L 255.40039 0 z M 255.40039 182.97266 C 213.72457 182.97266 173.15259 200.48676 133.68555 235.51172 L 255.40039 435.83203 L 255.40039 405.33594 L 160.10156 245.23438 C 187.20869 218.12721 218.97514 204.57422 255.40039 204.57422 L 255.40039 182.97266 z " />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path1"
+     id="use3"
+     transform="matrix(-1,0,0,1,510.80078,0)" />
+</svg>

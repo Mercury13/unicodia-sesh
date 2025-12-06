@@ -481,6 +481,7 @@ Subtotal: 182
 - 13EE0: deleted 2 triangles
 - 13EE1: no dot inside
 - 13EEC: bigger snake
+- 13EEF: consistency with the rest
 - 13F1E: greatly redrawn after 1D
 - 13F22: just one N27 rather than two
 - 13F46: too thick; decided to take the inner path and turn to outline
@@ -529,8 +530,8 @@ Subtotal: 182
 - 14048: greatly simplified, removed self-intersection on margin of error
 - 14049: greatly simplified, removed self-intersection on margin of error
 - 1403A: other hull, same plant (but a bit shorter)
-- 1404A: greatly simplified, removed touching curves
-- 1403C: thicker throwing stick: THREE HUNDRED
+- 1404A: greatly simplified, removed touching curves: THREE HUNDRED
+- 1403C: thicker throwing stick
 - 1405C: greatly simplified, removed touching curves, solid canal
 - 1405D: most curves to lines, simplified Re, removed one rope
 - 1406A: removed cow on the bow
@@ -614,7 +615,7 @@ Subtotal: 182
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 382
+Subtotal: 383
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -967,4 +968,4 @@ Subtotal: 341
 
 Subtotal: 2
 
-Total: 1175
+Total: 1176
