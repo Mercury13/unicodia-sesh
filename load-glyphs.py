@@ -157,9 +157,9 @@ GLYPH_SIZES = {
     0x1303F: SQUARE,  0x13040: SQUARE, # lying mummy
     # D: parts of human
     0x13076: MEDIUM,  # head in profile
+    0x1307D: MEDWIDE, 0x1307E: MEDWIDE, # eyes in rectangle
     0x13081: TEENY, 0x13082: TEENY, 0x13084: TEENY, # parts of eyes
     0x13086: MEDIUM,  # parts of eyes
-    0x1307D: MEDWIDE, 0x1307E: MEDWIDE, # eyes in rectangle
     0x13088: MEDIUM, 0x13089: MEDIUM, 0x1308A: MEDIUM, # ears and faces
     0x13091: SMALL_TIT,  # tit
     0x1309C: WIDE,  # 2 arms

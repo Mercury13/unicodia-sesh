@@ -108,6 +108,7 @@ Subtotal: 268
 - 13068: now looks somewhat like Heh from Wikipedia
 - 13070: Ptah, Sep’25 version + lengthened beard + stick same height as he
 - 13072: greatly simplified Bes, half + reflection
+- 13078: drew hair from scratch
 - 1308A: more cursive image
 - 13091: too thick outline, decided to make it variable-width
 - 13092: same
@@ -228,7 +229,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 182
+Subtotal: 183
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -968,4 +969,4 @@ Subtotal: 341
 
 Subtotal: 2
 
-Total: 1176
+Total: 1177
