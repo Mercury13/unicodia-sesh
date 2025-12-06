@@ -188,7 +188,7 @@ SplineSet
  1018.1796875 -125 l 1
  1100 -43.1796875 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Lost.Half
@@ -226,7 +226,7 @@ SplineSet
  418.1796875 0 l 1
  575 156.8203125 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Lost.Tall
@@ -278,7 +278,7 @@ SplineSet
  456.740234375 -125 l 1
  575 -6.740234375 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Lost.Wide
@@ -330,7 +330,7 @@ SplineSet
  104.619140625 525 l 1
  168.259765625 525 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Stub.Dotc
@@ -423,7 +423,7 @@ SplineSet
  427.791992188 788.131835938 405.40625 765.74609375 377.791992188 765.74609375 c 0
  350.177734375 765.74609375 327.791992188 788.131835938 327.791992188 815.74609375 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Stub.Dmg.01
@@ -1988,7 +1988,7 @@ StartChar: Stub.Dmg.14
 Encoding: 22 78932 22
 Width: 1000
 VWidth: 1050
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3167,7 +3167,7 @@ SplineSet
  575 158.579101562 541.420898438 125 500 125 c 0
  458.579101562 125 425 158.579101562 425 200 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Stub.Hjoin
@@ -3295,7 +3295,7 @@ SplineSet
  339.1171875 619.005859375 l 2
  336.573242188 623.412109375 335.065429688 628.537109375 335.065429688 633.986328125 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: Stub.TopStart
