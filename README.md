@@ -50,6 +50,9 @@ The author does not provide any stability. Everything may change, including bear
 * Described but really small detail (ankh in the hand…) = thing of lower importance, fix if the hiero was touched for another reason.
 * The difference between duck and goose is ephemeral, no efforts to make them distinct. However, their necks are light.
 * If the hieroglyph is not extensively disunified, any confirmed image is suitable.
+* Cases whose inconsistency is NOT an issue:
+  * Far apart: e.g. human and donkey.
+  * Big and small: e.g. crown in high detail and the same crown on a king.
 
 # Roadmap
 
