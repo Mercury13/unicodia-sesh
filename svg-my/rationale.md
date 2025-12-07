@@ -705,6 +705,8 @@ Subtotal: 386
 - 1357E: march, my A28 + more
 - 13582: franken near 81
 - 13585: after 84
+- 1358B: near-march, after 8C
+- 1358C: near-march, after 90
 - 1358E: near-march, after 90
 - 1358F: master class (Kolya + me), after 13509 + knife from some donkey
 - 13590: near-march, after 91
@@ -971,7 +973,7 @@ Subtotal: 386
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 347
+Subtotal: 348
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -979,4 +981,4 @@ Subtotal: 347
 
 Subtotal: 2
 
-Total: 1187
+Total: 1189
