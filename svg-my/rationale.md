@@ -702,6 +702,7 @@ Subtotal: 386
 - 13572: M13 (symmetrized) + A30
 - 13574: after some extended
 - 13578: stock pose + leg
+- 1357E: march, my A28 + more
 - 13582: franken near 81
 - 13585: after 84
 - 1358F: master class (Kolya + me), after 13509 + knife from some donkey
@@ -967,7 +968,7 @@ Subtotal: 386
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 343
+Subtotal: 344
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -975,4 +976,4 @@ Subtotal: 343
 
 Subtotal: 2
 
-Total: 1183
+Total: 1184
