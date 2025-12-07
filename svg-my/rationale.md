@@ -695,6 +695,8 @@ Subtotal: 385
 - 13539: same, but troubles with wall
 - 13541: after some other JSesh’s A152
 - 13548: was squished in NewG
+- 1354D: march, after some ex + slaughtered oryx
+- 13564: march, after 13569 + some bundle + tricked hinter to hint the stick
 - 1356C: after 6B
 - 13572: M13 (symmetrized) + A30
 - 13574: after some extended
@@ -964,7 +966,7 @@ Subtotal: 385
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 341
+Subtotal: 343
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -972,4 +974,4 @@ Subtotal: 341
 
 Subtotal: 2
 
-Total: 1180
+Total: 1182

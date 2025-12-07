@@ -328,7 +328,8 @@ GLYPH_SIZES = {
     0x1352E: WIDE,  # man w/grindstone, no need to squeeze
     0x13537: MEDWIDE,  # building, want surely height-limited
     0x13539: MEDWIDE,  # building, same
-    0x13548: EVERYBIT,
+    0x13548: EVERYBIT,  # scribe
+    0x1354D: WIDE,  # butcher
     0x135BB: MEDWIDE,
     0x135BD: WIDE,
     0x135D3: MEDWIDE,
