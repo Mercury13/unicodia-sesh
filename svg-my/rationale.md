@@ -261,6 +261,7 @@ Subtotal: 184
 - 1359C: short hair, no beard specified → no beard
 - 135A2: shield from inside, spear→Bronze Age sword
 - 135A5: sit on heel
+- 135AA: short hair, no beard specified → no beard
 - 135B6: more detailed foreigner captive
 - 135C0: noticed a trouble (sent to Unicode), JSesh A216C is actually C8 rather than C0
 - 135C2: other legs, need C3
@@ -331,8 +332,8 @@ Subtotal: 184
 - 1374F: short hair
 - 13750: short hair
 - 13751: short hair
-- 13755: short hair
-- 13756: short hair: ONE HUNDRED
+- 13755: short hair: ONE HUNDRED
+- 13756: short hair
 - 13757: short hair
 - 13759: short hair
 - 1375A: short hair
@@ -431,8 +432,8 @@ Subtotal: 184
 - 13B9C: other legs
 - 13BAA: waves unseen in cell’s detail
 - 13BAB: same, plus redrew semicircle
-- 13BDE: a bit out of canvas
-- 13BE5: flip ←→: TWO HUNDRED
+- 13BDE: a bit out of canvas: TWO HUNDRED
+- 13BE5: flip ←→
 - 13C17: just 10% bigger
 - 13C18: more detailed head, white neck
 - 13C19: white neck
@@ -531,8 +532,8 @@ Subtotal: 184
 - 1401E: canal does not have curved lines
 - 14021: consistency, after other P1’s
 - 14023: consistency, after other P1’s
-- 14026: consistency, after 22
-- 14048: greatly simplified, removed self-intersection on margin of error: THREE HUNDRED
+- 14026: consistency, after 22: THREE HUNDRED
+- 14048: greatly simplified, removed self-intersection on margin of error
 - 14049: greatly simplified, removed self-intersection on margin of error
 - 1403A: other hull, same plant (but a bit shorter)
 - 1404A: greatly simplified, removed touching curves
@@ -620,7 +621,7 @@ Subtotal: 184
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 386
+Subtotal: 387
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -705,6 +706,7 @@ Subtotal: 386
 - 1357E: march, my A28 + more
 - 13582: franken near 81
 - 13585: after 84
+- 1358A: march, after 8B
 - 1358B: near-march, after 8C
 - 1358C: near-march, after 90
 - 1358E: near-march, after 90
@@ -973,7 +975,7 @@ Subtotal: 386
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 348
+Subtotal: 349
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -981,4 +983,4 @@ Subtotal: 348
 
 Subtotal: 2
 
-Total: 1189
+Total: 1190
