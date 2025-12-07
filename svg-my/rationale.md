@@ -709,6 +709,7 @@ Subtotal: 387
 - 1358A: march, after 8B
 - 1358B: near-march, after 8C
 - 1358C: near-march, after 90
+- 1358D: march, after 13495
 - 1358E: near-march, after 90
 - 1358F: master class (Kolya + me), after 13509 + knife from some donkey
 - 13590: near-march, after 91
@@ -975,7 +976,7 @@ Subtotal: 387
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 349
+Subtotal: 350
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -983,4 +984,4 @@ Subtotal: 349
 
 Subtotal: 2
 
-Total: 1190
+Total: 1191
