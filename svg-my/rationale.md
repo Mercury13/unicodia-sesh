@@ -912,6 +912,11 @@ Subtotal: 387
 - 13E9B: after M242 ex
 - 13F41: after 42
 - 13F50: campaign for plans
+- 13F6B: after 6D
+- 13F6C: 6B + moved battlements + created boxes
+- 13F6D: some O13 + shorter inner wall + removed bad points
+- 13F70: after 6B
+- 13F71: after 6C
 - 13F81: drawn after 80
 - 13FAD: after AC
 - 13FBC: campaign for forked booth
@@ -978,7 +983,7 @@ Subtotal: 387
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 353
+Subtotal: 358
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -986,4 +991,4 @@ Subtotal: 353
 
 Subtotal: 2
 
-Total: 1194
+Total: 1199
