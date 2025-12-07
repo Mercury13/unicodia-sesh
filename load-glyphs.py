@@ -330,7 +330,6 @@ GLYPH_SIZES = {
     0x13539: MEDWIDE,  # building, same
     0x13548: EVERYBIT,  # scribe
     0x1354D: WIDE,  # butcher
-    0x1358D: MEDWIDE,  # illuminate, want surely height-limited
     0x135BB: MEDWIDE,
     0x135BD: WIDE,
     0x135D3: MEDWIDE,
