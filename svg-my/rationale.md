@@ -238,6 +238,7 @@ Subtotal: 184
 - 13478: frankenmade from scratch after 13527 using old hands
 - 1347D: covered, removed beard
 - 13483: my A1, just low-hanging
+- 1348F: combination of modern man and older shit
 - 134C3: leaning by 45° to the left (rather than lying)
 - 134CB: removed beard per NewG, a little bit bigger ankh
 - 134D9: shorter clothes
@@ -331,8 +332,8 @@ Subtotal: 184
 - 13750: short hair
 - 13751: short hair
 - 13755: short hair
-- 13756: short hair
-- 13757: short hair: ONE HUNDRED
+- 13756: short hair: ONE HUNDRED
+- 13757: short hair
 - 13759: short hair
 - 1375A: short hair
 - 1375B: short hair
@@ -431,8 +432,8 @@ Subtotal: 184
 - 13BAA: waves unseen in cell’s detail
 - 13BAB: same, plus redrew semicircle
 - 13BDE: a bit out of canvas
-- 13BE5: flip ←→
-- 13C17: just 10% bigger: TWO HUNDRED
+- 13BE5: flip ←→: TWO HUNDRED
+- 13C17: just 10% bigger
 - 13C18: more detailed head, white neck
 - 13C19: white neck
 - 13C1C: white neck
@@ -531,8 +532,8 @@ Subtotal: 184
 - 14021: consistency, after other P1’s
 - 14023: consistency, after other P1’s
 - 14026: consistency, after 22
-- 14048: greatly simplified, removed self-intersection on margin of error
-- 14049: greatly simplified, removed self-intersection on margin of error: THREE HUNDRED
+- 14048: greatly simplified, removed self-intersection on margin of error: THREE HUNDRED
+- 14049: greatly simplified, removed self-intersection on margin of error
 - 1403A: other hull, same plant (but a bit shorter)
 - 1404A: greatly simplified, removed touching curves
 - 1403C: thicker throwing stick
@@ -619,7 +620,7 @@ Subtotal: 184
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 385
+Subtotal: 386
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -974,4 +975,4 @@ Subtotal: 343
 
 Subtotal: 2
 
-Total: 1182
+Total: 1183
