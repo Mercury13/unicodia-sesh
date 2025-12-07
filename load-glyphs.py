@@ -472,6 +472,7 @@ GLYPH_SIZES = {
     0x1417F: WIDE,  # more feathers on horns
     0x14180: MEDWIDE, 0x14181: MEDWIDE,
     0x14183: MEDWIDE, 0x14184: MEDWIDE,
+    0x14191: MEDWIDE,  # one of the necklaces
     0x141AB: MEDWIDE,  # some knot
     0x141B5: WIDE, 0x141B6: EVERYBIT,
     0x141F1: MEDIUM,
