@@ -363,6 +363,7 @@ GLYPH_SIZES = {
     0x1392A: EVERYBIT,  # woman holding sky
     # D: parts of human
     0x1392D: MEDIUM, 0x1392E: SMALL, 0x1392F: SMALL,  # heads
+    0x13937: MEDIUM,  # want same way as 3C
     0x1393C: MEDIUM,
     0x13944: MEDWIDE, 0x13945: SQUARE, 0x13946: SQUARE,  # head + arm
     0x13948: MEDWIDE, 0x13949: WIDE, 0x1394A: MEDWIDE,
