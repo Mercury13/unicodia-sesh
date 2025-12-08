@@ -3,44 +3,44 @@
 RETURN = temporarily deleted, then returned
 
 # Will never extend
-- 130C9, 130CA, 130CB, 130CC, 130CD / 130CE, 130CF, 130D1, 130D2 = counting circles (9)
-- 13064, 1381E, 1381F, 13820 = Min (4)
+- 130C9, 130CA, 130CB, 130CC, 130CD / 130CE, 130CF, 130D1, 130D2 = counting circles **(9)**
+- 13064, 1381E, 1381F, 13820 = Min **(4)**
   - made dwarfier, enlarged pencil, removed sun, changed hat, main is 1F now
-- 130AD, 130AE, 130AF, 130B0, 130B1 / 130B2, 130B3, 130B4, 130B5, 130B6 / 130B7 = counting fingers (11)
-- 13139, 1313A, 1313B, 1313C, 1313D = flesh and shit (5)
-- 131BC, 131BD, 131BE, 131BF, 131C0 / 131C1, 131C2, 1313, 1314 = counting flowers (9)
+- 130AD, 130AE, 130AF, 130B0, 130B1 / 130B2, 130B3, 130B4, 130B5, 130B6 / 130B7 = counting fingers **(11)**
+- 13139, 1313A, 1313B, 1313C, 1313D = flesh and shit **(5)**
+- 131BC, 131BD, 131BE, 131BF, 131C0 / 131C1, 131C2, 1313, 1314 = counting flowers **(9)**
     **(warning, in BC_2 fixed curvature and aligned stalk)**
-- 131E0, 131E1, 131E2, 13EA5 = grains (4)
-- 131E8, 13EB1, 13EB2 = baskets (3)
-- 13212, 13213, 13F1F = campaign for sand (3)
-- 1321E, 1321F, 13F44, 13F45 = campaign for wells (4)
+- 131E0, 131E1, 131E2, 13EA5 = grains **(4)**
+- 131E8, 13EB1, 13EB2 = baskets **(3)**
+- 13212, 13213, 13F1F = campaign for sand **(3)**
+- 1321E, 1321F, 13F44, 13F45 = campaign for wells **(4)**
 - 13250, 13251, 13252, 13253, 13254 / 13255, 13256, 13257, 13258, 13259…
 - 1325A, 1325B, 1325C, 1325D, 1325E / 1325F, 13260, 13261, 13262, 13263…
-- 13269, 1326A, 1326B, 13280, 13F97 = campaign for walls (25)
-- 13338, 13339, 1333A, 1333B, 1333C = campaign for hoes (5)
-- 13362, 13363, 13364, 13365, 13366 / 13367, 13368, 13369, 1336A, 1336B = counting ropes (10)
-- 13376, 13377, 13378, 13379, 1337A / 1337B, 1342F = campaign for cartouches (7)
+- 13269, 1326A, 1326B, 13280, 13F97 = campaign for walls **(25)**
+- 13338, 13339, 1333A, 1333B, 1333C = campaign for hoes **(5)**
+- 13362, 13363, 13364, 13365, 13366 / 13367, 13368, 13369, 1336A, 1336B = counting ropes **(10)**
+- 13376, 13377, 13378, 13379, 1337A / 1337B, 1342F = campaign for cartouches **(7)**
 - 13386, 13387, 13388, 13389, 1338A / 1338B, 1338C, 1338D, 1338E, 1338F…
-- 13390, 13391, 13392, 133AD, 133AE = counting hobbles (15)
-- 133E4, 133E5, 133E6, 133E7, 133EA / 133EB, 133EC, 133ED, 133EE, 133F0 / 143E7, 143E8 = sticks and dots (12)
-- 13460, 61, 62, 63, 64, 65, 67 = above the fold (7)
-- 134CC, 135EC, 1372D, 1374C / 137CA, 13804, 13806, 13887, 1393B…
-- 13983, 13B52, 13B9E, 13CCE, 13F3D / 14016, 14091, 14198, 142СС, 14330 = tofu (19)
-- 136AE, 142AD = campaign for phasing out NewGardinerNonCore (2)
+- 13390, 13391, 13392, 133AD, 133AE = counting hobbles **(15)**
+- 133E4, 133E5, 133E6, 133E7, 133EA / 133EB, 133EC, 133ED, 133EE, 133F0 / 143E7, 143E8 = sticks and dots **(12)**
+- 13460, 61, 62, 63, 64, 65, 67 = above the fold **(7)**
+- 134CC, 135EC, 1372D, 1374C 137CA / 13804, 13806, 13887, 1393B 13983…
+- 13B52, 13B9E, 13CCE, 13F3D 14016 / 14091, 14198, 142СС, 14330 = tofu **(19)**
+- 136AE, 142AD = campaign for phasing out NewGardinerNonCore **(2)**
 - 13469, 1346D, 1346F, 13471, 13472 / 13473, 13476, 13477, 1347A, 1347C…
-- 1347E, 1347F, 13480, 13481, 13482 / 13486, 13487 = campaign for crouching men (17)
-- 1348C, 1348E, 13496, 1349C, 134A0 / 134A3, 134A4, 134A5, 134A7, 134AD = campaign for standing men (10)
-- 134B0, 134B1, 134B2, 134B4, 134B5 / 134B6, 134B8, 134BB, 134C0, 134C4 = campaign for lying (10)
-- 134C8, 134C9, 134CA, 134CD, 134D2 / 134D7, 134D8, 134DA = campaign for staves (8)
+- 1347E, 1347F, 13480, 13481, 13482 / 13486, 13487 = campaign for crouching men **(17)**
+- 1348C, 1348E, 13496, 1349C, 134A0 / 134A3, 134A4, 134A5, 134A7, 134AD = campaign for standing men **(10)**
+- 134B0, 134B1, 134B2, 134B4, 134B5 / 134B6, 134B8, 134BB, 134C0, 134C4 = campaign for lying **(10)**
+- 134C8, 134C9, 134CA, 134CD, 134D2 / 134D7, 134D8, 134DA = campaign for staves **(8)**
 - 134E0, 134E1, 134E2, 134E3, 134E5 / 134E7, 134E8, 134E9, 134EB, 134EE…
-- 134EF, 134F0, 134F6, 134F7, 134F9 = campaign for sitting with props (15)
-- 1354E, 1354F, 13550, 13556, 13557 / 13558, 13559, 1355C = seat-covered #1, 1 fixed, 7 new (8)
-- 13551, 54, 5D, 60, 61, 62, A1: campaign for terror beard, 1 fixed + 6 new (7)
-- 13700..0D = campaign for tits, cannot make new w/o fixing existing, 9 fixed + 5 new (14)
-- 13972, 13973, 13975, 13977, 1397B / 1397E, 13985, 13989, 1398B, 1398F = eyes (10)
-- 14224, 14225, 14226, 14227, 14228 = bowstrings, 4 fixed + 1 new (5)
-- 1437A, 1437B, 1437C, 1437D, 1437E = 60 unit racks (5)
-- 143CA, 143CB, 143CC, 143DF, 143E0 = circles, 4 fixed + 1 new (5)
+- 134EF, 134F0, 134F6, 134F7, 134F9 = campaign for sitting with props **(15)**
+- 1354E, 1354F, 13550, 13556, 13557 / 13558, 13559, 1355C = seat-covered #1, 1 fixed, 7 new **(8)**
+- 13551, 54, 5D, 60, 61, 62, A1: campaign for terror beard, 1 fixed + 6 new **(7)**
+- 13700..0D = campaign for tits, cannot make new w/o fixing existing, 9 fixed + 5 new **(14)**
+- 13972, 13973, 13975, 13977, 1397B / 1397E, 13985, 13989, 1398B, 1398F = eyes **(10)**
+- 14224, 14225, 14226, 14227, 14228 = bowstrings, 4 fixed + 1 new **(5)**
+- 1437A, 1437B, 1437C, 1437D, 1437E = 60 unit racks **(5)**
+- 143CA, 143CB, 143CC, 143DF, 143E0 = circles, 4 fixed + 1 new **(5)**
 
 Subtotal: 268
 
@@ -396,6 +396,7 @@ Subtotal: 184
 - 1391C: ankh sloped forward
 - 1391D: arm lower, greatly simplified
 - 1392A: fixed self-intersection
+- 1393F: after 3B, more canonical
 - 1394B: cut forearm
 - 1396A: craggy, badly converted
 - 13981: wrong eye position
@@ -431,8 +432,8 @@ Subtotal: 184
 - 13B95: uraeus, not snake
 - 13B9C: other legs
 - 13BAA: waves unseen in cell’s detail
-- 13BAB: same, plus redrew semicircle
-- 13BDE: a bit out of canvas: TWO HUNDRED
+- 13BAB: same, plus redrew semicircle: TWO HUNDRED
+- 13BDE: a bit out of canvas
 - 13BE5: flip ←→
 - 13C17: just 10% bigger
 - 13C18: more detailed head, white neck
@@ -531,8 +532,8 @@ Subtotal: 184
 - 1401A: consistency, after 22/26
 - 1401E: canal does not have curved lines
 - 14021: consistency, after other P1’s
-- 14023: consistency, after other P1’s
-- 14026: consistency, after 22: THREE HUNDRED
+- 14023: consistency, after other P1’s: THREE HUNDRED
+- 14026: consistency, after 22
 - 14048: greatly simplified, removed self-intersection on margin of error
 - 14049: greatly simplified, removed self-intersection on margin of error
 - 1403A: other hull, same plant (but a bit shorter)
@@ -621,7 +622,7 @@ Subtotal: 184
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 387
+Subtotal: 388
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -834,6 +835,8 @@ Subtotal: 387
 - 1392D: after some woman’s head+arms
 - 13933: after 32
 - 13936: after 13FEC
+- 1393D: after 3B
+- 1393E: after 3D
 - 13944: after extended D78
 - 139AB: after AA
 - 139AF: after A8
@@ -984,7 +987,7 @@ Subtotal: 387
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 359
+Subtotal: 361
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -992,4 +995,4 @@ Subtotal: 359
 
 Subtotal: 2
 
-Total: 1200
+Total: 1203
