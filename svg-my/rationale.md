@@ -786,6 +786,7 @@ Subtotal: 388
 - 136AF: Kolya’s work re-grafted to 1369F, other curl, other feathers, exaggerated stick
 - 1371B: after 46
 - 1371E: after 21
+- 13726: Kolya’s cool concept + my master class
 - 13747: after 46
 - 13776: after 75
 - 1377F: Werning + flipped knife (actually knife from another hand), fixed rubber-hose anatomy
@@ -987,7 +988,7 @@ Subtotal: 388
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 361
+Subtotal: 362
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -995,4 +996,4 @@ Subtotal: 361
 
 Subtotal: 2
 
-Total: 1203
+Total: 1204
