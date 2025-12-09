@@ -324,6 +324,7 @@ Subtotal: 184
 - 136E7: slanted ankh
 - 136F4: more traditional woman
 - 13724: possible intersections, exaggerated ankh
+- 13727: added diadem
 - 13737: pregnant
 - 13738: same
 - 13739: same
@@ -331,8 +332,8 @@ Subtotal: 184
 - 1374D: 4F minus holding
 - 1374F: short hair
 - 13750: short hair
-- 13751: short hair
-- 13755: short hair: ONE HUNDRED
+- 13751: short hair: ONE HUNDRED
+- 13755: short hair
 - 13756: short hair
 - 13757: short hair
 - 13759: short hair
@@ -431,8 +432,8 @@ Subtotal: 184
 - 13B94: false hole, symmetry
 - 13B95: uraeus, not snake
 - 13B9C: other legs
-- 13BAA: waves unseen in cell’s detail
-- 13BAB: same, plus redrew semicircle: TWO HUNDRED
+- 13BAA: waves unseen in cell’s detail: TWO HUNDRED
+- 13BAB: same, plus redrew semicircle
 - 13BDE: a bit out of canvas
 - 13BE5: flip ←→
 - 13C17: just 10% bigger
@@ -531,8 +532,8 @@ Subtotal: 184
 - 14018: double lines → thin
 - 1401A: consistency, after 22/26
 - 1401E: canal does not have curved lines
-- 14021: consistency, after other P1’s
-- 14023: consistency, after other P1’s: THREE HUNDRED
+- 14021: consistency, after other P1’s: THREE HUNDRED
+- 14023: consistency, after other P1’s
 - 14026: consistency, after 22
 - 14048: greatly simplified, removed self-intersection on margin of error
 - 14049: greatly simplified, removed self-intersection on margin of error
@@ -622,7 +623,7 @@ Subtotal: 184
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 388
+Subtotal: 389
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -996,4 +997,4 @@ Subtotal: 362
 
 Subtotal: 2
 
-Total: 1204
+Total: 1205
