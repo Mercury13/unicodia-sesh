@@ -787,6 +787,8 @@ Subtotal: 389
 - 136AF: Kolya’s work re-grafted to 1369F, other curl, other feathers, exaggerated stick
 - 1371B: after 46
 - 1371E: after 21
+- 13722: Kolya’s work + my fist
+- 13723: Kolya’s work
 - 13726: Kolya’s cool concept + my master class
 - 13747: after 46
 - 13776: after 75
@@ -989,7 +991,7 @@ Subtotal: 389
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 362
+Subtotal: 364
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -997,4 +999,4 @@ Subtotal: 362
 
 Subtotal: 2
 
-Total: 1205
+Total: 1207
