@@ -785,6 +785,7 @@ Subtotal: 389
 - 136D9: same
 - 136A2: franken from two extended A310’s
 - 136AF: Kolya’s work re-grafted to 1369F, other curl, other feathers, exaggerated stick
+- 13711: Kolya
 - 1371B: after 46
 - 1371E: after 21
 - 13722: Kolya’s work + my fist
@@ -991,7 +992,7 @@ Subtotal: 389
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 364
+Subtotal: 365
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -999,4 +1000,4 @@ Subtotal: 364
 
 Subtotal: 2
 
-Total: 1207
+Total: 1208
