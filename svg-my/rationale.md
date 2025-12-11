@@ -788,6 +788,7 @@ Subtotal: 389
 - 13711: Kolya
 - 1371B: after 46
 - 1371E: after 21
+- 1371F: 1E + Kolya + enlarged fist
 - 13722: Kolya’s work + my fist
 - 13723: Kolya’s work
 - 13726: Kolya’s cool concept + my master class
@@ -992,7 +993,7 @@ Subtotal: 389
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 365
+Subtotal: 366
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1000,4 +1001,4 @@ Subtotal: 365
 
 Subtotal: 2
 
-Total: 1208
+Total: 1209
