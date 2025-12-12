@@ -905,6 +905,7 @@ Subtotal: 391
 - 13CD4: metrics from Unicode + bird obvious + made room for curve joining
 - 13CDD: after DC
 - 13D06: after 07
+- 13D44: 13D45 − uraei
 - 13D46: 13D47 − flail
 - 13D47: some I98 + greatly simplified
 - 13D52: I7C − wickerwork
@@ -997,7 +998,7 @@ Subtotal: 391
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 368
+Subtotal: 369
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1005,4 +1006,4 @@ Subtotal: 368
 
 Subtotal: 2
 
-Total: 1213
+Total: 1214
