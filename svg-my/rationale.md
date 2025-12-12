@@ -777,6 +777,7 @@ Subtotal: 389
 - 136B9: Kolya’s work, fixed
 - 136BD: Kolya’s work, fixed
 - 136C0: Kolya’s work, fixed
+- 136C1: excellent Kolya’s work, minor fixes
 - 136C6: Kolya’s work, fixed
 - 136C7: Kolya’s work, fixed
 - 136CB: master class for Kolya, after 134E2
@@ -993,7 +994,7 @@ Subtotal: 389
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 366
+Subtotal: 367
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1001,4 +1002,4 @@ Subtotal: 366
 
 Subtotal: 2
 
-Total: 1209
+Total: 1210
