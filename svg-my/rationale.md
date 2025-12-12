@@ -345,6 +345,8 @@ Subtotal: 184
 - 13772: stretched heel → normal, white legs → black
 - 13795: Shu no longer has uraeus, also removed ornate clothes
 - 13797: too long and polygonal foot he sits on, deleted armbands
+- 137DA: khopesh points forward
+- 137DB: same
 - 137EC: man’s hair/beard
 - 137EF: no beard, no collar
 - 137F1: no beard, no collar
@@ -430,9 +432,9 @@ Subtotal: 184
 - 13B69: 40% bigger rams
 - 13B93: after 94
 - 13B94: false hole, symmetry
-- 13B95: uraeus, not snake
+- 13B95: uraeus, not snake: TWO HUNDRED
 - 13B9C: other legs
-- 13BAA: waves unseen in cell’s detail: TWO HUNDRED
+- 13BAA: waves unseen in cell’s detail
 - 13BAB: same, plus redrew semicircle
 - 13BDE: a bit out of canvas
 - 13BE5: flip ←→
@@ -530,9 +532,9 @@ Subtotal: 184
 - 14015: after similar-looking basic O50’s
 - 140C6: found out that loop was done by adding a white object, but redrew
 - 14018: double lines → thin
-- 1401A: consistency, after 22/26
+- 1401A: consistency, after 22/26: THREE HUNDRED
 - 1401E: canal does not have curved lines
-- 14021: consistency, after other P1’s: THREE HUNDRED
+- 14021: consistency, after other P1’s
 - 14023: consistency, after other P1’s
 - 14026: consistency, after 22
 - 14048: greatly simplified, removed self-intersection on margin of error
@@ -623,7 +625,7 @@ Subtotal: 184
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 389
+Subtotal: 391
 
 # Duped with NewGardiner
 - 13007: basic, after 08
