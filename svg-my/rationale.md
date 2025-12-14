@@ -798,6 +798,7 @@ Subtotal: 391
 - 13723: Kolya’s work
 - 13726: Kolya’s cool concept + my master class
 - 13729: again master class for Kolya
+- 13731: found out that got cool 13736
 - 13736: and again master class
 - 13747: after 46
 - 13776: after 75
@@ -1002,7 +1003,7 @@ Subtotal: 391
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 373
+Subtotal: 374
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1010,4 +1011,4 @@ Subtotal: 373
 
 Subtotal: 2
 
-Total: 1218
+Total: 1219
