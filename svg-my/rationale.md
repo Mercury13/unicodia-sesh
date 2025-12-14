@@ -905,6 +905,7 @@ Subtotal: 391
 - 13CC7: JSesh G162A + some very simplified uraeus
 - 13CD4: metrics from Unicode + bird obvious + made room for curve joining
 - 13CDD: after DC
+- 13CEE: after ED, drew fill for myself
 - 13D06: after 07
 - 13D44: 13D45 − uraei
 - 13D46: 13D47 − flail
@@ -999,7 +1000,7 @@ Subtotal: 391
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 370
+Subtotal: 371
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1007,4 +1008,4 @@ Subtotal: 370
 
 Subtotal: 2
 
-Total: 1215
+Total: 1216
