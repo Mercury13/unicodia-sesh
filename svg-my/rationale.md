@@ -797,6 +797,7 @@ Subtotal: 391
 - 13722: Kolya’s work + my fist
 - 13723: Kolya’s work
 - 13726: Kolya’s cool concept + my master class
+- 13729: again master class for Kolya
 - 13747: after 46
 - 13776: after 75
 - 1377F: Werning + flipped knife (actually knife from another hand), fixed rubber-hose anatomy
@@ -1000,7 +1001,7 @@ Subtotal: 391
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 371
+Subtotal: 372
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1008,4 +1009,4 @@ Subtotal: 371
 
 Subtotal: 2
 
-Total: 1216
+Total: 1217
