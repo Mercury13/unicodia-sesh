@@ -653,8 +653,8 @@ Subtotal: 391
 - 132C3: after C2
 - 132CD: made somehow from another R26
 - 132CE: made almost from scratch (handle and arrows are not mine)
-- 132D3: obvious
-- 132D8: obvious
+- 132D3: Werning’s crown + my crossroads
+- 132D8: Werning’s crown + my crossroads
 - 132F0: from scratch
 - 132F1: from scratch
 - 13332: 14201 + loop
