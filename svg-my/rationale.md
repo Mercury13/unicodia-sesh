@@ -801,7 +801,11 @@ Subtotal: 391
 - 13729: again master class for Kolya
 - 13731: found out that got cool 13736
 - 13736: and again master class
+- 1373B: Kolya + lots of fixes
+- 1373C: redone from scratch after Kolya
 - 13747: after 46
+- 1374B: Kolya
+- 13753: Kolya + fixing his troubles
 - 13776: after 75
 - 1377F: Werning + flipped knife (actually knife from another hand), fixed rubber-hose anatomy
 - 137D4: found similar, drew sun
@@ -1004,7 +1008,7 @@ Subtotal: 391
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 375
+Subtotal: 379
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1012,4 +1016,4 @@ Subtotal: 375
 
 Subtotal: 2
 
-Total: 1220
+Total: 1224
