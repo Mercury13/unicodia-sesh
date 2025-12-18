@@ -574,6 +574,7 @@ Subtotal: 184
 - 141F1: redrew from scratch
 - 141F3: redrew from scratch; it’s a cloth rather than a room with uraei
 - 14201: redrew from scratch; consistent with 02 and 03
+- 1420E: because of self-intersection, symmetrized arrow, added a new O49
 - 14202: redrew from scratch; thick lines even on small size
 - 14212: after 13
 - 14213: flip arrows ↑↓
@@ -626,7 +627,7 @@ Subtotal: 184
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 392
+Subtotal: 393
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1018,4 +1019,4 @@ Subtotal: 380
 
 Subtotal: 2
 
-Total: 1226
+Total: 1227
