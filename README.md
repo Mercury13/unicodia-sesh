@@ -61,10 +61,9 @@ The author does not provide any stability. Everything may change, including bear
 - Phase 2. Check all glyphs, maturity 3. ☂️ ≈3200/3995 ✅ September 2025
 - Phase 3. Cover main block, maturity 5. ✅ November 2025
 - **Mini-task 3a.** Create stubs of special characters. ☂️ 3359/3995 ✅ November 2025
-- Mini-task 3b. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
-- Milestone 3c. Beat NewGardiner in coverage.
+- Milestone 3b. Beat NewGardiner in coverage.
+- Mini-task 3c. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
-- ??? Phase out ``manual`` directory used for quick fixes
 - ??? Make build process less path-dependent
 
 Probably WILL NEVER support full formatting.

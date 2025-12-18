@@ -83,7 +83,6 @@ def removeObviousPaths(layer):
     removeSmallPaths(layer, 2)
 
 SIMPVALUE = 0.8
-SMALLSIMPVALUE = 0.6
 BIGSMALLVALUE = 5
 
 def removeMicroIntersections(layer):
@@ -658,20 +657,6 @@ def newGlyph(font, code, glyphName):
     glyph.glyphname = glyphName
     return glyph
 
-def loadManualGlyph(font, code, glyphName, fname, logName):
-    """
-        Load glyph manually optimized by user
-    """
-    glyph = newGlyph(font, code, glyphName)
-    glyph.importOutlines(fname, scale=False, correctdir=True)
-    glyph.simplify(SMALLSIMPVALUE, ['mergelines'])
-    fixBearings(glyph, code)
-    if glyph.selfIntersects():
-        log.write("CRIT: {} is {}, and still self-intersects!\n".format(glyph.glyphname, logName))
-
-def getManualName(dirName, glyphName):
-    return "{}/{}_UnicodiaSesh.svg".format(dirName, glyphName)
-    
 def loadMyGlyph(font, sHex, cp, svgName):
     """
         Load glyph created from scratch by user
@@ -872,23 +857,15 @@ def loadUnikemet():
                             svgName = "svg/{}.svg".format(sValue)
                             svgRemadeName = "svg-remade/{}.svg".format(sValue)
                             cacheName = "cache/{}.svg".format(sValue)                        
-                            manualName = getManualName('manual', glyphName)
                             extensionName = "svg-ex/{}.svg".format(sHex)
                             reallyMyName = "svg-my/{}.svg".format(sHex)
                             # Load?
                             isLoaded = True
                             if os.path.exists(reallyMyName):
-                                checkLowPriority(manualName)
                                 checkLowPriority(extensionName)
                                 checkLowPriority(svgRemadeName)
                                 checkAutoPriority(cacheName)
                                 loadMyGlyph(font, sHex, code, reallyMyName)
-                            elif os.path.exists(manualName):
-                                # Manual glyph
-                                checkLowPriority(extensionName)
-                                checkLowPriority(svgRemadeName)
-                                checkAutoPriority(cacheName)
-                                loadManualGlyph(font, code, glyphName, manualName, 'manual')
                             elif os.path.exists(extensionName):
                                 checkLowPriority(svgRemadeName)
                                 checkAutoPriority(cacheName)
