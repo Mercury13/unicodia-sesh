@@ -745,6 +745,7 @@ Subtotal: 392
 - 135E0: dancer after DF
 - 13607: campaign for horses
 - 1360A: campaign for horses, big franken
+- 13619: simple yet hard, made custom hollows on dog’s legs
 - 13620: master class (Kolya + me), some child + the most craggy Y8
 - 13621: Kolya found the vessel, the rest craggy, put again to A446
 - 13626: after 25
@@ -1009,7 +1010,7 @@ Subtotal: 392
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 379
+Subtotal: 380
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1017,4 +1018,4 @@ Subtotal: 379
 
 Subtotal: 2
 
-Total: 1225
+Total: 1226
