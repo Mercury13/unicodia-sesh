@@ -282,7 +282,8 @@ Subtotal: 184
 - 1365D: beard king → god
 - 1365E: beard king → god
 - 1365F: beard king → god
-- 13606: shorter rope to make hiero narrower
+- 13605: better hanging rope, consistent dog
+- 13606: shorter foot/rope to make hiero narrower, consistent dog
 - 13667: beard none→god, wig short→long
 - 1366D: beard god→king
 - 13671: beard ?→king
@@ -331,8 +332,8 @@ Subtotal: 184
 - 13746: re-fixed self-intersection
 - 1374D: 4F minus holding
 - 1374F: short hair
-- 13750: short hair
-- 13751: short hair: ONE HUNDRED
+- 13750: short hair: ONE HUNDRED
+- 13751: short hair
 - 13755: short hair
 - 13756: short hair
 - 13757: short hair
@@ -431,8 +432,8 @@ Subtotal: 184
 - 13B68: uraeus, not snake
 - 13B69: 40% bigger rams
 - 13B93: after 94
-- 13B94: false hole, symmetry
-- 13B95: uraeus, not snake: TWO HUNDRED
+- 13B94: false hole, symmetry: TWO HUNDRED
+- 13B95: uraeus, not snake
 - 13B9C: other legs
 - 13BAA: waves unseen in cell’s detail
 - 13BAB: same, plus redrew semicircle
@@ -531,8 +532,8 @@ Subtotal: 184
 - 1400A: redrew
 - 14015: after similar-looking basic O50’s
 - 140C6: found out that loop was done by adding a white object, but redrew
-- 14018: double lines → thin
-- 1401A: consistency, after 22/26: THREE HUNDRED
+- 14018: double lines → thin: THREE HUNDRED
+- 1401A: consistency, after 22/26
 - 1401E: canal does not have curved lines
 - 14021: consistency, after other P1’s
 - 14023: consistency, after other P1’s
@@ -625,7 +626,7 @@ Subtotal: 184
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 391
+Subtotal: 392
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1016,4 +1017,4 @@ Subtotal: 379
 
 Subtotal: 2
 
-Total: 1224
+Total: 1225
