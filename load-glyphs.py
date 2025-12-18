@@ -135,6 +135,7 @@ BOWING = 950
 # General width-limited (=negative)
 NORMAL = -CELLWIDTH
 SQUARE = -1000
+HEMHEM = -1160
 HARE_NO_WHISKERS = -1131
 MEDWIDE = -1250
 WIDE = -1400
@@ -295,7 +296,6 @@ GLYPH_SIZES = {
     0x133CC: SMALL,  # well-known round jug
     # X: food
     0x133CF: TEENY,  # Ukrainian bread :)
-    0x133D0: MEDIUM, 0x133D1: MEDIUM,  # tall breads
     0x133D6: MEDIUM, 0x133D7: MEDIUM,  # round breads
     0x133D8: MEDIUM,  # half bread
     # Y: culture items
@@ -468,7 +468,7 @@ GLYPH_SIZES = {
     0x140FA: MEDIUM,
     0x140FE: EVERYBIT,
     # S: clothing and decorations
-    0x1416B: NORMAL, 0x1416C: NORMAL, 0x1416D: NORMAL,  # Hemhem crown, by sheer luck, just note
+    0x1416B: NORMAL, 0x1416C: HEMHEM, 0x1416D: HEMHEM,  # Hemhem crown
     0x14178: WIDE, 0x14179: WIDE,  # feathers on horns
     0x1417F: WIDE,  # more feathers on horns
     0x14180: MEDWIDE, 0x14181: MEDWIDE,
