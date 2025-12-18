@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="377.94272"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="W3A.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.67560839"
+     inkscape:cx="379.65781"
+     inkscape:cy="222.76218"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showguides="true">
+    <sodipodi:guide
+       position="549.41675,337.11557"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="549.41675,334.11557"
+       orientation="0.82242616,-0.56887188"
+       id="guide2"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="549.41675,334.11557"
+       orientation="0.81938402,0.57324499"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="549.41675,46.743359"
+       orientation="-0.81923191,-0.57346235"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="549.41675,46.743359"
+       orientation="-0.81615277,0.57783618"
+       id="guide5"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="549.41675,79.405079"
+       orientation="-0.82280247,-0.56832746"
+       id="guide6"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="549.41675,301.45385"
+       orientation="0.82684843,-0.56242482"
+       id="guide7"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <path
+     id="path1"
+     style="fill:#000000;stroke:none;stroke-width:1"
+     d="M 0 0 C 0 87.875573 43.355366 173.02899 130.06445 255.46094 C 217.16236 337.89289 356.94519 378.72102 549.41602 377.94336 L 549.41602 334.19922 C 536.58463 334.19922 528.80822 333.61571 524.91992 332.44922 L 423.43555 188.38867 L 527.83594 40.826172 L 549.41602 40.826172 L 549.41602 0 L 0 0 z M 82.238281 40.826172 L 186.63867 40.826172 L 117.23242 90.402344 L 151.64453 216.38477 C 92.153545 160.00442 59.490653 105.37306 53.658203 52.492188 L 82.238281 40.826172 z M 219.30078 40.826172 L 305.62109 40.826172 L 209.38477 132.98047 L 277.625 291.62305 C 266.34893 287.73475 249.82331 279.95787 228.04883 268.29297 C 206.27435 256.62807 189.74873 246.5191 178.47266 237.96484 L 139.97852 97.402344 L 219.30078 40.826172 z M 334.19922 40.826172 L 410.60352 40.826172 L 302.70508 166.80859 L 390.77344 321.36719 C 382.99684 321.36719 369.97228 319.23025 351.69727 314.95312 C 333.42226 310.676 317.09179 305.81471 302.70508 300.37109 L 233.29883 137.0625 L 334.19922 40.826172 z M 436.26758 40.826172 L 502.75781 40.826172 L 400.68945 188.38867 L 502.75781 334.19922 C 489.53759 334.19922 474.37219 333.42251 457.26367 331.86719 C 440.15515 330.31187 426.54708 328.75649 416.4375 327.20117 L 327.20117 168.55859 L 436.26758 40.826172 z M 549.41602 43.828125 L 449.43555 188.37109 L 549.41602 331.19922 L 549.41602 298.53711 L 473.31836 188.36523 L 549.41602 76.488281 L 549.41602 43.828125 z " />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path1"
+     id="use7"
+     transform="matrix(-1,0,0,1,1098.832,0)" />
+</svg>
