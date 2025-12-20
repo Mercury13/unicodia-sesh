@@ -729,9 +729,11 @@ Subtotal: 393
 - 135A6: march, after A12 = 1300E
 - 135A7: march, after incomplete 135A8
 - 135A8: near-march (A8 then A7), after 135A6
+- 135A9: march, after 135A8 + 5AB
 - 135AB: near-march, A212 + lots of editing
 - 135AC: near-march, after incomplete AB
 - 135AD: near-march, after 135A7
+- 135AE: march, after 135A9
 - 135B1: lots of captives here
 - 135B2: same
 - 135B3: same
@@ -1020,7 +1022,7 @@ Subtotal: 393
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 387
+Subtotal: 391
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1028,4 +1030,4 @@ Subtotal: 387
 
 Subtotal: 2
 
-Total: 1234
+Total: 1238
