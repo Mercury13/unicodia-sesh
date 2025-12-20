@@ -2,7 +2,7 @@
 
 **In a nutshell:** it is a Unicode 17 font for Egyptian hieroglyphs based on JSesh.
 - The nicest JSesh based font ever. Why — see below.
-- The second coverage among free and semi-free fonts. The first is NewGardiner, it does not support 568 extended characters by policy.
+- The widest coverage among free and semi-free fonts. The only catch: 568 NewGardiner’s tofu are extended (refuses by policy), and all UnicodiaSesh’s tofu are core.
 
 In my humble software called Unicodia, it was just a “gag font” for Egyptian hieroglyphs. Even in that state it was taken to various sites. But when I started to check/fix existing glyphs and draw new, it became clear that it might be the new standard for Egyptian font: at the moment of writing, more than 1’000 hieroglyphs are modified.
 
