@@ -750,6 +750,7 @@ Subtotal: 393
 - 135CD: finalize captives
 - 135D4: lots of captives here
 - 135D8: lots of captives here
+- 135D9: march, big franken, even standing man gave his forearms
 - 135DD: lots of captives here
 - 135E0: dancer after DF
 - 13607: campaign for horses
@@ -1022,7 +1023,7 @@ Subtotal: 393
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 391
+Subtotal: 392
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1030,4 +1031,4 @@ Subtotal: 391
 
 Subtotal: 2
 
-Total: 1238
+Total: 1239
