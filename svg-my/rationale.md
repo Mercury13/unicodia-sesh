@@ -726,6 +726,7 @@ Subtotal: 393
 - 13599: march, after 1358F + Re with khopesh
 - 1359D: found his cap among A1!
 - 1359F: march, after some standing + some covered
+- 135AB: near-march, A212 + lots of editing
 - 135B1: lots of captives here
 - 135B2: same
 - 135B3: same
@@ -931,6 +932,7 @@ Subtotal: 393
 - 13DCC: found some catfish in extensions
 - 13DF0: L2 minus wings
 - 13E02: N112 minus canals
+- 13E09: M55 + sprouts
 - 13E19: after 18
 - 13E2E: see desc
 - 13EB8: found in JSesh, added base
@@ -1011,7 +1013,7 @@ Subtotal: 393
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 380
+Subtotal: 382
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1019,4 +1021,4 @@ Subtotal: 380
 
 Subtotal: 2
 
-Total: 1227
+Total: 1229
