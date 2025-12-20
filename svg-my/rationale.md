@@ -726,6 +726,9 @@ Subtotal: 393
 - 13599: march, after 1358F + Re with khopesh
 - 1359D: found his cap among A1!
 - 1359F: march, after some standing + some covered
+- 135A6: march, after A12 = 1300E
+- 135A7: march, after incomplete 135A8
+- 135A8: near-march (A8 then A7), after 135A6
 - 135AB: near-march, A212 + lots of editing
 - 135B1: lots of captives here
 - 135B2: same
@@ -1013,7 +1016,7 @@ Subtotal: 393
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 382
+Subtotal: 385
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1021,4 +1024,4 @@ Subtotal: 382
 
 Subtotal: 2
 
-Total: 1229
+Total: 1232
