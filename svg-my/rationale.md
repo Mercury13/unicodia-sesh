@@ -940,6 +940,8 @@ Subtotal: 393
 - 13E09: M55 + sprouts
 - 13E19: after 18
 - 13E2E: see desc
+- 13E4B: from scratch
+- 13E4C: same
 - 13EB8: found in JSesh, added base
 - 13EFB: after FD
 - 13EFC: same
@@ -1018,7 +1020,7 @@ Subtotal: 393
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 386
+Subtotal: 387
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1026,4 +1028,4 @@ Subtotal: 386
 
 Subtotal: 2
 
-Total: 1233
+Total: 1234
