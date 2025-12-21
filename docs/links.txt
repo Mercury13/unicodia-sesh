@@ -3,3 +3,4 @@ https://github.com/thesaurus-linguae-aegyptiae/tla-jsesh-glyphs — Werning’s 
 https://thotsignlist.org/ — Thot Sign List
 https://www.phrp.be/ListAllSigns.php — real coloured hieros
 https://opendanes.org/nav/DANES-resources.html — more resources
+https://aku-pal.uni-mainz.de/graphemes#id=234 — hieratic
