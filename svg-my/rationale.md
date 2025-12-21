@@ -753,6 +753,7 @@ Subtotal: 393
 - 135D9: march, big franken, even standing man gave his forearms
 - 135DD: lots of captives here
 - 135E0: dancer after DF
+- 135FC: near-march, after extended A243
 - 13607: campaign for horses
 - 1360A: campaign for horses, big franken
 - 13619: simple yet hard, made custom hollows on dog’s legs
@@ -1023,7 +1024,7 @@ Subtotal: 393
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 392
+Subtotal: 393
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1031,4 +1032,4 @@ Subtotal: 392
 
 Subtotal: 2
 
-Total: 1239
+Total: 1240
