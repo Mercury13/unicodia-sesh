@@ -760,6 +760,7 @@ Subtotal: 393
 - 13620: master class (Kolya + me), some child + the most craggy Y8
 - 13621: Kolya found the vessel, the rest craggy, put again to A446
 - 13626: after 25
+- 13628: after 27 + thicker snake’s lines
 - 1362A: after 13016
 - 13633: after 13014
 - 1363C: after 13014
