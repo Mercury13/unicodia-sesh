@@ -754,6 +754,8 @@ Subtotal: 394
 - 135D9: march, big franken, even standing man gave his forearms
 - 135DD: lots of captives here
 - 135E0: dancer after DF
+- 135E7: near-march, dancer after 135D9 and 13491
+- 135E8: near-march, after E7
 - 135FC: near-march, after extended A243
 - 135FD: near-march, after 134F0
 - 13601: near-march, after 135FC, restored knee height
@@ -1035,7 +1037,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 403
+Subtotal: 405
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1043,4 +1045,4 @@ Subtotal: 403
 
 Subtotal: 2
 
-Total: 1251
+Total: 1253
