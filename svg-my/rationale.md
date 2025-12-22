@@ -755,6 +755,7 @@ Subtotal: 394
 - 135DD: lots of captives here
 - 135E0: dancer after DF
 - 135FC: near-march, after extended A243
+- 135FD: near-march, after 134F0
 - 13601: near-march, after 135FC, restored knee height
 - 13607: campaign for horses
 - 1360A: campaign for horses, big franken
@@ -1034,7 +1035,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 402
+Subtotal: 403
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1042,4 +1043,4 @@ Subtotal: 402
 
 Subtotal: 2
 
-Total: 1250
+Total: 1251
