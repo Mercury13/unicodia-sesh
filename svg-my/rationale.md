@@ -887,6 +887,7 @@ Subtotal: 394
 - 139FA: Werning + multiple improvements (phased out cusps…)
 - 13A0D: after 0E, and 0E is from new JSesh
 - 13A26: after 25
+- 13A35: obvious
 - 13A41: campaign for donkeys, after E216k
 - 13A63: master class
 - 13A69: the proper one had two sets of horns, removed flail from the improper :(
@@ -1033,7 +1034,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 401
+Subtotal: 402
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1041,4 +1042,4 @@ Subtotal: 401
 
 Subtotal: 2
 
-Total: 1249
+Total: 1250
