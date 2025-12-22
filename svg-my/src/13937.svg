@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="800"
+   id="svg3366"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="13937.svg"
+   version="1.0"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata3373">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>30/09/06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ST</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>D77 &quot;de synthèse&quot; à partir d'un signe de S.T, Var. de D77 
+FCD p. 136 
+in : nhsi 
+Pyr. 126b. Merenre
+Pyr. 553d Pepi Ier
+Pepi II 566a 
+Merenre 1708c</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3371" />
+  <sodipodi:namedview
+     inkscape:window-height="998"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.29698485"
+     inkscape:cx="-149.83929"
+     inkscape:cy="-136.37059"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg3366"
+     width="1800px"
+     height="1800px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="1"
+     showguides="true">
+    <sodipodi:guide
+       position="0,800"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1100,0"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="753.53134,413.82761"
+       orientation="-0.11065463,0.99385892"
+       id="guide4"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#000000;stroke:none;stroke-width:1"
+     d="m 663.92696,79.293911 c 59.20777,21.145789 92.51221,39.648289 99.91333,55.507489 8.45809,-9.51564 20.3525,-12.68757 35.68321,-9.51578 15.33043,3.17207 22.99564,16.91676 22.99564,41.23405 0,12.68741 -10.57275,32.24717 -31.71825,58.67928 -1.05875,17.97371 7.39947,22.2029 25.37468,12.68757 42.29131,-16.91647 65.28724,-50.48531 68.9878,-100.70651 C 888.86393,86.95911 860.84594,52.597409 801.10939,34.094908 741.37285,15.592707 695.64537,30.659042 663.92696,79.293911 Z m -26.96102,69.780509 c 9.51563,-28.54663 35.41911,-28.01726 77.71042,1.58811 -43.34857,19.03099 -69.25204,18.50162 -77.71042,-1.58811 z M 781.28509,290.2218 c -11.62987,-19.03099 -19.03084,-42.81979 -22.20291,-71.36642 26.43211,-26.43209 39.38392,-45.19884 38.85543,-56.30023 -0.52789,-11.10167 -5.28571,-13.74496 -14.27345,-7.92989 -8.98687,5.81508 -18.23812,8.72262 -27.75376,8.72262 -53.92147,-45.46308 -90.92632,-61.32228 -111.01455,-47.5776 -39.11953,53.92146 -50.22107,80.88219 -33.3046,80.88219 13.74469,0 21.14566,14.80194 22.20291,44.40582 2.11452,23.26032 8.45823,32.77581 19.03112,28.54648 42.29131,-9.51535 67.13752,5.2866 74.53864,44.40583 8.45808,12.68742 20.88111,16.65222 37.2691,11.89439 16.38799,-4.75752 21.93868,-16.65192 16.65207,-35.68319 z m 26.96059,-19.03114 c 14.80223,37.00501 39.91284,55.24312 75.33181,54.71433 35.41896,-0.52789 64.75845,18.23901 88.01846,56.30068 31.71875,80.35327 49.16395,179.20919 52.33565,296.56776 -89.86915,19.03097 -186.61052,30.1325 -290.22411,33.30458 -25.37485,24.31729 -49.42804,45.72718 -72.15957,64.22968 -22.73155,18.50251 -66.34451,26.16787 -130.83888,22.99608 -10.57259,-7.40113 -14.53739,-17.44539 -11.89439,-30.1328 2.64241,-12.68743 7.66462,-16.91647 15.06662,-12.68714 16.91647,4.22905 35.68321,4.22905 56.30023,0 20.61702,-4.22933 43.61295,-16.91675 68.9878,-38.06226 -29.60418,3.17179 -52.07148,11.10139 -67.40191,23.7888 -15.33071,12.68743 -27.22512,12.15954 -35.68321,-1.58366 56.03599,-47.5776 106.78552,-69.78051 152.24861,-66.60874 102.55633,-35.94775 178.15208,-57.62203 226.78725,-65.02285 L 892.3001,436.12906 c 0,-43.34857 -46.25625,-60.00079 -138.76876,-49.95667 l -208.54617,15.06664 c 16.91647,-50.74969 66.08012,-76.65316 147.49095,-77.71042 v -23.79104 c -20.08825,-3.17207 -36.74047,-3.69996 -49.95667,-1.58366 -13.21591,2.11453 -22.20277,-3.96494 -26.96059,-18.23841 -4.75782,-14.27316 -7.13673,-29.0751 -7.13673,-44.40583 0,-15.33041 -7.40097,-22.99562 -22.20291,-22.99562 -16.91646,-11.63017 -5.81493,-45.46324 33.30459,-101.49923 -3.17207,-15.8592 12.95137,-41.234037 48.37033,-76.124512 C 703.3131,1.22e-4 752.21251,-8.7224998 814.59236,8.7224426 876.9719,26.167686 909.48332,68.458985 912.12662,135.59634 c 2.64241,67.13767 -31.98368,112.33652 -103.87828,135.59654 z"
+     id="path3509"
+     sodipodi:nodetypes="cccsccscccccccccccsccccccccccscccccscccccccccssccccccc" />
+  <path
+     d="M 544.98517,401.23903 370.90865,470.34157 C 339.62945,431.0484 278.29817,368.47042 207.00215,296.7252 194.28101,265.7885 181.08413,237.20624 167.40351,210.95828 153.72294,184.7103 116.18466,160.40758 54.805532,138.07708 c -13.71504,2.56705 -21.62314,10.24387 -23.74484,22.99943 -2.1217,12.75554 1.2122,19.04833 10.0358,18.89993 17.16732,2.04747 34.55851,9.01994 52.15127,20.92472 17.592748,11.90473 33.780888,33.05516 48.569368,63.43794 -25.93652,-14.10067 -43.605868,-30.40791 -53.003238,-48.94026 -9.3974,-18.53234 -20.63527,-23.28263 -33.72216,-14.23645 33.5833,67.44746 71.779398,108.7251 114.606318,123.83958 46.49048,94.50149 123.02983,195.48073 157.90486,243.69592 8.45748,-0.41692 176.27035,-31.88066 286.40823,-114.48413 27.82427,-33.17499 75.20267,-60.11342 139.5202,-68.04137"
+     style="fill:#000000;stroke:none;stroke-width:1"
+     id="path1"
+     sodipodi:nodetypes="cccscscscsccccc" />
+</svg>

@@ -400,6 +400,7 @@ Subtotal: 184
 - 1391C: ankh sloped forward
 - 1391D: arm lower, greatly simplified
 - 1392A: fixed self-intersection
+- 13937: fixed position of both arms, base is 3C
 - 1393F: after 3B, more canonical
 - 1394B: cut forearm
 - 1396A: craggy, badly converted
@@ -431,8 +432,8 @@ Subtotal: 184
 - 13B66: greatly simplified
 - 13B68: uraeus, not snake
 - 13B69: 40% bigger rams
-- 13B93: after 94
-- 13B94: false hole, symmetry: TWO HUNDRED
+- 13B93: after 94: TWO HUNDRED
+- 13B94: false hole, symmetry
 - 13B95: uraeus, not snake
 - 13B9C: other legs
 - 13BAA: waves unseen in cell’s detail
@@ -531,8 +532,8 @@ Subtotal: 184
 - 13FEC: bovid’s ears
 - 1400A: redrew
 - 14015: after similar-looking basic O50’s
-- 140C6: found out that loop was done by adding a white object, but redrew
-- 14018: double lines → thin: THREE HUNDRED
+- 140C6: found out that loop was done by adding a white object, but redrew: THREE HUNDRED
+- 14018: double lines → thin
 - 1401A: consistency, after 22/26
 - 1401E: canal does not have curved lines
 - 14021: consistency, after other P1’s
@@ -627,7 +628,7 @@ Subtotal: 184
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 393
+Subtotal: 394
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -868,7 +869,10 @@ Subtotal: 393
 - 13926: same
 - 1392D: after some woman’s head+arms
 - 13933: after 32
+- 13934: obvious, though trimmed horns a bit
 - 13936: after 13FEC
+- 13938: after 13937
+- 13939: after 1393B
 - 1393D: after 3B
 - 1393E: after 3D
 - 13944: after extended D78
@@ -1028,7 +1032,7 @@ Subtotal: 393
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 397
+Subtotal: 400
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1036,4 +1040,4 @@ Subtotal: 397
 
 Subtotal: 2
 
-Total: 1244
+Total: 1248
