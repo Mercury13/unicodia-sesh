@@ -1,6 +1,9 @@
 ﻿# Rationale behind these characters
 
 RETURN = temporarily deleted, then returned
+Campaign = dedicated effort to fill some range or set
+March = campaign (dedicated effort) to fill in order of codes
+Near-march = not really march but something close to the 1st hole
 
 # Will never extend
 - 130C9, 130CA, 130CB, 130CC, 130CD / 130CE, 130CF, 130D1, 130D2 = counting circles **(9)**
@@ -777,6 +780,7 @@ Subtotal: 394
 - 13657: seat-covered #2
 - 13660: assembled from some random hieros, incl. extended A40?
 - 13661: 5F + my bold scarab
+- 1366E: praying from main block + uraeus from some lady
 - 136D2: 13478×2
 - 136DE: after DD
 - 1366F: franken
@@ -1039,7 +1043,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 407
+Subtotal: 408
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1047,4 +1051,4 @@ Subtotal: 407
 
 Subtotal: 2
 
-Total: 1255
+Total: 1256
