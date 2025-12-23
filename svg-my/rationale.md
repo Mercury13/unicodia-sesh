@@ -1034,11 +1034,12 @@ Subtotal: 394
 - 1435C: 1435A minus handle on lid, size preserved
 - 14393: from scratch
 - 1439B: 1439A + broken
+- 143C2: after all X3’s
 - 143C4: after C3
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 406
+Subtotal: 407
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1046,4 +1047,4 @@ Subtotal: 406
 
 Subtotal: 2
 
-Total: 1254
+Total: 1255
