@@ -820,6 +820,7 @@ Subtotal: 394
 - 13729: again master class for Kolya
 - 13731: found out that got cool 13736
 - 13736: and again master class
+- 1373A: 3B (Kolya+me) + 13737
 - 1373B: Kolya + lots of fixes
 - 1373C: redone from scratch after Kolya
 - 13747: after 46
@@ -1037,7 +1038,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 405
+Subtotal: 406
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1045,4 +1046,4 @@ Subtotal: 405
 
 Subtotal: 2
 
-Total: 1253
+Total: 1254
