@@ -4,6 +4,7 @@ RETURN = temporarily deleted, then returned
 Campaign = dedicated effort to fill some range or set
 March = campaign (dedicated effort) to fill in order of codes
 Near-march = not really march but something close to the 1st hole
+Franken = Frankenstein’s monster, made from small pieces of different pictures
 
 # Will never extend
 - 130C9, 130CA, 130CB, 130CC, 130CD / 130CE, 130CF, 130D1, 130D2 = counting circles **(9)**
@@ -756,6 +757,7 @@ Subtotal: 394
 - 135D4: lots of captives here
 - 135D8: lots of captives here
 - 135D9: march, big franken, even standing man gave his forearms
+- 135DC: march, made from small pieces, mainly from DE and 90
 - 135DD: lots of captives here
 - 135E0: dancer after DF
 - 135E7: near-march, dancer after 135D9 and 13491
@@ -1044,7 +1046,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 408
+Subtotal: 409
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1052,4 +1054,4 @@ Subtotal: 408
 
 Subtotal: 2
 
-Total: 1257
+Total: 1258
