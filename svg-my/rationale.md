@@ -132,6 +132,7 @@ Subtotal: 268
 - 130F8: head swap F7-F8
 - 130FB: removed individual fingers
 - 130FC: after FB, squeezed monkey just a bit
+- 13101: the former was anyone but hippo
 - 13108: Werning’s review, after 1FE=F1
 - 1310A: extended + thin solid stick
 - 13113: took extended F20 and changed to b/w F20
@@ -233,7 +234,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 184
+Subtotal: 185
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1051,4 +1052,4 @@ Subtotal: 408
 
 Subtotal: 2
 
-Total: 1256
+Total: 1257
