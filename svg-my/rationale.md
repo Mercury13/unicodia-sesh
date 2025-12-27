@@ -767,6 +767,9 @@ Subtotal: 394
 - 135ED: march, after 135EB and 135F5, double crown from some sitting
 - 135EE: march, after 135EB, beads from A239A
 - 135F0: march, after ED+EE
+- 135F0: march, after ED+EE
+- 135F2: march, after EC+EE
+- 135F3: march, after EC+EE
 - 135F5: optimized march, after 135EB
 - 135F7: optimized march, after 135ED+135F0
 - 135FC: near-march, after extended A243
@@ -1053,7 +1056,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 415
+Subtotal: 417
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1061,4 +1064,4 @@ Subtotal: 415
 
 Subtotal: 2
 
-Total: 1264
+Total: 1266
