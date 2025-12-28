@@ -772,6 +772,7 @@ Subtotal: 394
 - 135F3: march, after EC+EE
 - 135F4: march, after 13684=A300
 - 135F5: optimized march, after 135EB
+- 135F6: march, after 135F0 + 135F3
 - 135F7: optimized march, after 135ED+135F0
 - 135FC: near-march, after extended A243
 - 135FD: near-march, after 134F0
@@ -1057,7 +1058,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 418
+Subtotal: 419
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1065,4 +1066,4 @@ Subtotal: 418
 
 Subtotal: 2
 
-Total: 1267
+Total: 1268
