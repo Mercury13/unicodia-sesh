@@ -351,6 +351,7 @@ GLYPH_SIZES = {
     0x136D1: WIDE, 0x136D2: EVERYBIT,
     # B: woman
     0x1371B: MEDIUM,
+    0x13744: SQUARE,  # acrobat
     0x13746: MEDIUM, 0x13747: MEDIUM,  # bent women
     # C: god
     0x1378C: WIDE,
