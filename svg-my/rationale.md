@@ -774,6 +774,8 @@ Subtotal: 394
 - 135F5: optimized march, after 135EB
 - 135F6: march, after 135F0 + 135F3
 - 135F7: optimized march, after 135ED+135F0
+- 135F8: march, after 135F7
+- 135F9: march, after 135F8 + 135EE
 - 135FC: near-march, after extended A243
 - 135FD: near-march, after 134F0
 - 13601: near-march, after 135FC, restored knee height
@@ -1058,7 +1060,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 419
+Subtotal: 420
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1066,4 +1068,4 @@ Subtotal: 419
 
 Subtotal: 2
 
-Total: 1268
+Total: 1270
