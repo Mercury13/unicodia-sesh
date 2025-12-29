@@ -780,6 +780,7 @@ Subtotal: 394
 - 135FC: near-march, after extended A243
 - 135FD: near-march, after 134F0
 - 13601: near-march, after 135FC, restored knee height
+- 13603: march, after 134A0 + lute
 - 13607: campaign for horses
 - 1360A: campaign for horses, big franken
 - 13619: simple yet hard, made custom hollows on dog’s legs
@@ -1061,7 +1062,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 421
+Subtotal: 424
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1069,4 +1070,4 @@ Subtotal: 421
 
 Subtotal: 2
 
-Total: 1271
+Total: 1273
