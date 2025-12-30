@@ -826,6 +826,7 @@ Subtotal: 394
 - 136C6: Kolya’s work, fixed
 - 136C7: Kolya’s work, fixed
 - 136CB: master class for Kolya, after 134E2
+- 136CC: CB + lots of fixes
 - 136D4: just three holes in seated women
 - 136D7: same
 - 136D9: same
@@ -1062,7 +1063,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 424
+Subtotal: 425
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1070,4 +1071,4 @@ Subtotal: 424
 
 Subtotal: 2
 
-Total: 1273
+Total: 1274

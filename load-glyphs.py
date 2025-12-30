@@ -346,6 +346,7 @@ GLYPH_SIZES = {
     0x13625: WIDE,
     0x136A4: WIDE,
     0x136C4: MEDWIDE, 0x136C5: MEDWIDE, 0x136C6: MEDWIDE, 0x136C7: MEDWIDE, 0x136C8: MEDWIDE, # some lying
+    0x136CC: WIDE,  # king w/staves, barely fit into WIDE
     0x136CE: EVERYBIT,
     0x136D0: MEDWIDE,  # sex
     0x136D1: WIDE, 0x136D2: EVERYBIT,
