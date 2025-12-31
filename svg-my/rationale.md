@@ -1056,6 +1056,8 @@ Subtotal: 394
 - 142FE: after FD
 - 1432A: after 2B/2C
 - 1435C: 1435A minus handle on lid, size preserved
+- 14373: low-hanging for New Year, vessel found, canal mine
+- 14374: same, remake really quick (put guide, cut liquid)
 - 14393: from scratch
 - 1439B: 1439A + broken
 - 143C2: after all X3’s
@@ -1063,7 +1065,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 425
+Subtotal: 427
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1071,4 +1073,4 @@ Subtotal: 425
 
 Subtotal: 2
 
-Total: 1274
+Total: 1276
