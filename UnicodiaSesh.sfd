@@ -5,7 +5,7 @@ FamilyName: UnicodiaSesh
 Weight: Regular
 Copyright: Glyphs taken from JSesh
 UComments: "2024-9-29: Created with FontForge (http://fontforge.org)"
-Version: 3.0.7
+Version: 3.0.8
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1727638123
-ModificationTime: 1766622759
+ModificationTime: 1767332788
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,6 +56,7 @@ ContextSub2: coverage "Dotc1" 0 0 0 1
  1
   SeqLookup: 1 "Dmg dotc table"
 EndFPST
+LangName: 1033
 GaspTable: 1 65535 15 1
 Encoding: Custom
 UnicodeInterp: none
