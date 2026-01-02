@@ -539,6 +539,7 @@ Subtotal: 185
 - 1400A: redrew
 - 14015: after similar-looking basic O50’s
 - 140C6: found out that loop was done by adding a white object, but redrew: THREE HUNDRED
+- 14013: consistency, after 13294
 - 14018: double lines → thin
 - 1401A: consistency, after 22/26
 - 1401E: canal does not have curved lines
@@ -634,7 +635,7 @@ Subtotal: 185
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 394
+Subtotal: 395
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1075,4 +1076,4 @@ Subtotal: 429
 
 Subtotal: 2
 
-Total: 1278
+Total: 1279
