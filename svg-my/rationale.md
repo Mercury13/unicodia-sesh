@@ -539,6 +539,7 @@ Subtotal: 185
 - 1400A: redrew
 - 14015: after similar-looking basic O50’s
 - 140C6: found out that loop was done by adding a white object, but redrew: THREE HUNDRED
+- 14011: consistency, after 14012 (+moved lines half-step)
 - 14013: consistency, after 13294
 - 14018: double lines → thin
 - 1401A: consistency, after 22/26
@@ -635,7 +636,7 @@ Subtotal: 185
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 395
+Subtotal: 396
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1004,7 +1005,8 @@ Subtotal: 395
 - 13FF4: after O40
 - 14000: after 13FFF
 - 14002: after 03
-- 14012: Wrning + fixed spacings
+- 14010: after 14011, spacing is from thin air
+- 14012: Werning + fixed spacings
 - 14020: inverted 1F
 - 14022: “low-hanging” boats, after 1E
 - 1402D: after 1329E
@@ -1069,7 +1071,7 @@ Subtotal: 395
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 430
+Subtotal: 431
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1077,4 +1079,4 @@ Subtotal: 430
 
 Subtotal: 2
 
-Total: 1280
+Total: 1282
