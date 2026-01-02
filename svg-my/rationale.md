@@ -955,6 +955,7 @@ Subtotal: 394
 - 13C36: G29 + R7
 - 13C38: G29 + 37
 - 13C43: if it’s a guineafowl, let it be, IDK.
+- 13C46: after Werning
 - 13C4E: after 50
 - 13C4F: after 50 + bottom of legs taken elsewhere
 - 13C56: 55 + flail
@@ -1065,7 +1066,7 @@ Subtotal: 394
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 427
+Subtotal: 428
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1073,4 +1074,4 @@ Subtotal: 427
 
 Subtotal: 2
 
-Total: 1276
+Total: 1277
