@@ -1004,6 +1004,7 @@ Subtotal: 395
 - 13FF4: after O40
 - 14000: after 13FFF
 - 14002: after 03
+- 14012: Wrning + fixed spacings
 - 14020: inverted 1F
 - 14022: “low-hanging” boats, after 1E
 - 1402D: after 1329E
@@ -1068,7 +1069,7 @@ Subtotal: 395
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 429
+Subtotal: 430
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1076,4 +1077,4 @@ Subtotal: 429
 
 Subtotal: 2
 
-Total: 1279
+Total: 1280
