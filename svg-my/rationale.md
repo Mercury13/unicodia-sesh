@@ -1051,6 +1051,8 @@ Subtotal: 396
 - 1425B: after 5A
 - 14292: after 90 and others
 - 14297: after 96
+- 142A3: after U15 (ex)
+- 142A8: after U15 (ex) and N5 (my)
 - 142BA: after B7, BEFORE campaign for drills
 - 142C2: campaign for drills
 - 142C5: campaign for drills
@@ -1071,7 +1073,7 @@ Subtotal: 396
 - 14371: after 70
 - 143D3: after D2
 
-Subtotal: 431
+Subtotal: 433
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1079,4 +1081,4 @@ Subtotal: 431
 
 Subtotal: 2
 
-Total: 1282
+Total: 1284
