@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="1000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="13C02.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.26693281"
+     inkscape:cx="646.23004"
+     inkscape:cy="548.82725"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showguides="true">
+    <sodipodi:guide
+       position="0,650"
+       orientation="0,1"
+       id="guide2"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-236.01443,325"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,700"
+       orientation="0,1"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <path
+     id="path6"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#613583;fill-rule:evenodd;stroke-miterlimit:5;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 642.5625 300.07812 C 579.69151 301.563 519.8746 324.35978 472.11719 372.11719 C 408.44065 435.79374 389.13776 520.9104 405.5625 606.11914 C 421.98724 691.32788 472.49709 777.68849 547.4043 852.5957 C 622.31151 927.50292 708.67213 978.01276 793.88086 994.4375 C 879.08959 1010.8622 964.20634 991.55936 1027.8828 927.88281 C 1091.5594 864.20626 1110.8623 779.0896 1094.4375 693.88086 C 1078.0127 608.67212 1027.5028 522.3115 952.5957 447.4043 C 877.6885 372.49707 791.32788 321.98725 706.11914 305.5625 C 684.81696 301.45631 663.5195 299.58317 642.5625 300.07812 z M 643.67188 344.75977 C 661.14428 344.48797 679.15753 346.19279 697.60156 349.74805 C 771.37769 363.96906 850.99931 409.44851 920.77539 479.22461 C 990.55139 549.00069 1036.0309 628.62231 1050.252 702.39844 C 1064.473 776.17457 1049.0783 843.04679 996.0625 896.0625 C 943.04686 949.07819 876.17455 964.47296 802.39844 950.25195 C 728.62232 936.03095 649.0007 890.55148 579.22461 820.77539 C 509.44852 750.9993 463.96905 671.37769 449.74805 597.60156 C 435.52704 523.82543 450.9218 456.95322 503.9375 403.9375 C 543.69928 364.17572 591.25465 345.57516 643.67188 344.75977 z " />
+  <circle
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:65;stroke-miterlimit:5"
+     id="path4"
+     cx="410.80661"
+     cy="332.3688"
+     r="43.594574" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path4"
+     id="use11"
+     transform="translate(-113.33734,-18.551411)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path4"
+     id="use12"
+     transform="translate(-210.73775,42.994511)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path4"
+     id="use13"
+     transform="translate(-263.71912,143.94852)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path4"
+     id="use14"
+     transform="translate(-290.72812,256.87477)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path4"
+     id="use15"
+     transform="translate(-302.27679,372.29886)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path4"
+     id="use16"
+     transform="translate(-304.29748,495.76926)" />
+</svg>

@@ -232,11 +232,13 @@ Subtotal: 268
 - 133F7: wanted thicker and lower
 - 133FA: vertical stick; the rest counting marks are programmatic
 - 13404: horizontal stick; the rest counting marks are programmatic
+- 1340E: from scratch, consistent pustules
+- 1340F: from scratch, consistent pustules
 - 13413: from scratch
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 185
+Subtotal: 187
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -446,6 +448,8 @@ Subtotal: 185
 - 13BAB: same, plus redrew semicircle
 - 13BDE: a bit out of canvas
 - 13BE5: flip ←→
+- 13C01: from scratch, consistent pustules
+- 13C02: from scratch, consistent pustules
 - 13C17: just 10% bigger
 - 13C18: more detailed head, white neck
 - 13C19: white neck
@@ -536,9 +540,9 @@ Subtotal: 185
 - 13FDB: thinner lines
 - 13FEA: thinner lines
 - 13FEC: bovid’s ears
-- 1400A: redrew
+- 1400A: redrew: THREE HUNDRED
 - 14015: after similar-looking basic O50’s
-- 140C6: found out that loop was done by adding a white object, but redrew: THREE HUNDRED
+- 140C6: found out that loop was done by adding a white object, but redrew
 - 14011: consistency, after 14012 (+moved lines half-step)
 - 14013: consistency, after 13294
 - 14018: double lines → thin
@@ -636,7 +640,7 @@ Subtotal: 185
 - 143BE: after CC, previous was thicker
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 396
+Subtotal: 398
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1082,4 +1086,4 @@ Subtotal: 434
 
 Subtotal: 2
 
-Total: 1285
+Total: 1289

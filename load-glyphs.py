@@ -308,7 +308,6 @@ GLYPH_SIZES = {
     0x133F9: TINY,  # backslash stroke
     # Aa: misc
     0x1340D: MEDIUM,  # some circle
-    0x1340E: MEDIUM, 0x1340F: MEDIUM,  # pustule
     0x1341E: TINY,  # some short half
     0x1341F: MEDIUM,  # lid
     0x13421: MEDIUM,  # instrument looking like earphones
@@ -417,7 +416,6 @@ GLYPH_SIZES = {
     0x13BD9: MEDWIDE,  # some sort of heart
     0x13BF8: SMALL,
     0x13BFA: MEDIUM, 0x13BFB: MEDIUM,
-    0x13C01: SMALL, 0x13C02: SMALL,
     0x13C05: TINY, 0x13C06: TINY,
     0x13C08: SMALL,
     0x13C27: WIDE, 0x13C28: CELLHEIGHT,
