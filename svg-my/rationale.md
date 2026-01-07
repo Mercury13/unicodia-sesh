@@ -1066,6 +1066,7 @@ Subtotal: 398
 - 142CA: campaign for drills
 - 142D1: campaign for drills
 - 142D6: campaign for drills
+- 142DA: after other U32’s
 - 142EA: after EB
 - 142F0: after F1
 - 142FE: after FD
@@ -1081,7 +1082,7 @@ Subtotal: 398
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 437
+Subtotal: 438
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1089,4 +1090,4 @@ Subtotal: 437
 
 Subtotal: 2
 
-Total: 1292
+Total: 1293
