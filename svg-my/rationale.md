@@ -203,6 +203,7 @@ Subtotal: 268
 - 132E2: made from E1, wider fork
 - 132F4: old S29 from intestine
 - 132F5: made for myself, nicer
+- 132F8: nicer, no more blurry
 - 132F9: had good optimized ankh
 - 13300: based on 01
 - 13301: consistency, one of the waves was too long, fork larger and sleeker
@@ -238,7 +239,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 187
+Subtotal: 188
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1090,4 +1091,4 @@ Subtotal: 438
 
 Subtotal: 2
 
-Total: 1293
+Total: 1294
