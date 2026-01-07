@@ -863,6 +863,7 @@ Subtotal: 398
 - 13793: 95 + other Shu’s knees from base
 - 13794: same
 - 137D2: master class, after 7D1?
+- 137DE: after DD, excellent Kolya’s work + master class
 - 137E2: JSesh C72, −staff, +spear
 - 137E8: campaign for millions
 - 137E9: campaign for millions
@@ -1078,7 +1079,7 @@ Subtotal: 398
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 434
+Subtotal: 435
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1086,4 +1087,4 @@ Subtotal: 434
 
 Subtotal: 2
 
-Total: 1289
+Total: 1290
