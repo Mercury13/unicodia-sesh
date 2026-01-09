@@ -867,7 +867,7 @@ Subtotal: 398
 - 137A9: Kolya
 - 137B2: Kolya
 - 137BA: Kolya
-- 137C4: Kolya
+- 137C4: Kolya, heavily modified
 - 137C8: C56 + base
 - 137C9: Kolya’s work + base from 7C8
 - 137D2: master class, after 7D1?
