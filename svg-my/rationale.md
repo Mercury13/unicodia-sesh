@@ -868,6 +868,7 @@ Subtotal: 398
 - 137B2: Kolya
 - 137BA: Kolya
 - 137C4: Kolya, heavily modified
+- 137C7: Kolya, slightly modified
 - 137C8: C56 + base
 - 137C9: Kolya’s work + base from 7C8
 - 137D2: master class, after 7D1?
@@ -1088,7 +1089,7 @@ Subtotal: 398
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 43
+Subtotal: 444
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1096,4 +1097,4 @@ Subtotal: 43
 
 Subtotal: 2
 
-Total: 1299
+Total: 1300
