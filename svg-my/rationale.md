@@ -872,6 +872,7 @@ Subtotal: 398
 - 137C7: Kolya, slightly modified
 - 137C8: C56 + base
 - 137C9: Kolya’s work + base from 7C8
+- 137CE: Kolya’s work + some fixes
 - 137D2: master class, after 7D1?
 - 137DE: after DD, excellent Kolya’s work + master class
 - 137E2: JSesh C72, −staff, +spear
@@ -1090,7 +1091,7 @@ Subtotal: 398
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 445
+Subtotal: 446
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1098,4 +1099,4 @@ Subtotal: 445
 
 Subtotal: 2
 
-Total: 1301
+Total: 1302
