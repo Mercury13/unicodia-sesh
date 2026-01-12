@@ -639,9 +639,10 @@ Subtotal: 188
 - 14392: other pile of bricks, redrew from scratch
 - 1439E: well rather than vessel
 - 143BE: after CC, previous was thicker
+- 143C7: after other X4’s, consistency
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 398
+Subtotal: 399
 
 # Duped with NewGardiner
 - 13007: basic, after 08
