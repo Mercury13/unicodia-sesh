@@ -827,6 +827,7 @@ Subtotal: 399
 - 13694: Kolya’s work, fixed
 - 13695: Kolya’s work, fixed
 - 13696: Kolya’s work, minor fixes
+- 136B6: B5 + covered arms
 - 136B9: Kolya’s work, fixed
 - 136BD: Kolya’s work, fixed
 - 136C0: Kolya’s work, fixed
