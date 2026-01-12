@@ -324,7 +324,7 @@ Subtotal: 188
 - 136B2: beard ?→king
 - 136B3: beard ?→king
 - 136B4: beard ?→king
-- 136B5: beard no→god
+- 136B5: beard no→god, dwarfier
 - 136B7: beard ?→god
 - 136BE: beard goddier
 - 136BF: beard curved
