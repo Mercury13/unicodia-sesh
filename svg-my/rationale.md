@@ -1027,6 +1027,7 @@ Subtotal: 400
 - 14002: after 03
 - 14010: after 14011, spacing is from thin air
 - 14012: Werning + fixed spacings
+- 14019: from scratch
 - 14020: inverted 1F
 - 14022: “low-hanging” boats, after 1E
 - 1402D: after 1329E
@@ -1096,7 +1097,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 448
+Subtotal: 449
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1104,4 +1105,4 @@ Subtotal: 448
 
 Subtotal: 2
 
-Total: 1307
+Total: 1308
