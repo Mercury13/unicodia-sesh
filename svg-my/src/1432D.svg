@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="513.34814"
+   height="1000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="1432D.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.3775"
+     inkscape:cx="-344.37086"
+     inkscape:cy="899.33775"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showguides="true">
+    <sodipodi:guide
+       position="255.9242,898.85284"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.53398,526.1859"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="212.98047,356.81836"
+       orientation="0,-1"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="513.34814,1000"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="513.34814,0"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="255.92383,923.66992"
+       orientation="0,-1"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="797.08445,395.30466"
+       orientation="0,-1"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="790.96726,334.8164"
+       orientation="0,-1"
+       id="guide7"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#000000;stroke:none;stroke-width:0.999991"
+     d="m 132.42183,665.1836 c 0,24.48149 10.94322,36.72454 32.82821,36.72454 -8.9024,70.84791 -34.49785,189.22232 -76.784053,278.61683 0,12.24072 15.949863,18.7332 47.849953,19.47503 43.02807,-99.03874 69.92113,-223.90556 80.67816,-298.09186 h 38.9301 v -27.26548 h -82.88371 c -9.45678,0 -15.90045,-2.99277 -15.90045,-9.45906 z"
+     id="path2"
+     sodipodi:nodetypes="cccccccscc" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:0.999991"
+     d="M 255.92385,76.330078 C 173.5872,76.33486 122.5914,111.94345 102.9334,183.15731 H 2.971875e-7 C 2.971875e-7,272.35234 17.280019,357.78889 37.137363,404.18286 l 24.48124,-32.82803 C 46.235617,331.35907 35.607256,278.03208 35.607256,219.87917 h 60.092139 c -3.355256,62.42491 6.009055,119.23535 41.351675,235.6017 10.68507,35.1808 28.19897,80.43028 28.19897,173.53817 h -4.45189 c -18.91751,0 -28.37689,12.05403 -28.37689,36.16456 h 24.718 c 0,-6.17321 6.44562,-9.45957 15.90133,-9.45957 h 82.88326 V 629.01904 H 216.9941 c 0,-58.28764 -16.76478,-143.76114 -35.54033,-211.86888 -20.06964,-72.802 -38.46034,-196.3424 -19.54283,-233.43555 18.54417,-37.08832 49.88118,-55.63251 94.01291,-55.63736 z"
+     id="path1"
+     sodipodi:nodetypes="cccccccscsccscccsccc" />
+  <path
+     style="fill:#1a5fb4;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 37.137363,404.18286 24.48124,-32.82803 h 62.620067 v 32.82803 z"
+     id="path5"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:none;stroke:#613583;stroke-width:35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="M 216.18821,110.95491 174.30003,17.5 h 81.62417"
+     id="path6"
+     sodipodi:nodetypes="ccc" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path2"
+     id="use6"
+     transform="matrix(-1,0,0,1,511.8484,1.6123279e-7)"
+     style="stroke-width:1.07241" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path1"
+     id="use7"
+     transform="matrix(-1,0,0,1,511.8484,0)"
+     style="stroke-width:1.07241" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path5"
+     id="use8"
+     transform="matrix(-1,0,0,1,511.8484,0)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path6"
+     id="use9"
+     transform="matrix(-1,0,0,1,511.8484,0)" />
+</svg>

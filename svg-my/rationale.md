@@ -633,6 +633,7 @@ Subtotal: 188
 - 14329: other thing inside
 - 1432B: consistency
 - 1432C: consistency
+- 1432E: consistency after 13383
 - 14366: poles → hands
 - 14386: removed PLACEHOLDERS
 - 1438E: thinner, redrew from scratch
@@ -640,9 +641,9 @@ Subtotal: 188
 - 1439E: well rather than vessel
 - 143BE: after CC, previous was thicker
 - 143C7: after other X4’s, consistency
-- 143CE: wider but lower, redrew from scratch
+- 143CE: wider but lower, redrew from scratch: FOUR HUNDRED
 
-Subtotal: 399
+Subtotal: 400
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1083,6 +1084,7 @@ Subtotal: 399
 - 142F0: after F1
 - 142FE: after FD
 - 1432A: after 2B/2C
+- 1432D: after the rest V17’s
 - 1435C: 1435A minus handle on lid, size preserved
 - 14371: after 70
 - 14373: low-hanging for New Year, vessel found, canal mine
@@ -1102,4 +1104,4 @@ Subtotal: 448
 
 Subtotal: 2
 
-Total: 1305
+Total: 1307
