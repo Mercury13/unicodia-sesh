@@ -791,7 +791,7 @@ Subtotal: 400
 - 13603: march, after 134A0 + lute
 - 13607: campaign for horses
 - 1360A: campaign for horses, big franken
-- 13610: after 13B2D and other men
+- 13610: march, after 13B2D and other men
 - 13619: simple yet hard, made custom hollows on dog’s legs
 - 13620: master class (Kolya + me), some child + the most craggy Y8
 - 13621: Kolya found the vessel, the rest craggy, put again to A446
