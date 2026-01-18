@@ -335,10 +335,11 @@ GLYPH_SIZES = {
     0x135C4: MEDWIDE, 0x135C5: MEDWIDE, 0x135C6: MEDWIDE, 0x135C7: MEDWIDE,
     0x135D9: MEDWIDE,  # subdue
     0x135DC: EVERYBIT, 0x135DD: EVERYBIT,  # multiple captives
-    0x135FB: WIDE,  #harp player
+    0x135FB: WIDE,  # harp player
     0x13605: WIDE,  # hunter / standing
     0x13606: EVERYBIT, # hunter / sitting
     0x13609: WIDE, 0x1360A: WIDE, 0x1360B: WIDE, 0x1360C: EVERYBIT,
+    0x13610: EVERYBIT,  # men with plough
     0x13615: EVERYBIT,
     0x13617: WIDE, 0x13618: WIDE, 0x1361A: WIDE,
     0x1361C: WIDE,

@@ -435,7 +435,7 @@ Subtotal: 188
 - 13ACE: another sistrum
 - 13AF0: holds staff
 - 13AF1: same
-- 13B2D: greatly simplified
+- 13B2D: assembled from scratch, a bit narrower, neutered bulls
 - 13B42: simplified, more pronounced beard
 - 13B64: other feathers
 - 13B66: greatly simplified
@@ -790,6 +790,7 @@ Subtotal: 399
 - 13603: march, after 134A0 + lute
 - 13607: campaign for horses
 - 1360A: campaign for horses, big franken
+- 13610: after 13B2D and other men
 - 13619: simple yet hard, made custom hollows on dog’s legs
 - 13620: master class (Kolya + me), some child + the most craggy Y8
 - 13621: Kolya found the vessel, the rest craggy, put again to A446
@@ -1093,7 +1094,7 @@ Subtotal: 399
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 447
+Subtotal: 448
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1101,4 +1102,4 @@ Subtotal: 447
 
 Subtotal: 2
 
-Total: 1304
+Total: 1305
