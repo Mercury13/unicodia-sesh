@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="12.048117"
+   height="18.586884"
+   id="svg1953"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="14008.svg"
+   version="1.0"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1960">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:title>US22O233VARC</dc:title>
+        <dc:date>11/11/06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>FCD p. 217 (swns) tower PT Spruch 507 §1105d Pepy I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1958" />
+  <sodipodi:namedview
+     inkscape:window-height="998"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="27.761513"
+     inkscape:cx="6.0335328"
+     inkscape:cy="9.3114522"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg1953"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="1" />
+  <path
+     style="fill:#000000;stroke:none"
+     d="m 5.1929106,1.8980507 c 0,1.515245 0,3.030489 0,4.545734 0,0.151524 0,0.303049 0,0.454573 h 5.9094534 c 0,-1.66677 0,-3.333538 0,-5.000307 0.0646,-0.8284851 -0.30305,-0.5042953 -0.454574,0 -0.454573,1.212195 -0.9091464,2.452988 -1.5660474,3.462856 -0.297133,0.232544 -0.598006,0.342877 -0.911802,0.342877 -0.349166,0 -0.714334,-0.136608 -1.108155,-0.393459 -0.656901,-1.186904 -0.959729,-2.200079 -1.414302,-3.412274 -0.2775981,-0.7384324 -0.4651436,-0.5223058 -0.454573,0 z m 0.909146,6.364027 -0.011287,4.5623933 -0.433534,4.529074 h 4.9912184 l -0.479864,-4.545733 0.02463,-4.5457343 z m -0.089656,-7.65264103 0.058095,0.140863 c 0.513404,1.24529603 1.026809,2.49059103 1.540215,3.73588703 v 0 c 0.196488,0.157735 0.379306,0.234366 0.549877,0.234366 0.175184,0 0.337448,-0.080833 0.48833,-0.237655 v 0 c 0.498402,-1.243168 0.996803,-2.486336 1.4952054,-3.72950403 l 0.05701,-0.142568 c 0.22733,-0.5227565 1.837131,-1.0623724 1.84529,-3.47e-4 0.0092,2.30357403 -0.02226,4.60715053 -0.01348,6.91072603 l 0.0014,0.228333 h -0.984004 c -0.0037,1.684583 -0.0073,3.3691653 -0.01099,5.0537483 v 0 c 0.206644,1.843636 0.413289,3.687275 0.619933,5.530911 l 0.02881,0.252686 h -0.254671 c -0.144113,0 -6.6505714,-0.07153 -6.6525264,-0.07155 l -0.261034,-0.0028 0.0387,-0.258165 c 0.273137,-1.822434 0.37007,-3.519555 0.567283,-5.467257 v 0 c 0.010062,-1.687785 0.020124,-3.3755693 0.030185,-5.0633543 v 0 c -0.116961,-0.00722 -0.230048,-0.010764 -0.339374,-0.010764 -1.478475,0 -2.269217,0.647835 -2.655388,1.602506 C 1.709241,10.433119 1.805544,11.966146 2.1061886,13.413152 l 0.046805,0.222772 -0.2232566,0.04619 C 1.238245,13.825182 0.964828,13.898571 0.273336,14.041637 L 0,14.098628 V 13.819065 C 4.1099999e-4,12.553318 0.040166,11.548613 0.157459,10.730512 0.277553,9.8929117 0.48036,9.2432317 0.803618,8.7082487 c 0.326018,-0.539555 0.773712,-0.96202 1.3797426,-1.340335 0.556822,-0.347591 1.251423,-0.660322 2.116701,-1.001751 v 0 L 4.2638736,0.60966967 c -0.00724,-0.96106242 1.4354348,-0.62395245 1.748527,-2.33e-4 z"
+     id="path1955"
+     sodipodi:nodetypes="cscccccsccccccccccccccsccccccccccccccccccccssccccccssscccc" />
+</svg>
