@@ -808,6 +808,7 @@ Subtotal: 400
 - 13657: seat-covered #2
 - 13660: assembled from some random hieros, incl. extended A40?
 - 13661: 5F + my bold scarab
+- 13663: fixing hole, 13662 + 13F14
 - 1366E: praying from main block + uraeus from some lady
 - 136D2: 13478×2
 - 136DE: after DD
@@ -1097,7 +1098,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 449
+Subtotal: 450
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1105,4 +1106,4 @@ Subtotal: 449
 
 Subtotal: 2
 
-Total: 1308
+Total: 1309
