@@ -1058,6 +1058,7 @@ Subtotal: 400
 - 14114: after 13, just a bit wrong NewG
 - 14158: normal red crown + cut curl
 - 1415A: Werning + moved uraeus up
+- 14165: campaign for hats, after 64 and some S82
 - 1418E: implement somehow badly
 - 14124: after 23
 - 14128: after 2A
@@ -1101,7 +1102,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 454
+Subtotal: 455
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1109,4 +1110,4 @@ Subtotal: 454
 
 Subtotal: 2
 
-Total: 1312
+Total: 1313

@@ -470,6 +470,7 @@ GLYPH_SIZES = {
     0x140FA: MEDIUM,
     0x140FE: EVERYBIT,
     # S: clothing and decorations
+    0x14165: MEDWIDE,  # cap w/uraeus, canvas-bounded
     0x1416B: NORMAL, 0x1416C: HEMHEM, 0x1416D: HEMHEM,  # Hemhem crown
     0x14178: WIDE, 0x14179: WIDE,  # feathers on horns
     0x1417F: WIDE,  # more feathers on horns
