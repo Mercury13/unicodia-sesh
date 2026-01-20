@@ -889,7 +889,7 @@ Subtotal: 400
 - 13817: after initial 16
 - 13819: after 17
 - 1382E: extended C97, more curved beard, simple stick
-- 13835: Lots of complaints to Kolya
+- 13835: Lots of complaints to Kolya, 13836 minus horns now
 - 13836: 13835 + banged ram’s horns
 - 1383C: Imhotep is close to Ptah, copied beard from newer (Sep’25) Ptah
 - 1383F: combo of old 3F (IDR how made) and new Sep’25 Ptah + longer beard
