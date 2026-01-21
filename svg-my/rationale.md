@@ -869,8 +869,10 @@ Subtotal: 400
 - 1378F: after 8E
 - 13793: 95 + other Shu’s knees from base
 - 13794: same
+- 137A3: Kolya, changed weight in other fashion, true circles
 - 137A8: Kolya
 - 137A9: Kolya
+- 137B1: Kolya, righted the sceptre as he did it approximately
 - 137B2: Kolya
 - 137BA: Kolya
 - 137C4: Kolya, heavily modified
@@ -1102,7 +1104,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 455
+Subtotal: 457
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1110,4 +1112,4 @@ Subtotal: 455
 
 Subtotal: 2
 
-Total: 1313
+Total: 1315
