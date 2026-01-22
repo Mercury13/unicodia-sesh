@@ -864,8 +864,11 @@ Subtotal: 400
 - 1374B: Kolya
 - 13753: Kolya + fixing his troubles
 - 13776: after 75
+- 1377B: Kolys’a attempt + that’s a goddess, grafted on 13722
 - 1377F: Werning + flipped knife (actually knife from another hand), fixed rubber-hose anatomy
 - 137D4: found similar, drew sun
+- 13788: Kolya, slight fixes
+- 13789: Kolya, slight fixes
 - 1378F: after 8E
 - 13793: 95 + other Shu’s knees from base
 - 13794: same
@@ -1104,7 +1107,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 457
+Subtotal: 460
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1112,4 +1115,4 @@ Subtotal: 457
 
 Subtotal: 2
 
-Total: 1315
+Total: 1318
