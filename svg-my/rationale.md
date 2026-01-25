@@ -895,6 +895,8 @@ Subtotal: 400
 - 137E9: campaign for millions
 - 137F0: after EF, man with palm branches for million
 - 13808: Kolya
+- 1380F: poor Kolya’s work, redrew hat almost completely
+- 13810: after 0F
 - 13815: Kolya’s work, fixed
 - 13817: after initial 16
 - 13819: after 17
@@ -1112,7 +1114,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 465
+Subtotal: 467
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1120,4 +1122,4 @@ Subtotal: 465
 
 Subtotal: 2
 
-Total: 1323
+Total: 1325
