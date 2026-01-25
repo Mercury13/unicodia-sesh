@@ -792,6 +792,7 @@ Subtotal: 400
 - 13607: campaign for horses
 - 1360A: campaign for horses, big franken
 - 13610: march, after 13B2D and other men
+- 13612: march, after lying bull and some A254’s
 - 13619: simple yet hard, made custom hollows on dog’s legs
 - 13620: master class (Kolya + me), some child + the most craggy Y8
 - 13621: Kolya found the vessel, the rest craggy, put again to A446
@@ -1110,7 +1111,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 463
+Subtotal: 464
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1118,4 +1119,4 @@ Subtotal: 463
 
 Subtotal: 2
 
-Total: 1321
+Total: 1322

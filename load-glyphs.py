@@ -340,6 +340,7 @@ GLYPH_SIZES = {
     0x13606: EVERYBIT, # hunter / sitting
     0x13609: WIDE, 0x1360A: WIDE, 0x1360B: WIDE, 0x1360C: EVERYBIT,
     0x13610: EVERYBIT,  # men with plough
+    0x13612: MEDWIDE,  # boy on lying bull
     0x13615: EVERYBIT,
     0x13617: WIDE, 0x13618: WIDE, 0x1361A: WIDE,
     0x1361C: WIDE,
