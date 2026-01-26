@@ -122,6 +122,7 @@ MICROSCOPIC = 320
 TEENY = 400
 TINY = 500
 SMALL = 650
+SMOKER = 700
 MEDIUM = 800
 # Special height-limited
 DRINKING = 750
@@ -255,7 +256,7 @@ GLYPH_SIZES = {
     # Q: furniture
     0x132AA: SMALL,  # stool
     # R: religious
-    0x132B8: SMALL,  # cup w/smoke
+    0x132B8: SMOKER,  # cup w/smoke
     # S: clothing and decorations
     0x132DD: MEDIUM,  # broad collar
     0x132E9: MEDIUM,  # seal
@@ -468,7 +469,7 @@ GLYPH_SIZES = {
     0x14016: MEDIUM,  # another version of threshing floor
     0x140CA: MEDIUM,
     0x140F5: WIDE, 0x140F6:WIDE, 0x140F7: WIDE, 0x140F8: WIDE,
-    0x140FA: MEDIUM,
+    0x140F9: SMOKER, 0x140FA: MEDIUM,
     0x140FE: EVERYBIT,
     # S: clothing and decorations
     0x14165: MEDWIDE,  # cap w/uraeus, canvas-bounded
