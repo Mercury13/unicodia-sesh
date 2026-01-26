@@ -800,6 +800,8 @@ Subtotal: 400
 - 13626: after 25
 - 13628: after 27 + thicker snake’s lines
 - 1362A: after 13016
+- 1362C: march, after 13630
+- 1362D: march, after 1362C
 - 1363B: near-march, after 3A
 - 13633: after 13014
 - 1363C: after 13014
@@ -1114,7 +1116,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 467
+Subtotal: 469
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1122,4 +1124,4 @@ Subtotal: 467
 
 Subtotal: 2
 
-Total: 1325
+Total: 1327
