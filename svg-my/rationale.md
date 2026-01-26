@@ -869,6 +869,7 @@ Subtotal: 400
 - 13747: after 46
 - 1374B: Kolya
 - 13753: Kolya + fixing his troubles
+- 1376C: Kolya (requested to change head) + fixes
 - 13776: after 75
 - 1377B: Kolys’a attempt + that’s a goddess, grafted on 13722
 - 1377F: Werning + flipped knife (actually knife from another hand), fixed rubber-hose anatomy
@@ -902,6 +903,7 @@ Subtotal: 400
 - 13815: Kolya’s work, fixed
 - 13817: after initial 16
 - 13819: after 17
+- 1381C: Kolya, after 1B
 - 1382E: extended C97, more curved beard, simple stick
 - 13835: Lots of complaints to Kolya, 13836 minus horns now
 - 13836: 13835 + banged ram’s horns
@@ -1116,7 +1118,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 469
+Subtotal: 471
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1124,4 +1126,4 @@ Subtotal: 469
 
 Subtotal: 2
 
-Total: 1327
+Total: 1329
