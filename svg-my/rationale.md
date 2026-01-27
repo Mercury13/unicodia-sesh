@@ -900,8 +900,10 @@ Subtotal: 400
 - 13808: Kolya
 - 1380F: poor Kolya’s work, redrew hat almost completely
 - 13810: after 0F
+- 13811: after 0F
 - 13815: Kolya’s work, fixed
 - 13817: after initial 16
+- 13818: Kolya’s work, highly fixed
 - 13819: after 17
 - 1381C: Kolya, after 1B
 - 1382E: extended C97, more curved beard, simple stick
@@ -1118,7 +1120,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 471
+Subtotal: 473
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1126,4 +1128,4 @@ Subtotal: 471
 
 Subtotal: 2
 
-Total: 1329
+Total: 1331
