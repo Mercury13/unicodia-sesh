@@ -947,6 +947,7 @@ Subtotal: 400
 - 1393D: after 3B
 - 1393E: after 3D
 - 13944: after extended D78
+- 139A2: straightforward
 - 139A4: straightforward
 - 139A5: straightforward
 - 139AB: after AA
@@ -1122,7 +1123,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 475
+Subtotal: 476
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1130,4 +1131,4 @@ Subtotal: 475
 
 Subtotal: 2
 
-Total: 1333
+Total: 1334
