@@ -1119,11 +1119,12 @@ Subtotal: 400
 - 14393: from scratch
 - 1439B: 1439A + broken
 - 143AF: after 14399
+- 143B7: after F7b
 - 143C2: after all X3’s
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 476
+Subtotal: 477
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1131,4 +1132,4 @@ Subtotal: 476
 
 Subtotal: 2
 
-Total: 1334
+Total: 1335
