@@ -1087,6 +1087,7 @@ Subtotal: 400
 - 1414E: after 4D
 - 14168: after extended S8, round circles
 - 1416D: after 1416C, deleted suns and symmetrized
+- 14181: 80 + L12a
 - 14189: 1A + simplified
 - 14191: from S2966, campaign for hats
 - 14196: after 97, pectoral
@@ -1124,7 +1125,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 477
+Subtotal: 478
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1132,4 +1133,4 @@ Subtotal: 477
 
 Subtotal: 2
 
-Total: 1335
+Total: 1336
