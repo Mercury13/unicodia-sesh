@@ -925,6 +925,8 @@ Subtotal: 400
 - 13862: more modern that Kolya’s
 - 13865: after 69
 - 13892: after 90
+- 13893: Kolya
+- 13895: Kolya, lots of fixes
 - 1389B: after 9A
 - 138BA: B7 + filled uraeus + changed thing
 - 138BB: after BA but sun from scratch
@@ -1125,7 +1127,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 478
+Subtotal: 480
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1133,4 +1135,4 @@ Subtotal: 478
 
 Subtotal: 2
 
-Total: 1336
+Total: 1338
