@@ -439,7 +439,10 @@ GLYPH_SIZES = {
     0x13DA9: MEDWIDE,
     0x13DC5: EVERYBIT, 0x13DC6: EVERYBIT,
     0x13DC9: MEDIUM,
+    # L: bug
     0x13DE4: EVERYBIT,
+    0x13DF7: SQUARE,
+    # M: plants
     0x13E0C: MEDIUM,
     0x13E11: MEDWIDE,  # some long branch
     0x13E2B: MEDIUM, 0x13E2C: MEDIUM, 0x13E2D: MEDIUM,

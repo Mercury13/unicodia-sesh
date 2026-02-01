@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14.805058"
+   height="7.92"
+   id="svg2951"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   sodipodi:docname="US22L1EXA.svg"
+   sodipodi:docbase="C:\PROGRA~1\JSesh\FONTEU~1">
+  <metadata
+     id="metadata2958">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:description>FCD p. 88 
+in ( py ) CT Spell 49 (vol.I,p.215) Seul B17C donne la forme parfaite de l'insecte ; B13C le donne à l'état fragmentaire</dc:description>
+        <dc:title>US22L1EXA</dc:title>
+        <dc:date>5/11/06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2956" />
+  <sodipodi:namedview
+     inkscape:window-height="569"
+     inkscape:window-width="939"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="47.60101"
+     inkscape:cx="7.4025289"
+     inkscape:cy="3.96"
+     inkscape:window-x="22"
+     inkscape:window-y="29"
+     inkscape:current-layer="svg2951" />
+  <path
+     style="fill:#000000; stroke:none"
+     d=" M 7.805298 0  C 7.765387 0 7.72566 0.00035 7.686131 0.001059  C 6.406085 0.046966 4.585701 0.159483 3.541465 0.995046  C 3.138506 0.676893 2.611618 0.463598 2.107548 0.463598  C 1.94908 0.463598 1.792866 0.484679 1.643467 0.53021  C 0.195496 0.799246 0.477672 0.91997 0.02612 1.400244  C -0.198463 2.642771 0.975104 2.796006 1.927554 2.983568  C 2.013205 2.994975 2.099831 3.000317 2.187 3.000317  C 2.677185 3.000317 3.184524 2.831402 3.631929 2.622277  C 4.501223 3.348922 5.527712 3.806031 6.63942 4.189569  C 7.236724 5.895002 6.336598 6.76665 5.558067 7.464719  C 5.221424 7.766569 5.38771 7.851691 5.669147 7.851691  C 5.818615 7.851691 6.000562 7.827682 6.156901 7.799377  C 6.974763 7.589371 7.750557 5.834922 7.53161 4.478719  C 7.56738 4.447613 7.467288 4.397384 7.473302 4.397384  C 7.474331 4.397384 7.478457 4.39885 7.486889 4.40213  C 7.741737 4.462173 8.001675 4.501765 8.258881 4.551977  C 8.61011 5.846341 8.094323 6.589447 7.290929 7.480016  C 7.100098 7.785737 7.342658 7.92 7.605907 7.92  C 7.734371 7.92 7.867763 7.888026 7.958121 7.828403  C 8.803751 7.111404 9.413921 5.446183 9.122272 4.638  L 9.122272 4.638  C 9.4169 4.669056 9.962064 4.662917 10.257558 4.67907  C 10.504818 5.81588 10.178597 6.704982 9.401875 7.492424  C 9.254153 7.783991 9.389408 7.898535 9.594611 7.898535  C 9.745946 7.898535 9.935325 7.836236 10.077297 7.736697  C 10.887651 6.89435 11.167232 5.790046 11.0586 4.654095  C 11.353982 4.639218 11.255191 4.622272 11.54553 4.566962  L 11.54553 4.566962  C 11.987844 5.732857 11.824902 6.584725 10.973627 7.477476  C 10.85117 7.71753 11.047326 7.855044 11.281791 7.855044  C 11.425586 7.855044 11.58379 7.803321 11.691743 7.691809  C 12.475519 6.612743 12.595744 5.812958 12.303647 4.429325  C 13.137418 4.056046 14.105058 3.982064 14.75038 3.286366  C 14.816988 2.894197 14.895538 2.546638 14.506383 2.307825  C 13.938956 1.55327 10.462608 0 7.805298 0  Z "
+     id="path2953" />
+</svg>
