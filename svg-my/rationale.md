@@ -1031,6 +1031,7 @@ Subtotal: 400
 - 13D87: franken
 - 13DA7: DA3 + feathers
 - 13DCC: found some catfish in extensions
+- 13DEA: after Werning’s L11
 - 13DF0: L2 minus wings
 - 13E02: N112 minus canals
 - 13E09: M55 + sprouts
@@ -1135,7 +1136,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 488
+Subtotal: 489
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1143,4 +1144,4 @@ Subtotal: 488
 
 Subtotal: 2
 
-Total: 1346
+Total: 1347
