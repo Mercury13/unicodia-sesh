@@ -925,6 +925,8 @@ Subtotal: 400
 - 13862: more modern that Kolya’s
 - 13865: after 69
 - 13888: Kolya
+- 13889: Kolya
+- 13889: Kolya forgot, so I made after 89
 - 1388B: Kolya
 - 13892: after 90
 - 13893: Kolya
@@ -1131,7 +1133,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 484
+Subtotal: 486
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1139,4 +1141,4 @@ Subtotal: 484
 
 Subtotal: 2
 
-Total: 1342
+Total: 1344
