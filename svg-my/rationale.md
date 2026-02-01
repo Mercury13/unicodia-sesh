@@ -357,7 +357,7 @@ Subtotal: 188
 - 13797: too long and polygonal foot he sits on, deleted armbands
 - 137DA: khopesh points forward
 - 137DB: same
-- 137EC: man’s hair/beard
+- 137EC: from scratch after EB
 - 137EF: no beard, no collar
 - 137F1: no beard, no collar
 - 137F2: no beard, no collar one of hieros for million
@@ -808,6 +808,7 @@ Subtotal: 400
 - 13639: just drew a line
 - 1363F: Werning + short beard
 - 13642: near-march, 13645 + our std base + H14a + some flail
+- 1364A: near-march, after 13649
 - 13650: after other A50’s
 - 13652: seat-covered #2
 - 13654: seat-covered #2
@@ -894,6 +895,7 @@ Subtotal: 400
 - 137D2: master class, after 7D1?
 - 137DE: after DD, excellent Kolya’s work + master class
 - 137E2: JSesh C72, −staff, +spear
+- 137EB: after A511
 - 137E8: campaign for millions
 - 137E9: campaign for millions
 - 137F0: after EF, man with palm branches for million
@@ -1133,7 +1135,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 486
+Subtotal: 488
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1141,4 +1143,4 @@ Subtotal: 486
 
 Subtotal: 2
 
-Total: 1344
+Total: 1346
