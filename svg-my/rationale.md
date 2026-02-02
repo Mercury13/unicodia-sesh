@@ -896,9 +896,11 @@ Subtotal: 400
 - 137D2: master class, after 7D1?
 - 137DE: after DD, excellent Kolya’s work + master class
 - 137E2: JSesh C72, −staff, +spear
-- 137EB: after A511
 - 137E8: campaign for millions
 - 137E9: campaign for millions
+- 137EA: after 137EB
+- 137EB: after A511
+- 137EE: incomplete EA + some smaller ankhs from 13671
 - 137F0: after EF, man with palm branches for million
 - 13808: Kolya
 - 1380F: poor Kolya’s work, redrew hat almost completely
@@ -1139,7 +1141,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 492
+Subtotal: 494
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1147,4 +1149,4 @@ Subtotal: 492
 
 Subtotal: 2
 
-Total: 1350
+Total: 1352
