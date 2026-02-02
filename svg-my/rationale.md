@@ -358,9 +358,9 @@ Subtotal: 188
 - 137DA: khopesh points forward
 - 137DB: same
 - 137EC: from scratch after EB
-- 137EF: no beard, no collar
+- 137EF: modernized (+no beard, no collar)
 - 137F1: no beard, no collar
-- 137F2: no beard, no collar one of hieros for million
+- 137F2: modernized after EF
 - 137F4: no beard, lower branches
 - 137F5: man’s hair/beard/clothing
 - 137F7: man’s hair/beard/clothing
@@ -902,7 +902,7 @@ Subtotal: 400
 - 137EB: after A511
 - 137ED: after 137E9 and EE
 - 137EE: incomplete EA + some smaller ankhs from 13671
-- 137F0: after EF, man with palm branches for million
+- 137F0: after EF
 - 13808: Kolya
 - 1380F: poor Kolya’s work, redrew hat almost completely
 - 13810: after 0F
