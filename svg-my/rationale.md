@@ -900,6 +900,7 @@ Subtotal: 400
 - 137E9: campaign for millions
 - 137EA: after 137EB
 - 137EB: after A511
+- 137ED: after 137E9 and EE
 - 137EE: incomplete EA + some smaller ankhs from 13671
 - 137F0: after EF, man with palm branches for million
 - 13808: Kolya
@@ -1142,7 +1143,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 495
+Subtotal: 496
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1150,4 +1151,4 @@ Subtotal: 495
 
 Subtotal: 2
 
-Total: 1353
+Total: 1354
