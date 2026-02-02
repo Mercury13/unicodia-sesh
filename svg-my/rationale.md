@@ -1049,6 +1049,7 @@ Subtotal: 400
 - 13EFC: same
 - 13E99: after 98
 - 13E9B: after M242 ex
+- 13F26: after 13F25
 - 13F41: after 42
 - 13F50: campaign for plans
 - 13F6B: after 6D
@@ -1141,7 +1142,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 494
+Subtotal: 495
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1149,4 +1150,4 @@ Subtotal: 494
 
 Subtotal: 2
 
-Total: 1352
+Total: 1353
