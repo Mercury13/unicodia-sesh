@@ -359,7 +359,7 @@ Subtotal: 188
 - 137DB: same
 - 137EC: from scratch after EB
 - 137EF: modernized (+no beard, no collar)
-- 137F1: no beard, no collar
+- 137F1: modernized after EF and older F1
 - 137F2: modernized after EF
 - 137F4: no beard, lower branches
 - 137F5: man’s hair/beard/clothing
