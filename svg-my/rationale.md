@@ -870,6 +870,7 @@ Subtotal: 400
 - 13747: after 46
 - 1374B: Kolya
 - 13753: Kolya + fixing his troubles
+- 13758: after 1375A
 - 1376C: Kolya (requested to change head) + fixes
 - 13776: after 75
 - 1377B: Kolys’a attempt + that’s a goddess, grafted on 13722
@@ -1138,7 +1139,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 491
+Subtotal: 492
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1146,4 +1147,4 @@ Subtotal: 491
 
 Subtotal: 2
 
-Total: 1349
+Total: 1350
