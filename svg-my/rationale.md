@@ -934,6 +934,7 @@ Subtotal: 400
 - 13893: Kolya
 - 13895: Kolya, lots of fixes
 - 13896: after 95
+- 13897: Kolya, greatly cleaned, exaggerated attributes from 9B
 - 1389B: after 9A
 - 138BA: B7 + filled uraeus + changed thing
 - 138BB: after BA but sun from scratch
@@ -1137,7 +1138,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 490
+Subtotal: 491
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1145,4 +1146,4 @@ Subtotal: 490
 
 Subtotal: 2
 
-Total: 1348
+Total: 1349
