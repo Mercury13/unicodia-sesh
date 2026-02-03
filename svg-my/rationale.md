@@ -364,8 +364,8 @@ Subtotal: 188
 - 137F4: no beard, lower branches
 - 137F5: man’s hair/beard/clothing
 - 137F7: modernized after EB
-- 137F8: same
-- 137F9: same
+- 137F8: modernized after EF
+- 137F9: modernized after F1/F8
 - 137FA: mismatch, removed beard
 - 137FB: mismatch, removed beard
 - 137FF: mismatch, removed beard

@@ -361,7 +361,7 @@ GLYPH_SIZES = {
     0x137E3: WIDE, 0x137E4: WIDE, 0x137E5: WIDE, 0x137E6: WIDE,  # millions
     0x137EF: MEDWIDE, # millions
     0x137F1: MEDWIDE, 0x137F2: MEDWIDE, # millions
-    0x137F9: WIDE, # millions
+    0x137F8: MEDWIDE, 0x137F9: MEDWIDE, # millions
     0x13856: WIDE,
     0x13872: WIDE,
     0x138BE: WIDE,
