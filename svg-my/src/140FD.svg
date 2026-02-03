@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="1000"
+   id="svg1290"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="140FD.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24772308"
+     inkscape:cx="429.91554"
+     inkscape:cy="793.22445"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="1"
+     showguides="true">
+    <sodipodi:guide
+       position="0,1000"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1394.7134,0"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>JSesh hieroglyph</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Karnak Hypostyle walls.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.600002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 282.49186,0.0264149 270.85411,0.54078087 11.223421,11.34266 C 4.9934169,11.574783 0.05663201,16.681798 0.03575621,22.916194 V 148.42364 c -0.01511956,5.91328 4.41307699,10.89508 10.28749579,11.57334 86.150919,10.1355 165.654068,15.92722 257.894688,23.85407 l 1.92891,0.19307 -3.47203,524.85515 h 69.56922 L 318.94819,0.92650298 H 282.55615 Z M 271.23991,23.751861 270.33975,160.70419 h -0.12872 C 181.55266,153.08513 104.89481,147.33491 23.311218,138.00748 V 34.103798 Z"
+       id="path2091" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.600002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 608.72011,0.0264149 597.08237,0.54078087 337.45168,11.34266 c -6.23001,0.232123 -11.1668,5.339138 -11.18767,11.573534 V 148.42364 c -0.0151,5.91328 4.41307,10.89508 10.28749,11.57334 86.15091,10.1355 165.65407,15.92722 257.8947,23.85407 l 1.92875,0.19307 -3.47214,524.85515 h 69.56946 L 645.17643,0.92650298 H 608.78439 Z M 597.46816,23.751861 596.56795,160.70419 h -0.12872 C 507.78091,153.08513 431.12306,147.33491 349.53947,138.00748 V 34.103798 Z"
+       id="path1871" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.600002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 934.9484,0.0264149 923.31067,0.54078087 663.67996,11.34266 c -6.23002,0.232113 -11.16681,5.339138 -11.18768,11.573534 V 148.42364 c -0.0152,5.91328 4.41309,10.89508 10.2875,11.57334 86.15093,10.1355 165.65405,15.92722 257.89466,23.85407 l 1.92876,0.19307 -3.47215,524.85515 H 988.7006 L 971.40471,0.92650298 H 935.0127 Z M 923.69645,23.751861 922.79623,160.70419 h -0.12874 C 834.00919,153.08513 757.35135,147.33491 675.76773,138.00748 V 34.103798 Z"
+       id="path1873" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.999998"
+       d="M 5.717104e-5,708.89927 C 82.56525,898.00227 261.41811,999.26162 494.35034,1000 727.28258,999.28359 906.13543,898.00227 988.7006,708.89927 Z M 77.511427,748.51901 H 911.18926 C 848.79426,865.99971 697.46211,951.45666 494.35034,956.93568 291.23858,951.47864 139.90641,865.99971 77.511427,748.51901 Z"
+       id="path2459"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>

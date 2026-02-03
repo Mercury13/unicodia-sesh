@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="1000"
+   id="svg1290"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="140FD.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24772308"
+     inkscape:cx="429.91554"
+     inkscape:cy="793.22445"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="1"
+     showguides="true">
+    <sodipodi:guide
+       position="0,1000"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1394.7134,0"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>JSesh hieroglyph</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Karnak Hypostyle walls.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2091"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.600002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 282.49219 0.02734375 L 270.85352 0.54101562 L 11.222656 11.341797 C 4.9926522 11.57392 0.05603205 16.68162 0.03515625 22.916016 L 0.03515625 148.42383 C 0.02003669 154.33711 4.4498 159.31783 10.324219 159.99609 C 96.475138 170.13159 175.97813 175.92471 268.21875 183.85156 L 270.14648 184.04492 L 266.67578 708.89844 L 0 708.89844 C 82.565193 898.00144 261.41738 999.26162 494.34961 1000 C 727.28185 999.28359 906.136 898.00144 988.70117 708.89844 L 971.4043 0.92578125 L 935.01367 0.92578125 L 934.94922 0.02734375 L 923.31055 0.54101562 L 663.67969 11.341797 C 657.44967 11.57391 652.51306 16.68162 652.49219 22.916016 L 652.49219 148.42383 C 652.47699 154.33711 656.90489 159.31783 662.7793 159.99609 C 748.93023 170.13159 828.43322 175.92471 920.67383 183.85156 L 922.60352 184.04492 L 919.13086 708.89844 L 662.47266 708.89844 L 645.17578 0.92578125 L 608.78516 0.92578125 L 608.7207 0.02734375 L 597.08203 0.54101562 L 337.45117 11.341797 C 331.22116 11.57392 326.28454 16.68162 326.26367 22.916016 L 326.26367 148.42383 C 326.24857 154.33711 330.67636 159.31783 336.55078 159.99609 C 422.70169 170.13159 502.20468 175.92471 594.44531 183.85156 L 596.375 184.04492 L 592.90234 708.89844 L 336.24414 708.89844 L 318.94727 0.92578125 L 282.55664 0.92578125 L 282.49219 0.02734375 z M 271.24023 23.751953 L 270.33984 160.70508 L 270.21094 160.70508 C 181.55257 153.08602 104.89414 147.33524 23.310547 138.00781 L 23.310547 34.103516 L 271.24023 23.751953 z M 597.46875 23.751953 L 596.56836 160.70508 L 596.43945 160.70508 C 507.78113 153.08602 431.12265 147.33524 349.53906 138.00781 L 349.53906 34.103516 L 597.46875 23.751953 z M 923.69727 23.751953 L 922.79688 160.70508 L 922.66797 160.70508 C 834.00967 153.08602 757.3512 147.33524 675.76758 138.00781 L 675.76758 34.103516 L 923.69727 23.751953 z M 77.511719 748.51953 L 911.18945 748.51953 C 848.79445 866.00023 697.46138 951.45653 494.34961 956.93555 C 291.23785 951.47851 139.9067 866.00023 77.511719 748.51953 z " />
+  </g>
+</svg>
