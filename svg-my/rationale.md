@@ -945,9 +945,12 @@ Subtotal: 400
 - 138B8: backported Kolya’s finding (O49) to cleaner lioness
 - 138BA: B7 + filled uraeus + changed thing
 - 138BB: after BA but sun from scratch
+- 138C1: Kolya again botched up feathers’ direction, took from my C2
 - 138C2: Kolya
 - 138C3: C166 + left head only
+- 138E9: Kolya
 - 138EC: EB + ankh
+- 138F0: Kolya
 - 138FB: after FA
 - 138FE: JSesh C204 + strip of land
 - 13900: after 01
@@ -1149,7 +1152,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 502
+Subtotal: 505
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1157,4 +1160,4 @@ Subtotal: 502
 
 Subtotal: 2
 
-Total: 1360
+Total: 1363
