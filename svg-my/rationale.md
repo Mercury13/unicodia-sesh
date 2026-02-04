@@ -983,6 +983,7 @@ Subtotal: 400
 - 139C9: after D35a, too small in NewG
 - 139E9: franken
 - 139FA: Werning + multiple improvements (phased out cusps…)
+- 13A02: after 01
 - 13A0D: after 0E, and 0E is from new JSesh
 - 13A26: after 25
 - 13A35: obvious
@@ -1154,7 +1155,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 507
+Subtotal: 508
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1162,4 +1163,4 @@ Subtotal: 507
 
 Subtotal: 2
 
-Total: 1365
+Total: 1366
