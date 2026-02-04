@@ -948,6 +948,7 @@ Subtotal: 400
 - 138C1: Kolya again botched up feathers’ direction, took from my C2
 - 138C2: Kolya
 - 138C3: C166 + left head only
+- 138C4: found some base in extensions, reversed hands
 - 138E9: Kolya
 - 138EC: EB + ankh
 - 138EE: greatly modified Kolya (was really messy)
@@ -1153,7 +1154,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 506
+Subtotal: 507
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1161,4 +1162,4 @@ Subtotal: 506
 
 Subtotal: 2
 
-Total: 1364
+Total: 1365
