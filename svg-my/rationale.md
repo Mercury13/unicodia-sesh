@@ -950,6 +950,7 @@ Subtotal: 400
 - 138C3: C166 + left head only
 - 138E9: Kolya
 - 138EC: EB + ankh
+- 138EE: greatly modified Kolya (was really messy)
 - 138F0: Kolya
 - 138FB: after FA
 - 138FE: JSesh C204 + strip of land
@@ -1152,7 +1153,7 @@ Subtotal: 400
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 505
+Subtotal: 506
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1160,4 +1161,4 @@ Subtotal: 505
 
 Subtotal: 2
 
-Total: 1363
+Total: 1364
