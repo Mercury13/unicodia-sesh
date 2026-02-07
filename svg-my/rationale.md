@@ -660,7 +660,6 @@ Subtotal: 400
 - 13215: after 14
 - 13219: after 2A, in harmony with it
 - 13270: legacy, shrine
-- 13277: after obelisk w/o sun
 - 1327E: legacy, four poles
 - 13282: made from scratch, with metrics of Unicode
 - 13297: drew from scratch
@@ -1072,6 +1071,7 @@ Subtotal: 400
 - 13FAD: after AC
 - 13FBC: campaign for forked booth
 - 13FD2: misrender in NewG, after D1 and D5
+- 13FDC: after obelisk w/o sun
 - 13FF4: after O40
 - 14000: after 13FFF
 - 14002: after 03
