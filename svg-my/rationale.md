@@ -103,7 +103,6 @@ Subtotal: 268
 - 13051: bigger belly, arms a bit down
 - 13052: same
 - 13053: same, plus took arrows from B4 extension
-- 13055: long hair + ribbon taken from B2
 - 13059: enlarged sistrum
 - 1305B: added hand
 - 1305E: 5B reversed
@@ -239,7 +238,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 188
+Subtotal: 187
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1163,4 +1162,4 @@ Subtotal: 508
 
 Subtotal: 2
 
-Total: 1366
+Total: 1365
