@@ -665,7 +665,7 @@ Subtotal: 400
 - 13297: drew from scratch
 - 1329E: drew from scratch
 - 1329F: after 9E
-- 132BC: made from R10
+- 132BC: U18: swapped with 14107, made consistent
 - 132C3: after C2
 - 132CD: made somehow from another R26
 - 132CE: made almost from scratch (handle and arrows are not mine)
@@ -1103,7 +1103,7 @@ Subtotal: 400
 - 140F4: after 132B7
 - 140FD: after FC and some extended V30
 - 140FE: after FC
-- 14107: misrender in NewG, need butcher’s block
+- 14107: U18: swapped with 132BC
 - 14114: after 13, just a bit wrong NewG
 - 14158: normal red crown + cut curl
 - 1415A: Werning + moved uraeus up
