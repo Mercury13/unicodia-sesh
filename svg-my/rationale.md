@@ -152,7 +152,7 @@ Subtotal: 268
 - 1314C: our falcon-sphinxes HAVE base
 - 1314D: simpler eye, different crossbeam
 - 1314E: our falcon-sphinxes HAVE base
-- 1314F: removed sun, our falcon-sphinxes HAVE base
+- 1314F: assembled from various bits (base + cheeks + really round sun)
 - 13152: squeezed every bit of width
 - 13187: too heavy
 - 1318E: too heavy, accidentally found in Egyptian nomes and remade
