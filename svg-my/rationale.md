@@ -132,7 +132,7 @@ Subtotal: 268
 - 130F1: after 2C
 - 130F8: head swap F7-F8
 - 130FB: removed individual fingers
-- 130FC: after FB, squeezed monkey just a bit
+- 130FC: after FB, squeezed monkey just a bit, removed diamond
 - 13101: the former was anyone but hippo
 - 13108: Werning’s review, after 1FE=F1
 - 1310A: extended + thin solid stick
