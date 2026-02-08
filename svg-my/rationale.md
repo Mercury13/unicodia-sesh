@@ -179,7 +179,8 @@ Subtotal: 268
 - 1324E: different knife
 - 1324F: franken from several Nu22’s
 - 1326F: thicker outer lines
-- 13272: single line
+- 13271: a bit wider
+- 13272: double line → single
 - 13281: made from scratch, with metrics of Unicode
 - 13288: gave more space above/below
 - 13289: same
@@ -239,7 +240,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 188
+Subtotal: 189
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1164,4 +1165,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1367
+Total: 1368
