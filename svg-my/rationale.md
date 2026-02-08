@@ -134,7 +134,8 @@ Subtotal: 268
 - 130FB: removed individual fingers
 - 130FC: after FB, squeezed monkey just a bit, removed diamond
 - 13101: the former was anyone but hippo
-- 13108: Werning’s review, after 1FE=F1
+- 13108: U18, after coffin w/bubalis
+- 13109: 13108 + removed line
 - 1310A: extended + thin solid stick
 - 13113: took extended F20 and changed to b/w F20
 - 13121: was self-intersecting, made two halves
@@ -240,7 +241,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 189
+Subtotal: 190
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1165,4 +1166,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1368
+Total: 1369
