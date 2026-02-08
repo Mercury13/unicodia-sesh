@@ -447,7 +447,8 @@ Subtotal: 194
 - 13B66: greatly simplified
 - 13B68: uraeus, not snake
 - 13B69: 40% bigger rams
-- 13B93: after 94: TWO HUNDRED
+- 13B83: U18 landed 13108: TWO HUNDRED
+- 13B93: after 94
 - 13B94: false hole, symmetry
 - 13B95: uraeus, not snake
 - 13B9C: other legs
@@ -546,8 +547,8 @@ Subtotal: 194
 - 13FD0: campaign for O22
 - 13FDB: thinner lines
 - 13FEA: thinner lines
-- 13FEC: bovid’s ears
-- 1400A: redrew: THREE HUNDRED
+- 13FEC: bovid’s ears: THREE HUNDRED
+- 1400A: redrew
 - 14015: after similar-looking basic O50’s
 - 140C6: found out that loop was done by adding a white object, but redrew
 - 14011: consistency, after 14012 (+moved lines half-step)
@@ -646,10 +647,10 @@ Subtotal: 194
 - 14392: other pile of bricks, redrew from scratch
 - 1439E: well rather than vessel
 - 143BE: after CC, previous was thicker
-- 143C7: after other X4’s, consistency
-- 143CE: wider but lower, redrew from scratch: FOUR HUNDRED
+- 143C7: after other X4’s, consistency: FOUR HUNDRED
+- 143CE: wider but lower, redrew from scratch
 
-Subtotal: 400
+Subtotal: 401
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1170,4 +1171,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1373
+Total: 1374
