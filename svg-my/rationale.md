@@ -30,7 +30,7 @@ Franken = Frankenstein’s monster, made from small pieces of different picture
 - 133E4, 133E5, 133E6, 133E7, 133EA / 133EB, 133EC, 133ED, 133EE, 133F0 / 143E7, 143E8 = sticks and dots **(12)**
 - 13460, 61, 62, 63, 64, 65, 67 = above the fold **(7)**
 - 134CC, 135EC, 1372D, 1374C 137CA / 13804, 13806, 13887, 1393B 13983…
-- 13B52, 13B9E, 13CCE, 13F3D 14016 / 14198, 142СС, 14330 = tofu **(18)**
+- 13B52, 13B9E, 13CCE, 13F3D 14016 / 14198, 142СС = tofu **(17)**
 - 136AE, 142AD = campaign for phasing out NewGardinerNonCore **(2)**
 - 13469, 1346D, 1346F, 13471, 13472 / 13473, 13476, 13477, 1347A, 1347C…
 - 1347E, 1347F, 13480, 13481, 13482 / 13486, 13487 = campaign for crouching men **(17)**
@@ -47,7 +47,7 @@ Franken = Frankenstein’s monster, made from small pieces of different picture
 - 1437A, 1437B, 1437C, 1437D, 1437E = 60 unit racks **(5)**
 - 143CA, 143CB, 143CC, 143DF, 143E0 = circles, 4 fixed + 1 new **(5)**
 
-Subtotal: 267
+Subtotal: 266
 
 # Misrenders / basic
 - 13000: A1 extended + someone’s else head
@@ -641,16 +641,17 @@ Subtotal: 194
 - 1432B: consistency
 - 1432C: consistency
 - 1432E: consistency after 13383
+- 1432F: after main V21
 - 14366: poles → hands
 - 14386: removed PLACEHOLDERS
 - 1438E: thinner, redrew from scratch
 - 14392: other pile of bricks, redrew from scratch
 - 1439E: well rather than vessel
-- 143BE: after CC, previous was thicker
-- 143C7: after other X4’s, consistency: FOUR HUNDRED
+- 143BE: after CC, previous was thicker: FOUR HUNDRED
+- 143C7: after other X4’s, consistency
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 401
+Subtotal: 402
 
 # Duped with NewGardiner
 - 13007: basic, after 08
