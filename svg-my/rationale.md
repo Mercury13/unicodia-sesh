@@ -214,6 +214,8 @@ Subtotal: 266
 - 13300: based on 01
 - 13301: consistency, one of the waves was too long, fork larger and sleeker
 - 13304: made from scratch, taking flail from 132EC
+- 1330C: cleaner, snake in front
+- 1330D: cleaner, snake in front
 - 13314: extracted from some Anubis
 - 13315: made from cowhide pierced by arrow
 - 13316: 2×13315×1.0
@@ -246,7 +248,7 @@ Subtotal: 266
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 195
+Subtotal: 197
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1174,4 +1176,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1375
+Total: 1377
