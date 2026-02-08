@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="488.79944"
+   height="1801.5386"
+   id="svg2214"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="P8A.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">P8A</title>
+  <metadata
+     id="metadata2221">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>P8A</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2219" />
+  <sodipodi:namedview
+     inkscape:window-height="998"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.35288602"
+     inkscape:cx="-111.93416"
+     inkscape:cy="1647.8408"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2214" />
+  <path
+     d="M 119.0918,0 V 1097.9219 C 94.465746,1132.3013 0,1273.6721 0,1420.1074 c 0,156.652 36.262809,381.4317 244.40039,381.4317 208.11719,0 244.39844,-224.7404 244.39844,-381.4317 0,-146.4353 -94.46575,-287.8061 -119.0918,-322.1855 V 0 Z m 60,60 h 130.61523 v 1057.6816 c 2.86207,3.8355 119.0918,160.4665 119.0918,302.4258 0,227.7499 -69.7067,321.4317 -184.39844,321.4317 C 129.75669,1741.5391 60,1647.939 60,1420.1074 60,1278.3256 175.94706,1121.8973 179.0918,1117.6816 Z"
+     id="use3"
+     sodipodi:nodetypes="ccsssccccccssscc" />
+</svg>
