@@ -475,6 +475,7 @@ Subtotal: 194
 - 13C58: this one has one feather
 - 13C81: rope rather than feather
 - 13C85: loop on the end of perch
+- 13C95: missing one line below
 - 13C96: no base
 - 13C98: feather → loop
 - 13C99: loop on perch
@@ -546,8 +547,8 @@ Subtotal: 194
 - 13FD7: self-intersections, no beard
 - 13FD0: campaign for O22
 - 13FDB: thinner lines
-- 13FEA: thinner lines
-- 13FEC: bovid’s ears: THREE HUNDRED
+- 13FEA: thinner lines: THREE HUNDRED
+- 13FEC: bovid’s ears
 - 1400A: redrew
 - 14015: after similar-looking basic O50’s
 - 140C6: found out that loop was done by adding a white object, but redrew
@@ -646,12 +647,12 @@ Subtotal: 194
 - 14386: removed PLACEHOLDERS
 - 1438E: thinner, redrew from scratch
 - 14392: other pile of bricks, redrew from scratch
-- 1439E: well rather than vessel
-- 143BE: after CC, previous was thicker: FOUR HUNDRED
+- 1439E: well rather than vessel: FOUR HUNDRED
+- 143BE: after CC, previous was thicker
 - 143C7: after other X4’s, consistency
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 402
+Subtotal: 403
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1172,4 +1173,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1373
+Total: 1374
