@@ -200,6 +200,7 @@ Subtotal: 266
 - 132AA: bigger, thicker
 - 132AB: thinner
 - 132AE: after 140C6 and C7
+- 132BF: U18 different perch
 - 132C2: removed hollow handle
 - 132C6: consistency with 13300/01
 - 132DC: made from scratch, too thick
@@ -245,7 +246,7 @@ Subtotal: 266
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 194
+Subtotal: 195
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1173,4 +1174,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1374
+Total: 1375
