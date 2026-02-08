@@ -155,6 +155,7 @@ Subtotal: 268
 - 1314E: our falcon-sphinxes HAVE base
 - 1314F: assembled from various bits (base + cheeks + really round sun)
 - 13152: squeezed every bit of width
+- 1315D: added details to standard, U18
 - 13187: too heavy
 - 1318E: too heavy, accidentally found in Egyptian nomes and remade
 - 13192: thicker walls
@@ -241,7 +242,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 190
+Subtotal: 191
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1166,4 +1167,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1369
+Total: 1370
