@@ -223,6 +223,7 @@ Subtotal: 268
 - 1322D: my new folded cloth
 - 1322F: my new folded cloth
 - 13337: 34 + 36
+- 1334C: U18 it’s legacy and really wide, after 1334B=U23
 - 13353: rope behind, franken between rope and drill
 - 1337D: too thick
 - 133A5: Werning + symmetry, three lines
@@ -244,7 +245,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 193
+Subtotal: 194
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1169,4 +1170,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1372
+Total: 1373
