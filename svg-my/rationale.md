@@ -176,6 +176,7 @@ Subtotal: 268
 - 13204: double line
 - 13206: double line
 - 1320D: thick line
+- 1324E: different knife
 - 1324F: franken from several Nu22’s
 - 1326F: thicker outer lines
 - 13272: single line
@@ -238,7 +239,7 @@ Subtotal: 268
 - 1341E: too thick
 - 13421: too thick
 
-Subtotal: 187
+Subtotal: 188
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1163,4 +1164,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1366
+Total: 1367
