@@ -248,8 +248,9 @@ Subtotal: 266
 - 13413: from scratch
 - 1341E: too thick
 - 13421: too thick
+- 13427: clean, with wedge above
 
-Subtotal: 198
+Subtotal: 199
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1177,4 +1178,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1378
+Total: 1379
