@@ -963,6 +963,7 @@ Subtotal: 403
 - 138C2: Kolya
 - 138C3: C166 + left head only
 - 138C4: found some base in extensions, reversed hands
+- 138C5: partial Kolys’a work after 138C4; took for myself, edited right arm, reversed left
 - 138E9: Kolya
 - 138EC: EB + ankh
 - 138EE: greatly modified Kolya (was really messy)
@@ -1012,6 +1013,7 @@ Subtotal: 403
 - 13A9F: Kolya’s work
 - 13AA0: Kolya’s work, replaced loaf
 - 13AA1: Kolya’s work
+- 13AA4: Kolya, just cool!
 - 13AA7: after A8
 - 13ABD: after BE
 - 13AC5: after C4
@@ -1170,7 +1172,7 @@ Subtotal: 403
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 509
+Subtotal: 511
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1178,4 +1180,4 @@ Subtotal: 509
 
 Subtotal: 2
 
-Total: 1379
+Total: 1381
