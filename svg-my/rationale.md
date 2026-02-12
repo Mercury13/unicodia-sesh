@@ -452,7 +452,8 @@ Subtotal: 199
 - 13B66: greatly simplified
 - 13B68: uraeus, not snake
 - 13B69: 40% bigger rams
-- 13B83: U18 landed 13108: TWO HUNDRED
+- 13B82: U18 consistency: TWO HUNDRED
+- 13B83: U18 landed 13108
 - 13B93: after 94
 - 13B94: false hole, symmetry
 - 13B95: uraeus, not snake
@@ -551,8 +552,8 @@ Subtotal: 199
 - 13FCA: campaign for forked booth
 - 13FD7: self-intersections, no beard
 - 13FD0: campaign for O22
-- 13FDB: thinner lines
-- 13FEA: thinner lines: THREE HUNDRED
+- 13FDB: thinner lines: THREE HUNDRED
+- 13FEA: thinner lines
 - 13FEC: bovid’s ears
 - 1400A: redrew
 - 14015: after similar-looking basic O50’s
@@ -651,13 +652,13 @@ Subtotal: 199
 - 14366: poles → hands
 - 14386: removed PLACEHOLDERS
 - 1438E: thinner, redrew from scratch
-- 14392: other pile of bricks, redrew from scratch
-- 1439E: well rather than vessel: FOUR HUNDRED
+- 14392: other pile of bricks, redrew from scratch: FOUR HUNDRED
+- 1439E: well rather than vessel
 - 143BE: after CC, previous was thicker
 - 143C7: after other X4’s, consistency
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 403
+Subtotal: 404
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1180,4 +1181,4 @@ Subtotal: 511
 
 Subtotal: 2
 
-Total: 1381
+Total: 1382
