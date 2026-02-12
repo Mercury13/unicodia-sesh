@@ -453,7 +453,7 @@ Subtotal: 199
 - 13B68: uraeus, not snake
 - 13B69: 40% bigger rams
 - 13B82: U18 consistency: TWO HUNDRED
-- 13B83: U18 landed 13108
+- 13B83: U18 consistency, after 13B82
 - 13B93: after 94
 - 13B94: false hole, symmetry
 - 13B95: uraeus, not snake
