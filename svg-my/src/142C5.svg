@@ -5,7 +5,7 @@
    version="1.1"
    id="svg1"
    sodipodi:docname="142C5.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,9 +21,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.5099999"
-     inkscape:cx="-94.039739"
-     inkscape:cy="330.79471"
+     inkscape:zoom="1.0677312"
+     inkscape:cx="48.233115"
+     inkscape:cy="74.456944"
      inkscape:window-width="1680"
      inkscape:window-height="998"
      inkscape:window-x="-8"
@@ -51,7 +51,7 @@
        orientation="1,0"
        id="guide6"
        inkscape:locked="false" /></sodipodi:namedview><path
-     style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#613583;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="M 90,159.86767 V 395.56265"
      id="path5" /><path
      style="fill:none;fill-rule:evenodd;stroke:#613583;stroke-width:20;stroke-linecap:round;stroke-dasharray:none"
@@ -65,7 +65,7 @@
      sodipodi:end="0"
      sodipodi:arc-type="slice"
      d="M 4.0397263,157.8147 A 85.960274,84.967003 0 0 1 90,72.847694 85.960274,84.967003 0 0 1 175.96027,157.8147 H 90 Z" /><path
-     style="fill:none;stroke:#813d9c;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#ffa348;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="M 86.540115,69.414156 72.597136,7.4509029 h 17.402859"
      id="path2"
      sodipodi:nodetypes="ccc" /><use
@@ -89,4 +89,7 @@
      transform="matrix(-1,0,0,1,180,0)" /><path
      style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="M 23.26972,365.73863 H 156.73028"
-     id="path2-1" /></svg>
+     id="path2-1" /><path
+     style="fill:none;stroke:#613583;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="M 90,0 V 72.847695"
+     id="path4" /></svg>
