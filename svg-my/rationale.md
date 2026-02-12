@@ -1051,7 +1051,6 @@ Subtotal: 403
 - 13CD4: metrics from Unicode + bird obvious + made room for curve joining
 - 13CDD: after DC
 - 13CEE: after ED, drew fill for myself
-- 13D06: after 07
 - 13D44: 13D45 − uraei
 - 13D46: 13D47 − flail
 - 13D47: some I98 + greatly simplified
@@ -1172,7 +1171,7 @@ Subtotal: 403
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 511
+Subtotal: 510
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1180,4 +1179,4 @@ Subtotal: 511
 
 Subtotal: 2
 
-Total: 1381
+Total: 1380
