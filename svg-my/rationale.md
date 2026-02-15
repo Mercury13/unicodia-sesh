@@ -945,6 +945,8 @@ Subtotal: 404
 - 13863: Kolya’s work with minimal fixes
 - 13862: more modern that Kolya’s
 - 13865: after 69
+- 1386B: Kolya, took my 65 instead
+- 13875: Kolya, a few simplifications + consistent forearm, auto-simplification good enough
 - 13888: Kolya
 - 13889: Kolya
 - 13889: Kolya forgot, so I made after 89
@@ -965,6 +967,7 @@ Subtotal: 404
 - 138C3: C166 + left head only
 - 138C4: found some base in extensions, reversed hands
 - 138C5: partial Kolys’a work after 138C4; took for myself, edited right arm, reversed left
+- 138D2: Kolya, cool, just took a few features from D3 for consistency
 - 138E9: Kolya
 - 138EC: EB + ankh
 - 138EE: greatly modified Kolya (was really messy)
@@ -1173,7 +1176,7 @@ Subtotal: 404
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 511
+Subtotal: 514
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1181,4 +1184,4 @@ Subtotal: 511
 
 Subtotal: 2
 
-Total: 1382
+Total: 1385
