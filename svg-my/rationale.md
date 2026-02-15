@@ -616,7 +616,7 @@ Subtotal: 199
 - 14291: strip of land
 - 14293: bigger circle
 - 14296: dislike vessel
-- 1429C: mirrored
+- 1429C: mirrored, removed loop per U18 (no one knows the right way)
 - 142A2: outlined hoe to filled
 - 142A7: 3×3, no “handle”
 - 142AF: 4 lines, filled
