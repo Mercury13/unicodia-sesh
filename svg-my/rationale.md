@@ -1007,6 +1007,7 @@ Subtotal: 404
 - 13A26: after 25
 - 13A35: obvious
 - 13A41: campaign for donkeys, after E216k
+- 13A44: Kolya, almost (changed standard, moved knives)
 - 13A63: master class
 - 13A69: the proper one had two sets of horns, removed flail from the improper :(
 - 13A73: extension + removed thing in front, straighter slanted plank
@@ -1176,7 +1177,7 @@ Subtotal: 404
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 514
+Subtotal: 515
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1184,4 +1185,4 @@ Subtotal: 514
 
 Subtotal: 2
 
-Total: 1385
+Total: 1386
