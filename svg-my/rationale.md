@@ -492,7 +492,7 @@ Subtotal: 199
 - 13CB5: uraeus after CB4
 - 13CB6: added uraeus
 - 13CB7: same
-- 13CC9: removed sun
+- 13CC9: U18 after normal G13 = 1314F
 - 13CF5: after F6 (had a bit different paws)
 - 13D24: softened feather, took my own land N6
 - 13D28: drew claw from scratch
