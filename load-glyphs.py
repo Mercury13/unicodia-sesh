@@ -411,7 +411,7 @@ GLYPH_SIZES = {
     0x13B60: MEDIUM,
     0x13B69: WIDE,
     0x13B73: WIDE,  # two cows’ heads
-    0x13B74: MEDWIDE,  # push-pull cow
+    0x13B74: MEDWIDE, 0x13B75: MEDWIDE,  # push-pull cow    
     0x13B93: WIDE, 0x13B94: WIDE,
     0x13BAA: WIDE, 0x13BAB: WIDE,
     0x13BB1: MEDIUM,
