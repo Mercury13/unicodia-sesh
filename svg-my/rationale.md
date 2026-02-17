@@ -1137,7 +1137,7 @@ Subtotal: 404
 - 1415A: Werning + moved uraeus up
 - 1415B: uraeus from 1415A
 - 14165: campaign for hats, after 64 and some S82
-- 1418E: implement somehow badly
+- 1418E: U18 silent change, after 8F and older 8E
 - 14124: after 23
 - 14128: after 2A
 - 14141: campaign for Seth stick
