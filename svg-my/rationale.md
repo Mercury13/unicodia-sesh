@@ -138,6 +138,7 @@ Subtotal: 266
 - 13109: 13108 + removed line
 - 1310A: extended + thin solid stick
 - 13113: took extended F20 and changed to b/w F20
+- 13120: from scratch, no more corners
 - 13121: was self-intersecting, made two halves
 - 1312E: drew from scratch
 - 13130: changed Sesh a bit, mainly made branches more pronounced
@@ -250,7 +251,7 @@ Subtotal: 266
 - 13421: too thick
 - 13427: clean, with wedge above
 
-Subtotal: 199
+Subtotal: 200
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1192,4 +1193,4 @@ Subtotal: 522
 
 Subtotal: 2
 
-Total: 1393
+Total: 1394
