@@ -1,6 +1,6 @@
 ﻿# What is UnicodiaSesh?
 
-**In a nutshell:** it is a Unicode 17 font for Egyptian hieroglyphs based on JSesh.
+**In a nutshell:** it is a Unicode 18 font for Egyptian hieroglyphs based on JSesh.
 - The nicest JSesh based font ever. Why — see below.
 - The widest coverage among free and semi-free fonts. The only catch: 568 NewGardiner’s tofu are extended (refuses by policy), and all UnicodiaSesh’s tofu are core.
 
@@ -63,8 +63,9 @@ The author does not provide any stability. Everything may change, including bear
 - Mini-task 3a. Create stubs of special characters. ☂️ 3359/3995 ✅ November 2025
 - Milestone 3b. Beat NewGardiner in coverage. ✅ December 2025
 - **Phase 4.** Move to Unicode 18. ☂️ 3575/3995 ✅ February 2026
-- Mini-task 4a. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
-- ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger).
+- Mini-task 4a. Track and draw ninja changes of Unicode 18
+- Mini-task 4b. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
+- ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger)
 - ??? Make build process less path-dependent
 
 Probably WILL NEVER support full formatting.
