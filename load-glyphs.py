@@ -432,13 +432,15 @@ GLYPH_SIZES = {
     0x13CE1: MEDIUM, 0x13CE2: MEDWIDE,  # ducks
     0x13CF7: MEDWIDE, 0x13CF8: EVERYBIT,  # lapwings
     0x13D2B: MEDIUM, 0x13D2C: MEDIUM, 0x13D2D: MEDIUM,
+    # I: amphibians/reptiles
     0x13D2F: MEDWIDE, 0x13D30: WIDE,    
     0x13D4D: SMALL, 0x13D4E: SMALL, 0x13D4F: TINY,
     0x13D61: MEDWIDE,
     0x13D65: MEDWIDE,
     0x13D7F: EVERYBIT,
     0x13D97: WIDE,
-    0x13DA9: MEDWIDE,
+    0x13DA9: MEDWIDE,  # two bows as four cobras
+    0x13DB4: MEDWIDE,  # snake w/just 2 coils
     0x13DC5: EVERYBIT, 0x13DC6: EVERYBIT,
     0x13DC9: MEDIUM,
     # L: bug
