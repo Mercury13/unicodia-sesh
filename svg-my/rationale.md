@@ -499,6 +499,7 @@ Subtotal: 200
 - 13D28: drew claw from scratch
 - 13D6F: removed sun, curvier beard
 - 13D8F: removed sun
+- 13DBB: took more detailed snake, removed 1 knife
 - 13DC3: mirror
 - 13DD7: existing is DD8 now
 - 13DE9: wrong glyph
@@ -552,8 +553,8 @@ Subtotal: 200
 - 13FC9: campaign for forked booth
 - 13FCA: campaign for forked booth
 - 13FD7: self-intersections, no beard
-- 13FD0: campaign for O22
-- 13FDB: thinner lines: THREE HUNDRED
+- 13FD0: campaign for O22: THREE HUNDRED
+- 13FDB: thinner lines
 - 13FEA: thinner lines
 - 13FEC: bovid’s ears
 - 1400A: redrew
@@ -652,14 +653,14 @@ Subtotal: 200
 - 1432F: after main V21
 - 14366: poles → hands
 - 14386: removed PLACEHOLDERS
-- 1438E: thinner, redrew from scratch
-- 14392: other pile of bricks, redrew from scratch: FOUR HUNDRED
+- 1438E: thinner, redrew from scratch: FOUR HUNDRED
+- 14392: other pile of bricks, redrew from scratch
 - 1439E: well rather than vessel
 - 143BE: after CC, previous was thicker
 - 143C7: after other X4’s, consistency
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 404
+Subtotal: 405
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1193,4 +1194,4 @@ Subtotal: 522
 
 Subtotal: 2
 
-Total: 1394
+Total: 1395
