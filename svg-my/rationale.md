@@ -1074,6 +1074,7 @@ Subtotal: 405
 - 13D87: franken
 - 13DA7: DA3 + feathers
 - 13DAE: after AD and some horns
+- 13DAF: knives from Werning, dead from DB4, body just a line
 - 13DB4: exists as extended I86, just upgraded head
 - 13DBE: after BD and more snakes
 - 13DCC: found some catfish in extensions
@@ -1188,7 +1189,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 524
+Subtotal: 525
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1196,4 +1197,4 @@ Subtotal: 524
 
 Subtotal: 2
 
-Total: 1397
+Total: 1398
