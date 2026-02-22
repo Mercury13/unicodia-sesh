@@ -1075,6 +1075,7 @@ Subtotal: 405
 - 13DA7: DA3 + feathers
 - 13DAE: after AD and some horns
 - 13DB4: exists as extended I86, just upgraded head
+- 13DBE: after BD and more snakes
 - 13DCC: found some catfish in extensions
 - 13DEA: after Werning’s L11
 - 13DF0: L2 minus wings
@@ -1187,7 +1188,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 523
+Subtotal: 524
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1195,4 +1196,4 @@ Subtotal: 523
 
 Subtotal: 2
 
-Total: 1396
+Total: 1397

@@ -170,7 +170,7 @@ GLYPH_SIZES = {
     0x130B6: EVERYBIT, 0x130B7: SQUARE,  # fingers
     0x130C3: MEDIUM, 0x130C4: MEDIUM,  # IDK, limit them by height
     0x130CD: MEDWIDE, 0x130CE: MEDWIDE, 0x130CF: EVERYBIT, 0x130D0: EVERYBIT, 0x130D1: MEDWIDE, # rings
-    # E: animals
+    # E: mammals
     0x130D2: MEDWIDE, 0x130D3: WIDE, 0x130D4: MEDWIDE, 0x130D5: MEDWIDE,  # cows
     0x130D6: MEDWIDE, 0x130D7: MEDWIDE, 0x130D8: MEDWIDE,
     0x130D9: GOAT_CALF, 0x130DA: GOAT_CALF,  # goats w/o beard
@@ -182,7 +182,7 @@ GLYPH_SIZES = {
     0x130F0: MEDWIDE,  # elephant
     0x130F6: MEDWIDE, 0x130F7: MEDWIDE,  # goat, monkey
     0x130F9: MEDWIDE, 0x130FA: SQUARE,  # hare
-    # F: parts of animals
+    # F: parts of mammals
     0x13105: MEDWIDE,  # ram’s head
     0x13114: MEDIUM, 0x13115: MEDIUM,  # animal’s ears
     0x1312B: WIDE,  # some kind of spine
@@ -391,7 +391,7 @@ GLYPH_SIZES = {
     0x13A17: MEDIUM, 0x13A18: MEDIUM, # smth on feet: wanted consistent size?
     0x13A31: SMALL,  # toe
     0x13A34: SMALL,  # windpipe
-    # E: animals
+    # E: mammals
     0x13A39: MED_DONKEY,  # donkeys
     0x13A41: TAILLESS_DONKEY, 0x13A42: SMALL_DONKEY, 0x13A43: SMALL_DONKEY,  # more donkeys
     0x13A53: CELLHEIGHT,
@@ -406,7 +406,7 @@ GLYPH_SIZES = {
     0x13B2D: EVERYBIT,
     0x13B3C: WIDE,  # attacking bull
     0x13B59: WIDE,
-    # F: parts of animals
+    # F: parts of mammals
     0x13B5B: WIDE,
     0x13B60: MEDIUM,
     0x13B69: WIDE,
@@ -441,6 +441,7 @@ GLYPH_SIZES = {
     0x13D97: WIDE,
     0x13DA9: MEDWIDE,  # two bows as four cobras
     0x13DB4: MEDWIDE,  # snake w/just 2 coils
+    0x13DBE: MEDWIDE,  # wide snake is too much
     0x13DC5: EVERYBIT, 0x13DC6: EVERYBIT,
     0x13DC9: MEDIUM,
     # L: bug
