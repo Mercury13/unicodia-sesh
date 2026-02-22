@@ -1069,6 +1069,7 @@ Subtotal: 405
 - 13D52: I7C − wickerwork
 - 13D61: oval from eyes + some snake
 - 13D74: franken
+- 13D90: after some extended I128
 - 13D94: 93 + flail
 - 13D96: after I12 and 8F
 - 13D87: franken
@@ -1189,7 +1190,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 525
+Subtotal: 526
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1197,4 +1198,4 @@ Subtotal: 525
 
 Subtotal: 2
 
-Total: 1398
+Total: 1399
