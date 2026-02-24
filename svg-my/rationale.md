@@ -1155,6 +1155,7 @@ Subtotal: 405
 - 1414E: after 4D
 - 14168: after extended S8, round circles
 - 1416D: after 1416C, deleted suns and symmetrized
+- 14175: horns 74, the rest from scratch
 - 14181: 80 + L12a
 - 14187: from scratch
 - 14189: 1A + simplified
@@ -1196,7 +1197,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 531
+Subtotal: 533
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1204,4 +1205,4 @@ Subtotal: 531
 
 Subtotal: 2
 
-Total: 1404
+Total: 1406
