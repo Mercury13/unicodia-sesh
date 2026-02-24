@@ -1142,6 +1142,7 @@ Subtotal: 405
 - 140FE: after FC
 - 14107: U18: swapped with 132BC
 - 14114: after 13, just a bit wrong NewG
+- 14151: 150 + my S1a
 - 14158: normal red crown + cut curl
 - 1415A: Werning + moved uraeus up
 - 1415B: uraeus from 1415A
@@ -1194,7 +1195,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 530
+Subtotal: 531
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1202,4 +1203,4 @@ Subtotal: 530
 
 Subtotal: 2
 
-Total: 1403
+Total: 1404
