@@ -1161,6 +1161,7 @@ Subtotal: 405
 - 14189: 1A + simplified
 - 14191: from S2966, campaign for hats
 - 14196: after 97, pectoral
+- 1419D: from scratch, campaign for hats
 - 1419F: from scratch, campaign for hats
 - 141A2: after A1
 - 141AF: from scratch
@@ -1197,7 +1198,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 533
+Subtotal: 534
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1205,4 +1206,4 @@ Subtotal: 533
 
 Subtotal: 2
 
-Total: 1406
+Total: 1407
