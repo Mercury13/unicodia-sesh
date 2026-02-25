@@ -42,7 +42,7 @@ All SVGs except rawmost (``svg``) are pre-united (Path → Union).
 
 1. After loading Unikemet.txt run file filter_unikemet.bat
 2. Check what changed in Unisesh.txt. That’s some random ID and JSesh ID. Changed → something really big happened.
-3. In rationale.txt there are a few chars I found for myself. Have they landed to the same or different code point?
+3. In rationale.txt there are a few chars I made for myself. Have they landed to the same or different code point?
 4. In svg-ex there are a few glyphs that e.g. appeared after UniKemet 17, or were taken from extended bases. Are they still valid?
 5. Then check sample images (using delta code charts).
 6. Then descriptions (using Unikemet changes)
