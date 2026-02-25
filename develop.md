@@ -29,7 +29,6 @@
   - enforcing symmetry via half+clone
   - flipping, rotation by right angles
 - cache: cache for auto-Inkscape’d JSesh SVGs (running Inkscape takes ≈1s/file)
-- manual: fixed directly in FontForge, everything is done manually except bearings (gradually phasing out this directory)
 
 All SVGs except rawmost (``svg``) are pre-united (Path → Union).
 
