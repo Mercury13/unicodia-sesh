@@ -58,5 +58,5 @@ Why Unisesh.txt? Just to make changes more obvious.
 - Yellow: background here. Either subtract, or leave as and let the loader do its job
   - Yellow fill + violet outline are permitted
   - Yellow fill + black/grey/… outline are permitted too, though not encouraged
-- Scarlet: technical rigs e.g. to put a guideline in place; delete when exporting
+- Scarlet: 1) technical rigs e.g. to put a guideline in place, delete when exporting; 2) Pay attention when exporting
 - Orange: reference drawing; delete when exporting
