@@ -62,8 +62,8 @@ The author does not provide any stability. Everything may change, including bear
 - Phase 3. Cover main block, maturity 5. ✅ November 2025
 - Mini-task 3a. Create stubs of special characters. ☂️ 3359/3995 ✅ November 2025
 - Milestone 3b. Beat NewGardiner in coverage. ✅ December 2025
-- **Phase 4.** Move to Unicode 18. ☂️ 3575/3995 ✅ February 2026
-- Mini-task 4a. Track and draw ninja changes of Unicode 18
+- Phase 4. Move to Unicode 18. ☂️ 3575/3995 ✅ February 2026
+- **Mini-task 4a. Track and draw ninja changes of Unicode 18.** ☂️ 3580/3995 ✅ February 2026
 - Mini-task 4b. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger)
 - ??? Make build process less path-dependent
