@@ -38,9 +38,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.3775"
-     inkscape:cx="332.45033"
-     inkscape:cy="547.01987"
+     inkscape:zoom="0.26693281"
+     inkscape:cx="-28.096958"
+     inkscape:cy="-61.813308"
      inkscape:window-width="1680"
      inkscape:window-height="998"
      inkscape:window-x="-8"
@@ -61,50 +61,50 @@
      sodipodi:nodetypes="csccsccsccsccccsccsc" />
   <circle
      style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle15"
+     cx="42.073502"
+     cy="153.84705"
+     r="41.059601" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle14"
+     cx="-37.732536"
+     cy="245.08788"
+     r="41.059601" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
      id="circle13"
-     cx="26.545387"
-     cy="139.38248"
+     cx="-89.495773"
+     cy="355.63947"
      r="41.059601" />
   <circle
      style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
      id="circle12"
-     cx="-37.014626"
-     cy="243.43652"
+     cx="-122.81433"
+     cy="473.15961"
      r="41.059601" />
   <circle
      style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
      id="circle11"
-     cx="-83.423851"
-     cy="356.41095"
+     cx="-143.9057"
+     cy="593.55695"
      r="41.059601" />
   <circle
      style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
      id="circle10"
-     cx="-116.65305"
-     cy="473.93347"
+     cx="-157.34579"
+     cy="714.94989"
      r="41.059601" />
   <circle
      style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
      id="circle9"
-     cx="-139.67093"
-     cy="593.92999"
-     r="41.059601" />
-  <circle
-     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
-     id="circle2"
-     cx="-155.06903"
-     cy="715.07489"
-     r="41.059601" />
-  <circle
-     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
-     id="circle1"
-     cx="-164.29024"
-     cy="836.84698"
+     cx="-165.10056"
+     cy="836.8241"
      r="41.059601" />
   <circle
      style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
      id="circle7"
-     cx="-168.44516"
-     cy="959.60992"
+     cx="-168.50548"
+     cy="958.94043"
      r="41.059601" />
 </svg>
