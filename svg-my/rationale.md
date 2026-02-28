@@ -1126,6 +1126,7 @@ Subtotal: 405
 - 1402D: after 1329E
 - 14038: found among P3 ex, just too much water
 - 14046: “low-hanging” boats, after 45
+- 1404B: 4A + Werning’s stool
 - 1404D: another “low-hanging” boat, franken from 47 and 4A
 - 14051: “low-hanging” boats, after 4F
 - 14052: “low-hanging” boats, after 4E
@@ -1205,7 +1206,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 541
+Subtotal: 542
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1213,4 +1214,4 @@ Subtotal: 541
 
 Subtotal: 2
 
-Total: 1414
+Total: 1415
