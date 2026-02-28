@@ -1055,6 +1055,7 @@ Subtotal: 405
 - 13BCD: after CC
 - 13BDD: after DE
 - 13BDF: after orig F36
+- 13BE4: after three-part F38
 - 13C11: after 10
 - 13C1D: after 1C
 - 13C30: after 2E
@@ -1204,7 +1205,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 540
+Subtotal: 541
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1212,4 +1213,4 @@ Subtotal: 540
 
 Subtotal: 2
 
-Total: 1413
+Total: 1414

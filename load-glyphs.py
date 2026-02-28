@@ -420,6 +420,7 @@ GLYPH_SIZES = {
     0x13BD4: SMALL,
     0x13BD9: MEDWIDE,  # some sort of heart
     0x13BF8: SMALL,
+    0x13BE4: MEDWIDE,  # spine?
     0x13BFA: MEDIUM, 0x13BFB: MEDIUM,
     0x13C05: TINY, 0x13C06: TINY,
     0x13C08: SMALL,
