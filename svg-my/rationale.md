@@ -1176,6 +1176,7 @@ Subtotal: 405
 - 141C9: after C8
 - 141CE: after normal S36
 - 141E4: after E3
+- 141ED: after other Aa20’s
 - 14203: after 02
 - 1421F: after 132CE
 - 1425B: after 5A
@@ -1207,7 +1208,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 543
+Subtotal: 544
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1215,4 +1216,4 @@ Subtotal: 543
 
 Subtotal: 2
 
-Total: 1416
+Total: 1417

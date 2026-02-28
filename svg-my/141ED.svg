@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="418.79868"
+   height="1000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="141ED.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M -127.37794,958.94043 A 41.059601,41.059601 0 0 1 -168.43755,1000 a 41.059601,41.059601 0 0 1 -41.0596,-41.05957 41.059601,41.059601 0 0 1 41.0596,-41.0596 41.059601,41.059601 0 0 1 41.05961,41.0596 z"
+       copytype="repeated"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="40"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.3775"
+     inkscape:cx="332.45033"
+     inkscape:cy="547.01987"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showguides="true">
+    <sodipodi:guide
+       position="418.79883,0"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#000000;stroke:none;stroke-width:1"
+     d="M 22.246094,0 C 7.4147991,4.8201707 0,15.016984 0,30.589844 0,46.162702 14.645693,56.72928 43.9375,62.291016 72.858524,67.481969 114.01554,85.279438 167.4082,115.68359 77.308086,159.43591 31.82779,281.42446 32.257812,481.64648 L 33.371094,1000 H 385.42773 l 1.11329,-518.35352 C 386.97105,281.42446 341.49074,159.43591 251.39062,115.68359 304.78328,85.279438 345.9403,67.481969 374.86133,62.291016 404.15313,56.72928 418.79883,46.162702 418.79883,30.589844 418.79883,15.016984 411.38208,4.8201707 396.55078,0 339.07952,12.977383 276.60349,46.162028 209.12109,99.554688 142.00949,46.162028 79.717359,12.977383 22.246094,0 Z M 209.12109,131.8125 c 93.06638,38.56137 141.16283,155.17235 140.71289,349.83398 L 348.7207,963.29297 H 70.078125 L 68.964844,481.64648 C 68.514902,286.98485 116.4255,170.37387 209.12109,131.8125 Z"
+     id="path1"
+     sodipodi:nodetypes="csccsccsccsccccsccsc" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle13"
+     cx="26.545387"
+     cy="139.38248"
+     r="41.059601" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle12"
+     cx="-37.014626"
+     cy="243.43652"
+     r="41.059601" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle11"
+     cx="-83.423851"
+     cy="356.41095"
+     r="41.059601" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle10"
+     cx="-116.65305"
+     cy="473.93347"
+     r="41.059601" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle9"
+     cx="-139.67093"
+     cy="593.92999"
+     r="41.059601" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle2"
+     cx="-155.06903"
+     cy="715.07489"
+     r="41.059601" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle1"
+     cx="-164.29024"
+     cy="836.84698"
+     r="41.059601" />
+  <circle
+     style="fill:#1a5fb4;fill-rule:evenodd;stroke-width:40;stroke-miterlimit:2.3"
+     id="circle7"
+     cx="-168.44516"
+     cy="959.60992"
+     r="41.059601" />
+</svg>
