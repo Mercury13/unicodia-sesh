@@ -1140,6 +1140,7 @@ Subtotal: 405
 - 14088: after 89, though omitted some detail present on image per rule of vote
 - 1408C: after 8E
 - 140B1: from JSesh Q25a
+- 140B4: from JSesh Q28
 - 140C8: after Q7=132AE
 - 140F4: after 132B7
 - 140FD: after FC and some extended V30
@@ -1202,7 +1203,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 538
+Subtotal: 539
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1210,4 +1211,4 @@ Subtotal: 538
 
 Subtotal: 2
 
-Total: 1411
+Total: 1412
