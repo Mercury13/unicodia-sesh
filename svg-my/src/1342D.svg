@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="441.1846"
+   height="1000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="1342D.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="0.53386562"
+     inkscape:cx="57.130482"
+     inkscape:cy="634.05469"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <sodipodi:guide
+       position="220.5923,963.29256"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     id="path1"
+     style="fill:#000000;stroke:none;stroke-width:0.999999"
+     d="m 0,638.48633 c 0,91.05513 22.593571,181.31307 78.210938,270.30078 -20.763827,0 -31.144532,15.2032 -31.144532,45.60742 0,30.4041 10.380705,45.60547 31.144532,45.60547 H 220.5923 V 971.07812 H 90.447266 c -8.157196,0 -12.236328,-5.5602 -12.236328,-16.68359 0,-11.12351 4.079132,-16.68555 12.236328,-16.68555 H 220.5923 V 908.78711 H 122.70508 C 67.087748,828.69816 41.503906,740.50725 41.503906,638.48633 Z"
+     sodipodi:nodetypes="ccssccsssccccc" />
+  <path
+     id="path3"
+     style="fill:#1a5fb4;stroke:none;stroke-width:0.999999"
+     d="m 220.5923,0 v 36.707031 c -8.1572,0 -23.36001,26.141548 -45.60696,78.421879 C 150.61378,172.40202 41.503906,448.66858 41.503906,638.48633 H 0 C 0,524.19871 33.717662,389.3223 87.110342,233.59375 140.50299,77.865163 184.9972,0 220.5923,0 Z"
+     sodipodi:nodetypes="ccsccsc" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path1"
+     id="use1"
+     transform="matrix(-1,0,0,1,441.1846,0)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path3"
+     id="use2"
+     transform="matrix(-1,0,0,1,441.1846,0)" />
+</svg>

@@ -181,6 +181,7 @@ Subtotal: 266
 - 1320D: thick line
 - 13233: not really U18, but added white crown, replaced head
 - 13234: added double crown
+- 13247: added basket
 - 1324E: different knife
 - 1324F: franken from several Nu22’s
 - 1326F: thicker outer lines
@@ -250,8 +251,9 @@ Subtotal: 266
 - 1341E: too thick
 - 13421: too thick
 - 13427: clean, with wedge above
+- 1342D: no lines inside (scholars argue)
 
-Subtotal: 200
+Subtotal: 202
 
 # Misrenders / extended (including cases when misrendered char covers another CP)
 - 13470: a bit craggy, not A1 + A2
@@ -1216,4 +1218,4 @@ Subtotal: 544
 
 Subtotal: 2
 
-Total: 1417
+Total: 1419
