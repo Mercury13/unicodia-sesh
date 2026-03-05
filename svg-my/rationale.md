@@ -1053,6 +1053,7 @@ Subtotal: 405
 - 13B85: after 81
 - 13B98: after 97
 - 13B9F: after 98
+- 13BA9: Kolya
 - 13BB4: after B3
 - 13BCD: after CC
 - 13BDD: after DE
@@ -1210,7 +1211,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 544
+Subtotal: 545
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1218,4 +1219,4 @@ Subtotal: 544
 
 Subtotal: 2
 
-Total: 1419
+Total: 1420

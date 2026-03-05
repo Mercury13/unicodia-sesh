@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="800"
+   height="1000"
+   id="svg1818"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="13BA9.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1825">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>05/02/2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>optimisation du signe antérieur de Jsesh, une variante sans excavation a été envoyé  je ne sais trop quand</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1823" />
+  <sodipodi:namedview
+     inkscape:window-height="998"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.24530398"
+     inkscape:cx="-311.85796"
+     inkscape:cy="478.99752"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg1818"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="1" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:29.9979"
+     d="m 21.809092,38.689427 c -4.687037,31.556192 -26.4167505,55.746056 -76.754696,74.882723 -57.023786,21.67847 -174.940786,86.30398 -199.687136,255.22509 -9.56843,65.3144 -22.67287,139.15708 -39.31338,221.52803 27.45696,-89.85922 45.55359,-159.54174 54.28986,-209.04757 9.25746,-52.45866 44.50688,-171.86414 175.974297,-217.1597 C -22.605894,149.96572 43.566269,118.06188 88.895582,87.31883 107.28685,76.928689 113.72639,59.250445 114.23636,38.689427 Z M 147.86159,-9.23297e-8 C 147.86159,75.607805 137.96925,96.145541 96.83214,119.25771 c -54.213077,30.4587 -135.450238,75.84936 -185.475031,99.77427 -66.978379,32.03313 -111.075939,101.92363 -132.292759,209.67147 -21.21668,107.7479 -49.31963,176.4976 -76.13073,212.79162 -26.81147,36.29453 -60.74459,76.64754 -106.70774,121.06036 h -7.48826 c 69.89058,-94.01936 107.74791,-183.46258 113.57198,-268.32961 5.8243,-84.86707 14.76868,-152.46948 26.83304,-202.80726 C -240.64432,165.35761 -118.8681,97.311555 -71.170249,81.747033 -31.648824,68.850593 -9.8080176,41.601572 -5.6478452,-9.23297e-8 Z"
+     id="path1820"
+     sodipodi:nodetypes="csscssscccsssscccsscc" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:30.2521"
+     d="m 194.36859,876.28899 q -45.00305,0 -66.12674,-51.43211 -21.1237,-51.43164 -21.1237,-164.39881 6.42908,-114.80364 21.1237,-239.7098 l 33.0636,-225.01518 q 5.51036,-17.45026 33.06314,-17.45026 27.55322,0 33.06358,17.45026 l 33.0636,225.01518 q 14.69464,124.90616 21.1237,239.7098 0,112.96717 -21.1237,164.39881 -21.12415,51.43211 -66.12718,51.43211 z m 145.11204,-5.51037 V 1001.1956 H 49.256981 V 870.77862 q 17.450264,-13.77639 56.483349,13.77637 39.03308,27.55278 88.62826,31.22665 49.59516,-3.6757 90.00652,-31.22665 40.41045,-27.55276 55.10552,-13.77637 z M 191.6134,833.1229 q 28.47146,0 41.78873,-46.83998 13.31727,-46.83998 13.31727,-125.82485 -2.75565,-114.80364 -18.36853,-239.7098 L 208.14542,237.06225 q -1.83557,-13.77638 -13.77683,-13.77638 -11.93945,0 -13.77639,13.77638 l -20.20545,183.68602 q -15.61334,124.90616 -17.44981,239.7098 -0.92008,78.98487 9.64337,125.82485 10.56208,46.83998 39.03309,46.83998 z m 115.72235,140.51947 v -67.04498 q -53.26905,37.65526 -112.96716,37.65526 -59.69766,0 -112.966711,-37.65526 v 67.04498 z"
+     id="path1" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path1820"
+     id="use1"
+     transform="matrix(-1,0,0,1,388.73762,0)"
+     style="stroke-width:0.660891" />
+</svg>
