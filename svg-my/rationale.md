@@ -989,6 +989,7 @@ Subtotal: 405
 - 138FB: after FA
 - 138FE: JSesh C204 + strip of land
 - 13900: after 01
+- 1390C: remade Kolya’s work, after 0B
 - 13912: Werning + knees from 13911
 - 13914: Kolya’s work
 - 13922: Kolya’s work
@@ -1211,7 +1212,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 545
+Subtotal: 546
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1219,4 +1220,4 @@ Subtotal: 545
 
 Subtotal: 2
 
-Total: 1420
+Total: 1421
