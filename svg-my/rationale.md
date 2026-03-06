@@ -1045,6 +1045,7 @@ Subtotal: 405
 - 13AF7: after E45, baboon
 - 13B01: 00 + head from E32
 - 13B0A: after 09
+- 13B0C: after 0B
 - 13B1C: after 1D
 - 13B58: after extended E268
 - 13B5D: after 5C
@@ -1214,7 +1215,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 548
+Subtotal: 549
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1222,4 +1223,4 @@ Subtotal: 548
 
 Subtotal: 2
 
-Total: 1423
+Total: 1424
