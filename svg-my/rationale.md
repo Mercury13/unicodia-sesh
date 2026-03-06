@@ -954,9 +954,11 @@ Subtotal: 405
 - 13861: Kolya’s work with minimal fixes
 - 13862: Kolya’s work with minimal fixes
 - 13863: Kolya’s work with minimal fixes
-- 13862: more modern that Kolya’s
+- 13862: more modern than Kolya’s
 - 13865: after 69
+- 13866: after 65
 - 1386B: Kolya, took my 65 instead
+- 1386C: 6B + 66
 - 13875: Kolya, a few simplifications + consistent forearm, auto-simplification good enough
 - 13888: Kolya
 - 13889: Kolya
@@ -1212,7 +1214,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 546
+Subtotal: 548
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1220,4 +1222,4 @@ Subtotal: 546
 
 Subtotal: 2
 
-Total: 1421
+Total: 1423
