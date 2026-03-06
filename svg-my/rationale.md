@@ -957,6 +957,7 @@ Subtotal: 405
 - 13862: more modern than Kolya’s
 - 13865: after 69
 - 13866: after 65
+- 1386A: after C115A and Kolya’s work on other Thoths
 - 1386B: Kolya, took my 65 instead
 - 1386C: 6B + 66
 - 13875: Kolya, a few simplifications + consistent forearm, auto-simplification good enough
@@ -1215,7 +1216,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 549
+Subtotal: 550
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1223,4 +1224,4 @@ Subtotal: 549
 
 Subtotal: 2
 
-Total: 1424
+Total: 1425
