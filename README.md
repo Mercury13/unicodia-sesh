@@ -45,9 +45,12 @@ The author does not provide any stability. Everything may change, including bear
   * Equiv. sequence = flipped/combination: normal quality
 * No description (mostly extended): just vaguely resembles the sample image
 * Same if the sample image is not in harmony with description, but just for details that are not in harmony. I use the “rule of vote”: the NewGardiner font decides what’s right.
+  * NewGardiner is a greater vote: if all three contradict, take NewGardiner’s.
+  * Every detail is checked separately.
 * Short-haired man has no beard unless specified
 * Other men may have any beard except god’s unless specified
 * Described but really small detail (ankh in the hand…) = thing of lower importance, fix if the hiero was touched for another reason.
+  * In hieros drawn/touched by us, such details are really exaggerated.
 * The difference between duck and goose is ephemeral, no efforts to make them distinct. However, their necks are light.
 * If the hieroglyph is not extensively disunified, any confirmed image is suitable. Example: female acrobat bending backwards 13744=B37a, took B37 and consider OK
 * Cases whose inconsistency is NOT an issue:
