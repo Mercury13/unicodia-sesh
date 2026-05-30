@@ -34,7 +34,7 @@ All SVGs except rawmost (``svg``) are pre-united (Path → Union).
 
 # Error messages
 
-- XXX self-intersects / Critical / Built-in systems are unable to fix SVG’s self-intersections. Use other ways, like ``manual`` (complete pre-scaled glyphs) and ``svg-remade`` (technical changes).
+- XXX self-intersects / Critical / Built-in systems are unable to fix SVG’s self-intersections. You must fix it for yourself and put to ``svg-remade``.
 - XXX exists / Warning / Way A is overridden by way B. Check which is correct.
 
 # How to update data
