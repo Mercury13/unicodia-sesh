@@ -56,6 +56,6 @@ Why Unisesh.txt? Just to make changes more obvious.
 - Yellow: background here. Either subtract, or leave as and let the loader do its job
   - Yellow fill + violet outline are permitted
 - All shades of violet: convert to path, mainly Stroke to path
-  - Black/grey/… fill + violet outline are permitted, though discouraged. Simplify by hand while exporting!
+  - Black/grey/… fill + violet outline are permitted, though discouraged. While exporting: Stroke to path, unite, simplify by hand!
 - Scarlet: 1) technical rigs e.g. to put a guideline in place, delete when exporting; 2) Pay attention when exporting
 - Orange: reference drawing; delete when exporting
