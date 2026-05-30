@@ -39,10 +39,10 @@ All SVGs except rawmost (``svg``) are pre-united (Path → Union).
 
 # How to update data
 
-1. After loading Unikemet.txt run file filter_unikemet.bat
-2. Check what changed in Unisesh.txt. That’s some random ID and JSesh ID. Changed → something really big happened.
-3. In rationale.txt there are a few chars I made for myself. Have they landed to the same or different code point?
-4. In svg-ex there are a few glyphs that e.g. appeared after UniKemet 17, or were taken from extended bases. Are they still valid?
+1. After loading ``Unikemet.txt``, run the file ``filter_unikemet.bat``
+2. Check what changed in ``Unisesh.txt``. That’s some random ID and JSesh ID. Changed → something really big happened.
+3. In ``rationale.txt`` there are a few chars I made for myself. Have they landed to the same or different code point?
+4. In ``svg-ex`` there are a few glyphs that e.g. appeared after UniKemet 17, or were taken from extended bases. Are they still valid?
 5. Then check sample images (using delta code charts).
 6. Then descriptions (using Unikemet changes)
 
@@ -53,9 +53,10 @@ Why Unisesh.txt? Just to make changes more obvious.
 # Colour code
 
 - All shades of violet: convert to path, mainly Stroke to path
-- Crimson, grey, dark-blue etc: just to remind that you need to unite the objects while exporting
+- All darks (crimson, grey, blue, brown, green etc): just to remind that you need to unite the objects while exporting
 - Yellow: background here. Either subtract, or leave as and let the loader do its job
   - Yellow fill + violet outline are permitted
   - Yellow fill + black/grey/… outline are permitted too, though not encouraged
+- Scarlet: technical rigging, delete them
 - Scarlet: 1) technical rigs e.g. to put a guideline in place, delete when exporting; 2) Pay attention when exporting
 - Orange: reference drawing; delete when exporting
