@@ -34,7 +34,7 @@ All SVGs except rawmost (``svg``) are pre-united (Path → Union).
 
 # Error messages
 
-- XXX self-intersects / Critical / Built-in systems are unable to fix SVG’s self-intersections. You must fix it for yourself and put to ``svg-remade``.
+- XXX self-intersects / Critical / Built-in systems are unable to fix SVG’s self-intersections. Find in FontForge the exact spot where it complains, fix for yourself in Inkscape, pre-unite and put to ``svg-remade``.
 - XXX exists / Warning / Way A is overridden by way B. Check which is correct.
 
 # How to update data
