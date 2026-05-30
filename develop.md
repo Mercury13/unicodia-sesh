@@ -52,10 +52,10 @@ Why Unisesh.txt? Just to make changes more obvious.
 
 # Colour code
 
-- All shades of violet: convert to path, mainly Stroke to path
 - All darks (crimson, grey, blue, brown, green etc): just to remind that you need to unite the objects while exporting
 - Yellow: background here. Either subtract, or leave as and let the loader do its job
   - Yellow fill + violet outline are permitted
-  - Yellow fill + black/grey/… outline are permitted too, though not encouraged
+- All shades of violet: convert to path, mainly Stroke to path
+  - Black/grey/… fill + violet outline are permitted, though discouraged. Simplify by hand while exporting!
 - Scarlet: 1) technical rigs e.g. to put a guideline in place, delete when exporting; 2) Pay attention when exporting
 - Orange: reference drawing; delete when exporting
