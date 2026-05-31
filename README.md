@@ -4,7 +4,7 @@
 - The nicest JSesh based font ever. Why — see below.
 - The widest coverage among free and semi-free fonts. The only catch: 568 NewGardiner’s tofu are extended (refuses by policy), and all UnicodiaSesh’s tofu are core.
 
-In my humble software called Unicodia, it was just a “gag font” for Egyptian hieroglyphs. Even in that state it was taken to various sites. But when I started to check/fix existing glyphs and draw new, it became clear that it might be the new standard for Egyptian font: at the moment of writing, more than 1’000 hieroglyphs are modified.
+In my humble software called Unicodia, it used to be just a “gag font” for Egyptian hieroglyphs. Even in that state it was taken to various sites. But when I started to check/fix existing glyphs and draw new, it became clear that it might be the new standard for Egyptian font: at the moment of writing, more than 1’000 hieroglyphs are modified.
 
 The font is semi-free, see license. Well, that’s the really old man at JSesh.
 
@@ -12,7 +12,7 @@ Software maturity index: **5 (production/stable)**. With coverage of the main bl
 
 # What makes UnicodiaSesh so special?
 
-☂️ **Coverage.** The initial version covered 2930/3995 of block A. When I finished the main block, the coverage of A was 3349/3995. For personal reasons, I cannot work on USesh so much, and the coverage stopped on 3600. Needless to say, the main block is fully covered.
+☂️ **Coverage.** The initial version covered 2930/3995 of block A. When I finished the main block, the coverage of A was 3349/3995. For personal reasons, I cannot work on USesh so much, and the coverage stopped on 3600. Again, the main block is fully covered.
 
 🤖 **Synergy of automation and handwork.** The font started as an automatic script that worked around FontForge’s bugs, but lots of handwork made it usable outside Unicodia. Everything is checked, and you wouldn’t find Ptah with curved beard — long before Rosmorduc did this in JSesh.
 
@@ -67,7 +67,8 @@ The author does not provide any stability. Everything may change, including bear
 - Milestone 3b. Beat NewGardiner in coverage. ✅ December 2025
 - Phase 4. Move to Unicode 18. ☂️ 3575/3995 ✅ February 2026
 - **Mini-task 4a. Track and draw ninja changes of Unicode 18.** ☂️ 3580/3995 ✅ February 2026
-- Mini-task 4b. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
+- Mini-task 4b. Write a formal TSV on eash Unicode character, to allow someone implement a JS-based formatter: A-B-C values, Y boundaries, Unicode info, license for glyph
+- Mini-task 4c. Lay marks of damaged hashes. An interesting programmer’s task that won’t bloat the font very much.
 - ??? Special version that supports mirrored characters (unneeded for Unicodia, 2× bigger)
 - ??? Make build process less path-dependent
 
