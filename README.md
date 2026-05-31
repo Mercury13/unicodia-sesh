@@ -12,7 +12,7 @@ Software maturity index: **5 (production/stable)**. With coverage of the main bl
 
 # What makes UnicodiaSesh so special?
 
-☂️ **Coverage.** The initial version covered 2930/3995 of block A. When I finished the main block, the coverage of A was 3349/3995. For personal reasons, I cannot work on USesh so much, and the coverage stopped on 3600.
+☂️ **Coverage.** The initial version covered 2930/3995 of block A. When I finished the main block, the coverage of A was 3349/3995. For personal reasons, I cannot work on USesh so much, and the coverage stopped on 3600. Needless to say, the main block is fully covered.
 
 🤖 **Synergy of automation and handwork.** The font started as an automatic script that worked around FontForge’s bugs, but lots of handwork made it usable outside Unicodia. Everything is checked, and you wouldn’t find Ptah with curved beard — long before Rosmorduc did this in JSesh.
 
