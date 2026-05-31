@@ -53,7 +53,7 @@ Why Unisesh.txt? Just to make changes more obvious.
 # Colour code
 
 - All darks (crimson, grey, blue, brown, green etc): just to remind that you need to unite the objects while exporting
-- Yellow: background here. Either subtract, or leave as and let the loader do its job
+- Yellow: background here. Either subtract, or leave as is and let the loader do its job
   - Yellow fill + violet outline are permitted
 - All shades of violet: convert to path, mainly Stroke to path
   - Black/grey/… fill + violet outline are permitted, though discouraged. While exporting: Stroke to path, unite, simplify by hand!
