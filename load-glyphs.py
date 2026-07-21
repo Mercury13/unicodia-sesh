@@ -790,45 +790,45 @@ def createHstickCol(font, code, name, count):
 # Reasons:
 # • Counting marks: want consistent hinting of every mark, all inconsistencies in gaps
 def createProgrammaticChar(font, code):
-    match code:            
-        case 0x133FB:
-            return createStickRow(font, code, "Stick.2", 2)
-        case 0x133FC:
-            return createStickRow(font, code, "Stick.3", 3)
-        case 0x133FD:
-            return createStickRow(font, code, "Stick.4", 4)
-        case 0x133FE:
-            return createOddSticks(font, code, "Stick.5", 2)
-        case 0x133FF:
-            return createEvenSticks(font, code, "Stick.6", 3)
-        case 0x13400:
-            return createOddSticks(font, code, "Stick.7", 3)
-        case 0x13401:
-            return createEvenSticks(font, code, "Stick.8", 4)
-        case 0x13402:  # 9 is a special case: lay rows as you want, but columns must be identical
-            return createRowChar(font, code, "Stick.9", "Part.Stick.9",
+    if (code < 0x133FB) or (code > 0x1340C):   # fast check
+        return False
+    if code == 0x133FB:
+        return createStickRow(font, code, "Stick.2", 2)
+    if code == 0x133FC:
+        return createStickRow(font, code, "Stick.3", 3)
+    if code == 0x133FD:
+        return createStickRow(font, code, "Stick.4", 4)
+    if code == 0x133FE:
+        return createOddSticks(font, code, "Stick.5", 2)
+    if code == 0x133FF:
+        return createEvenSticks(font, code, "Stick.6", 3)
+    if code == 0x13400:
+        return createOddSticks(font, code, "Stick.7", 3)
+    if code == 0x13401:
+        return createEvenSticks(font, code, "Stick.8", 4)
+    if code == 0x13402:  # 9 is a special case: lay rows as you want, but columns must be identical
+        return createRowChar(font, code, "Stick.9", "Part.Stick.9",
                         STICK_STEP_FULL, 0, 3)
-        case 0x13403:
-            return createStickRow(font, code, "Stick.5a", 5)
-        case 0x13405:
-            return createHstickCol(font, code, "Stick.2h", 2)
-        case 0x13406:
-            return createHstickCol(font, code, "Stick.3h", 3)
-        case 0x13407:
-            return createHstickCol(font, code, "Stick.4h", 4)
-        case 0x13408:
-            return createOddHsticks(font, code, "Stick.5h", 2)
-        case 0x13409:
-            return createEvenHsticks(font, code, "Stick.6h", 3)
-        case 0x1340A:
-            return createOddHsticks(font, code, "Stick.7h", 3)
-        case 0x1340B:
-            return createEvenHsticks(font, code, "Stick.8h", 3)
-        case 0x1340C:
-            return createNineChar(font, code, "Stick.9h", NAME_HSTICK,
+    if code == 0x13403:
+        return createStickRow(font, code, "Stick.5a", 5)
+    if code == 0x13405:
+        return createHstickCol(font, code, "Stick.2h", 2)
+    if code == 0x13406:
+        return createHstickCol(font, code, "Stick.3h", 3)
+    if code == 0x13407:
+        return createHstickCol(font, code, "Stick.4h", 4)
+    if code == 0x13408:
+        return createOddHsticks(font, code, "Stick.5h", 2)
+    if code == 0x13409:
+        return createEvenHsticks(font, code, "Stick.6h", 3)
+    if code == 0x1340A:
+        return createOddHsticks(font, code, "Stick.7h", 3)
+    if code == 0x1340B:
+        return createEvenHsticks(font, code, "Stick.8h", 3)
+    if code == 0x1340C:
+        return createNineChar(font, code, "Stick.9h", NAME_HSTICK,
                         STICK_2ND_STACK, STICK_STEP_FULL)
-        case _:
-            return False
+    return False
 
 # import hieroglyphs
 def loadUnikemet():
