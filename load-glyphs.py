@@ -409,6 +409,7 @@ GLYPH_SIZES = {
     0x13ABB: MEDWIDE,  # hyena
     0x13ABD: HARE_NO_WHISKERS, 0x13ABE: HARE_NO_WHISKERS, 0x13ABF: MEDWIDE,  # hares
     0x13B0C: WIDE,  # two monkeys
+    0x13B26: MEDWIDE,  # sphinx-lady
     0x13B2D: EVERYBIT,
     0x13B3C: WIDE,  # attacking bull
     0x13B59: WIDE,
