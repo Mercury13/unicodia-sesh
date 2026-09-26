@@ -5,7 +5,7 @@ import shutil
 
 TEMPFILENAME = '~UnicodiaSesh.ttf'
 OUTFILENAME = 'UnicodiaSesh.ttf'
-HINTER = 'd:/Soft/FontEditing/ttfautohint.exe'
+HINTER = 'c:/Soft/ttfautohint.exe'
 INKSCAPE = 'c:/Program Files/Inkscape/bin/inkscape.com'
 
 # These pairs are known to be bad
@@ -31,13 +31,19 @@ def isCpGood(code):
 
 log.write("Loading SVG\n");
 
-def getSvgHeight(fname):
+NO_SVG = -1000
+
+def getSvgHeight(fname, errmsg):
     """
         Gets SVG’s height in units
         No complete XML parsing
         Very basic error checking
     """
     # Read data
+    if not os.path.isfile(fname):
+        if errmsg is None:
+            return NO_SVG
+        raise Exception(f'{errmsg}: {fname}')
     f = open(fname, 'r')
     data = f.read()
     f.close()
@@ -681,7 +687,7 @@ def loadMyGlyph(font, sHex, cp, svgName):
     """
     newGlyphName = "u{}".format(sHex.upper())
     glyph = newGlyph(font, cp, newGlyphName)
-    newSvgHeight = getSvgHeight(svgName)
+    newSvgHeight = getSvgHeight(svgName, 'Weird: cannot find SVG')
     loadGlyph(glyph, cp, svgName, newSvgHeight, True)
 
 def checkLowPriority(fname):
@@ -689,7 +695,7 @@ def checkLowPriority(fname):
         Checks if low-priority MANUAL files are present.
         Cannot delete these files (they are man-made)
     """    
-    if os.path.exists(fname):
+    if os.path.exists(fname):   # More broad exists ere instead of isfile
         log.write("WARN: {} exists!\n".format(fname))
 
 def checkAutoPriority(fname):
@@ -698,7 +704,7 @@ def checkAutoPriority(fname):
         Use when the file is created automatically.
         Machine made, machine took.
     """    
-    if os.path.exists(fname):
+    if os.path.isfile(fname):
         log.write("INFO: {} exists, deleting!\n".format(fname))
         os.remove(fname)
 
@@ -854,10 +860,10 @@ def loadUnikemet():
                             elif (isCpGood(code)):
                                 extensionName = "svg-ex/{}.svg".format(sHex)
                                 svgName = "svg-my/{}.svg".format(sHex)
-                                if os.path.exists(svgName):
+                                if os.path.isfile(svgName):
                                     checkLowPriority(extensionName)
                                     loadMyGlyph(font, sHex, code, svgName)
-                                elif os.path.exists(extensionName):
+                                elif os.path.isfile(extensionName):
                                     loadMyGlyph(font, sHex, code, extensionName)
                         hasSeshGlyph = False
                     sOldCp = sCp
@@ -878,30 +884,32 @@ def loadUnikemet():
                             reallyMyName = "svg-my/{}.svg".format(sHex)
                             # Load?
                             isLoaded = True
-                            if os.path.exists(reallyMyName):
+                            if os.path.isfile(reallyMyName):
                                 checkLowPriority(extensionName)
                                 checkLowPriority(svgRemadeName)
                                 checkAutoPriority(cacheName)
                                 loadMyGlyph(font, sHex, code, reallyMyName)
-                            elif os.path.exists(extensionName):
+                            elif os.path.isfile(extensionName):
                                 checkLowPriority(svgRemadeName)
                                 checkAutoPriority(cacheName)
                                 loadMyGlyph(font, sHex, code, extensionName)
-                            elif os.path.exists(svgRemadeName):
+                            elif os.path.isfile(svgRemadeName):
                                 glyph = newGlyph(font, code, glyphName)
-                                svgHeight = getSvgHeight(svgRemadeName)
+                                svgHeight = getSvgHeight(svgRemadeName, 'Cannot find remade SVG')
                                 checkAutoPriority(cacheName)
                                 loadGlyph(glyph, code, svgRemadeName, svgHeight, True)
-                            elif os.path.exists(cacheName) and not isKnownBadGlyph:
+                            elif os.path.isfile(cacheName) and not isKnownBadGlyph:
                                 # Cached glyph: already ran software
                                 glyph = newGlyph(font, code, glyphName)
-                                svgHeight = getSvgHeight(cacheName)
+                                svgHeight = getSvgHeight(cacheName, 'Cannot find cached SVG')
                                 loadGlyph(glyph, code, cacheName, svgHeight, True)
                             elif not isKnownBadGlyph:
                                 # Unknown glyph
                                 glyph = newGlyph(font, code, glyphName)
-                                svgHeight = getSvgHeight(svgName)
-                                isGood = loadGlyph(glyph, code, svgName, svgHeight, False)
+                                isGood = False
+                                svgHeight = getSvgHeight(svgName, None)
+                                if svgHeight != NO_SVG:
+                                    isGood = loadGlyph(glyph, code, svgName, svgHeight, False)
                                 if not isGood:
                                     # Run Inkscape
                                     log.write("NOTE: Forced to run Inkscape on {}.\n".format(glyphName))
@@ -914,7 +922,7 @@ def loadUnikemet():
                                         cmdline = '"{}" --actions=select-all;transform-scale:40;path-union;fit-canvas-to-selection --export-filename={} {}'
                                         os.system(cmdline.format(INKSCAPE, cacheName, svgName))
                                     glyph.clear()
-                                    svgHeight = getSvgHeight(cacheName)
+                                    svgHeight = getSvgHeight(cacheName, 'Inkscape did not create SVG')
                                     loadGlyph(glyph, code, cacheName, svgHeight, True)
                             else:
                                 isLoaded = False
