@@ -1049,6 +1049,7 @@ Subtotal: 405
 - 13B0C: after 0B
 - 13B1C: after 1D
 - 13B4A: after E95 + some uraeus
+- 13B4F: after E102C + uraeus from 4A
 - 13B58: after extended E268
 - 13B5D: after 5C
 - 13B65: after 64
@@ -1218,7 +1219,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 552
+Subtotal: 553
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1226,4 +1227,4 @@ Subtotal: 552
 
 Subtotal: 2
 
-Total: 1427
+Total: 1428
