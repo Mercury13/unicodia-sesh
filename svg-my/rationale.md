@@ -1055,6 +1055,7 @@ Subtotal: 405
 - 13B5D: after 5C
 - 13B65: after 64
 - 13B6A: after extended F1
+- 13B6E: after JSesh F61
 - 13B73: after F63a
 - 13B75: after E177a
 - 13B7B: after other dogs and mace T3
@@ -1220,7 +1221,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 554
+Subtotal: 555
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1228,4 +1229,4 @@ Subtotal: 554
 
 Subtotal: 2
 
-Total: 1429
+Total: 1430
