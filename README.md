@@ -90,7 +90,12 @@ Probably WILL NEVER support full formatting.
 - FontForge Oct 2025
 - Inkscape 1.4.2
 - TtfAutoHint 1.8.4
-- JSesh 7.9.1
+- JSesh 7.9.1 or 7.11 (confirmed equal result)
+
+Confirmed as working, but give slight difference in four glyphs:
+
+- FontForge dev-builds Sep ’26
+- Inkscape 1.4.4
 
 # How to develop?
 
