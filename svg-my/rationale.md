@@ -453,10 +453,12 @@ Subtotal: 202
 - 13B16: after 20, beard to curved (NewGardiner wins)
 - 13B17: after ex.17, beard to curved (NewGardiner wins)
 - 13B18: after ex.18, beard to curved (NewGardiner wins)
-- 13B19: after 20, beard to curved (NewGardiner wins)
+- 13B19: after ex.19, beard to curved (NewGardiner wins)
 - 13B1A: after 15, ankh from some king, beard to curved (NewGardiner wins)
 - 13B1B: after 20, ankh from some king, beard to curved (NewGardiner wins): TWO HUNDRED
-- 13B2D: assembled from scratch, a bit narrower, neutered bulls
+- 13B1D: after ex.1D, beard to curved (NewGardiner wins)
+- 13B1F: after ex.1D, beard to curved (NewGardiner wins)
+- 13B2F: assembled from scratch, a bit narrower, neutered bulls
 - 13B42: simplified, more pronounced beard
 - 13B64: other feathers
 - 13B66: greatly simplified
@@ -553,9 +555,9 @@ Subtotal: 202
 - 13F73: campaign for walls
 - 13F74: campaign for walls
 - 13F9F: beard, simpler djed
-- 13FA8: line of black circles
+- 13FA8: line of black circles: THREE HUNDRED
 - 13FB3: simplified, thinned two slabs
-- 13FB4: simplified, thinned two slabs: THREE HUNDRED
+- 13FB4: simplified, thinned two slabs
 - 13FBB: other roof
 - 13FBE: campaign for forked booth
 - 13FC4: campaign for forked booth
@@ -653,9 +655,9 @@ Subtotal: 202
 - 142EB: changed top of column
 - 142F6: square prongs, thicker rope
 - 142F7: implemented after F6
-- 142FD: redrew from scratch, tall potter’s wheel
+- 142FD: redrew from scratch, tall potter’s wheel: FOUR HUNDRED
 - 14314: more white
-- 14329: other thing inside: FOUR HUNDRED
+- 14329: other thing inside
 - 1432B: consistency
 - 1432C: consistency
 - 1432E: consistency after 13383
@@ -669,7 +671,7 @@ Subtotal: 202
 - 143C7: after other X4’s, consistency
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 412
+Subtotal: 414
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1238,4 +1240,4 @@ Subtotal: 557
 
 Subtotal: 2
 
-Total: 1439
+Total: 1441
