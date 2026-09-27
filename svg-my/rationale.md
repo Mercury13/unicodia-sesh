@@ -453,9 +453,12 @@ Subtotal: 202
 - 13B16: after 20, beard to curved (NewGardiner wins)
 - 13B17: after ex.17, beard to curved (NewGardiner wins)
 - 13B18: after ex.18, beard to curved (NewGardiner wins)
+- 13B19: after 20, beard to curved (NewGardiner wins)
+- 13B1A: after 15, ankh from some king, beard to curved (NewGardiner wins)
+- 13B1B: after 20, ankh from some king, beard to curved (NewGardiner wins): TWO HUNDRED
 - 13B2D: assembled from scratch, a bit narrower, neutered bulls
 - 13B42: simplified, more pronounced beard
-- 13B64: other feathers: TWO HUNDRED
+- 13B64: other feathers
 - 13B66: greatly simplified
 - 13B68: uraeus, not snake
 - 13B69: 40% bigger rams
@@ -552,10 +555,10 @@ Subtotal: 202
 - 13F9F: beard, simpler djed
 - 13FA8: line of black circles
 - 13FB3: simplified, thinned two slabs
-- 13FB4: simplified, thinned two slabs
+- 13FB4: simplified, thinned two slabs: THREE HUNDRED
 - 13FBB: other roof
 - 13FBE: campaign for forked booth
-- 13FC4: campaign for forked booth: THREE HUNDRED
+- 13FC4: campaign for forked booth
 - 13FC9: campaign for forked booth
 - 13FCA: campaign for forked booth
 - 13FD7: self-intersections, no beard
@@ -652,10 +655,10 @@ Subtotal: 202
 - 142F7: implemented after F6
 - 142FD: redrew from scratch, tall potter’s wheel
 - 14314: more white
-- 14329: other thing inside
+- 14329: other thing inside: FOUR HUNDRED
 - 1432B: consistency
 - 1432C: consistency
-- 1432E: consistency after 13383: FOUR HUNDRED
+- 1432E: consistency after 13383
 - 1432F: after main V21
 - 14366: poles → hands
 - 14386: removed PLACEHOLDERS
@@ -666,7 +669,7 @@ Subtotal: 202
 - 143C7: after other X4’s, consistency
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 409
+Subtotal: 412
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1235,4 +1238,4 @@ Subtotal: 557
 
 Subtotal: 2
 
-Total: 1436
+Total: 1439
