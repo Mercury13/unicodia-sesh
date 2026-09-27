@@ -96,7 +96,7 @@ Subtotal: 266
 - 13043: enlarged hoe just a little
 - 13045: after 526
 - 13048: beard god→king (who knows, but the consensus is king)
-- 1304A: drew from scratch, the sample is Noto
+- 1304A: drew from scratch, the sample is Noto (PD)
 - 1304B: extension, enlarged sistrum
 - 1304F: straighter arms
 - 13050: +tits
@@ -112,7 +112,7 @@ Subtotal: 266
 - 13068: now looks somewhat like Heh from Wikipedia
 - 13070: Ptah, Sep’25 version + lengthened beard + stick same height as he
 - 13072: greatly simplified Bes, half + reflection
-- 13078: drew hair from scratch
+- 13078: drew hair from scratch (PD)
 - 1308A: more cursive image
 - 13091: too thick outline, decided to make it variable-width
 - 13092: same
@@ -138,18 +138,18 @@ Subtotal: 266
 - 13109: 13108 + removed line
 - 1310A: extended + thin solid stick
 - 13113: took extended F20 and changed to b/w F20
-- 13120: from scratch, no more corners
+- 13120: from scratch, no more corners (PD)
 - 13121: was self-intersecting, made two halves
-- 1312E: drew from scratch
+- 1312E: drew from scratch (PD)
 - 13130: changed Sesh a bit, mainly made branches more pronounced
 - 13131: same
-- 13132: remade from scratch, was too thin
-- 13133: same
-- 13134: same
-- 13135: same
-- 13136: same
-- 13137: same
-- 13138: same
+- 13132: remade from scratch, was too thin (PD)
+- 13133: same (PD)
+- 13134: same (PD)
+- 13135: same (PD)
+- 13136: same (PD)
+- 13137: same (PD)
+- 13138: same (PD)
 - 1314B: taken from blockA (simpler)
 - 1314C: our falcon-sphinxes HAVE base
 - 1314D: simpler eye, different crossbeam
@@ -162,7 +162,7 @@ Subtotal: 266
 - 13192: thicker walls
 - 13196: other strip of land
 - 131A1: ex, rotated 45°
-- 131A9: made from scratch, both glitch and wrong rotation
+- 131A9: made from scratch, both glitch and wrong rotation (PD)
 - 131AE: not-really-simple combination (picked that Y)
 - 131B1: from man hitting with branch, added outline
 - 131B2: not-really-simple combination (picked that Y)
@@ -187,15 +187,15 @@ Subtotal: 266
 - 1326F: thicker outer lines
 - 13271: a bit wider
 - 13272: double line → single
-- 13281: made from scratch, with metrics of Unicode
+- 13281: made from scratch, with metrics of Unicode (PD)
 - 13288: gave more space above/below
 - 13289: same
-- 13290: from scratch
-- 13292: thinner
-- 13295: thinner
-- 13296: thinner
-- 13298: craggy
-- 13299: 13298 turned
+- 13290: from scratch (PD)
+- 13292: thinner (PD)
+- 13295: thinner (PD)
+- 13296: thinner (PD)
+- 13298: craggy (PD)
+- 13299: 13298 turned (PD)
 - 1329B: from other crescents, mainly 14022
 - 1329C: 1329B inverted
 - 132A6: different P8 as source
@@ -205,7 +205,7 @@ Subtotal: 266
 - 132BF: U18 different perch
 - 132C2: removed hollow handle
 - 132C6: consistency with 13300/01
-- 132DC: made from scratch, too thick
+- 132DC: made from scratch, too thick (PD)
 - 132DE: liberated from some collar + Seth staff
 - 132E1: grafted fork from 132E2
 - 132E2: made from E1, wider fork
@@ -231,11 +231,11 @@ Subtotal: 266
 - 13337: 34 + 36
 - 1334C: U18 it’s legacy and really wide, after 1334B=U23
 - 13353: rope behind, franken between rope and drill
-- 1337D: too thick
+- 1337D: too thick (PD)
 - 133A5: Werning + symmetry, three lines
 - 133A8: too thick, franken
 - 133B3: campaign for O22
-- 133B5: too thick, new from scratch
+- 133B5: too thick, new from scratch (PD)
 - 133C9: wanted bounding lines just two thick lines
 - 133CA: too thick
 - 133CC: greatly simplified while leaving general pattern
@@ -245,12 +245,12 @@ Subtotal: 266
 - 133F7: wanted thicker and lower
 - 133FA: vertical stick; the rest counting marks are programmatic
 - 13404: horizontal stick; the rest counting marks are programmatic
-- 1340E: from scratch, consistent pustules
-- 1340F: from scratch, consistent pustules
-- 13413: from scratch
-- 1341E: too thick
-- 13421: too thick
-- 13427: clean, with wedge above
+- 1340E: from scratch, consistent pustules (PD)
+- 1340F: from scratch, consistent pustules (PD)
+- 13413: from scratch (PD)
+- 1341E: too thick (PD)
+- 13421: too thick (PD)
+- 13427: clean, with wedge above (PD)
 - 1342D: no lines inside (scholars argue)
 
 Subtotal: 202
@@ -477,8 +477,8 @@ Subtotal: 202
 - 13BAB: same, plus redrew semicircle
 - 13BDE: a bit out of canvas
 - 13BE5: flip ←→
-- 13C01: from scratch, consistent pustules
-- 13C02: from scratch, consistent pustules
+- 13C01: from scratch, consistent pustules (PD)
+- 13C02: from scratch, consistent pustules (PD)
 - 13C17: just 10% bigger
 - 13C18: more detailed head, white neck
 - 13C19: white neck
@@ -510,7 +510,7 @@ Subtotal: 202
 - 13CC9: U18 after normal G13 = 1314F
 - 13CF5: after F6 (had a bit different paws)
 - 13D24: softened feather, took my own land N6
-- 13D28: drew claw from scratch
+- 13D28: drew claw from scratch (PD)
 - 13D6F: removed sun, curvier beard
 - 13D8F: removed sun
 - 13DBB: took more detailed snake, removed 1 knife
@@ -615,25 +615,25 @@ Subtotal: 202
 - 141D6: no loop
 - 141D7: same
 - 141E8: redrew for more pronounced “bell”
-- 141F1: redrew from scratch
-- 141F3: redrew from scratch; it’s a cloth rather than a room with uraei
-- 14201: redrew from scratch; consistent with 02 and 03
+- 141F1: redrew from scratch (PD)
+- 141F3: redrew from scratch; it’s a cloth rather than a room with uraei (PD)
+- 14201: redrew from scratch; consistent with 02 and 03 (PD)
 - 1420E: because of self-intersection, symmetrized arrow, added a new O49
-- 14202: redrew from scratch; thick lines even on small size
+- 14202: redrew from scratch; thick lines even on small size (PD)
 - 14212: after 13
 - 14213: flip arrows ↑↓
 - 14236: no signs of knife
-- 14259: flipped, redrew from scratch for thicker line instead of double
-- 14283: thinner lines
-- 14289: from scratch, 90° left
+- 14259: flipped, redrew from scratch for thicker line instead of double (PD)
+- 14283: thinner lines (PD)
+- 14289: from scratch, 90° left (PD)
 - 1428A: removed thing at the end
 - 1428B: these were not harpoons
 - 14290: was totally wrong
-- 14291: strip of land
-- 14293: bigger circle
+- 14291: strip of land (PD)
+- 14293: bigger circle (PD)
 - 14296: dislike vessel
 - 1429C: mirrored, removed loop per U18 (no one knows the right way)
-- 142A2: outlined hoe to filled
+- 142A2: outlined hoe to filled (PD)
 - 142A7: 3×3, no “handle”
 - 142AF: 4 lines, filled
 - 142B0: more details, filled
@@ -658,11 +658,11 @@ Subtotal: 202
 - 142EB: changed top of column: FOUR HUNDRED
 - 142F6: square prongs, thicker rope
 - 142F7: implemented after F6
-- 142FD: redrew from scratch, tall potter’s wheel
+- 142FD: redrew from scratch, tall potter’s wheel (PD)
 - 14314: more white
 - 14329: other thing inside
-- 1432B: consistency
-- 1432C: consistency
+- 1432B: consistency (PD)
+- 1432C: consistency (PD)
 - 1432E: consistency after 13383
 - 1432F: after main V21
 - 14366: poles → hands
@@ -686,7 +686,7 @@ Subtotal: 417
 - 1306D: was present in JSesh but not marked, replaced ankh
 - 13159: hoopoe w/feathers is a different CP
 - 13172: ex, moved + symmetrized loaf
-- 131AA: after A9, reversed
+- 131AA: after A9, reversed (PD)
 - 131EB: made somehow
 - 13201: just assembled somehow
 - 13202: same but door bolt is home-made
@@ -694,9 +694,9 @@ Subtotal: 417
 - 13219: after 2A, in harmony with it
 - 13270: legacy, shrine
 - 1327E: legacy, four poles
-- 13282: made from scratch, with metrics of Unicode
-- 13297: drew from scratch
-- 1329E: drew from scratch
+- 13282: made from scratch, with metrics of Unicode (PD)
+- 13297: drew from scratch (PD)
+- 1329E: drew from scratch (PD)
 - 1329F: after 9E
 - 132BC: U18: swapped with 14107, made consistent
 - 132C3: after C2
@@ -704,21 +704,21 @@ Subtotal: 417
 - 132CE: made almost from scratch (handle and arrows are not mine)
 - 132D3: Werning’s crown + my crossroads
 - 132D8: Werning’s crown + my crossroads
-- 132F0: from scratch
-- 132F1: from scratch
-- 13332: 14201 + loop
+- 132F0: from scratch (PD)
+- 132F1: from scratch (PD)
+- 13332: 14201 + loop (PD)
 - 133A0: from open booths
 - 133B2: from open booths
 - 133CD: 133CC, 3pcs
-- 133F3: from scratch
-- 133F4: from scratch
-- 133F9: from scratch
-- 13414: after 413
-- 13416: from scratch
-- 13417: from scratch
-- 13418: from scratch
-- 13419: from scratch
-- 1341A: from scratch
+- 133F3: from scratch (PD)
+- 133F4: from scratch (PD)
+- 133F9: from scratch (PD)
+- 13414: after 413 (PD)
+- 13416: from scratch (PD)
+- 13417: from scratch (PD)
+- 13418: from scratch (PD)
+- 13419: from scratch (PD)
+- 1341A: from scratch (PD)
 - 134FF: after FE + random jug W22?
 - 13502: campaign for standing with props
 - 13507: campaign for standing with props
@@ -1064,6 +1064,7 @@ Subtotal: 417
 - 13B20: after OLD ex. 1A, changed beard, added own vase W22
 - 13B21: some basket + 13B15
 - 13B26: after E259 and E259A
+- 13B31: some E1 + H6
 - 13B4A: after E95 + some uraeus
 - 13B4F: after E102C + uraeus from 4A
 - 13B58: after extended E268
@@ -1123,7 +1124,7 @@ Subtotal: 417
 - 13E19: after 18
 - 13E2E: see desc
 - 13E33: after some M8
-- 13E4B: from scratch
+- 13E4B: from scratch (PD)
 - 13E4C: same
 - 13EB8: found in JSesh, added base
 - 13EFB: after FD
@@ -1148,7 +1149,7 @@ Subtotal: 417
 - 14002: after 03
 - 14010: after 14011, spacing is from thin air
 - 14012: Werning + fixed spacings
-- 14019: from scratch
+- 14019: from scratch (PD)
 - 14020: inverted 1F
 - 14022: “low-hanging” boats, after 1E
 - 1402D: after 1329E
@@ -1193,19 +1194,19 @@ Subtotal: 417
 - 1416D: after 1416C, deleted suns and symmetrized
 - 14175: horns 74, the rest from scratch
 - 14181: 80 + L12a
-- 14187: from scratch
+- 14187: from scratch (PD)
 - 14189: 1A + simplified
 - 14191: from S2966, campaign for hats
 - 14196: after 97, pectoral
-- 1419D: from scratch, campaign for hats
-- 1419F: from scratch, campaign for hats
+- 1419D: from scratch, campaign for hats (PD)
+- 1419F: from scratch, campaign for hats (PD)
 - 141A2: after A1
-- 141AF: from scratch
+- 141AF: from scratch (PD)
 - 141C9: after C8
 - 141CE: after normal S36
 - 141E4: after E3
 - 141ED: after other Aa20’s
-- 14203: after 02
+- 14203: after 02 (PD)
 - 1421F: after 132CE
 - 1425B: after 5A
 - 14292: after 90 and others
@@ -1222,13 +1223,13 @@ Subtotal: 417
 - 142EA: after EB
 - 142F0: after F1
 - 142FE: after FD
-- 1432A: after 2B/2C
+- 1432A: after 2B/2C (PD)
 - 1432D: after the rest V17’s
 - 1435C: 1435A minus handle on lid, size preserved
 - 14371: after 70
 - 14373: low-hanging for New Year, vessel found, canal mine
 - 14374: same, remake really quick (put guide, cut liquid)
-- 14393: from scratch
+- 14393: from scratch (PD)
 - 1439B: 1439A + broken
 - 143AF: after 14399
 - 143B7: after F7b
@@ -1236,7 +1237,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 558
+Subtotal: 559
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1244,4 +1245,4 @@ Subtotal: 558
 
 Subtotal: 2
 
-Total: 1445
+Total: 1446
