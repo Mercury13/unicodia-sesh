@@ -1047,9 +1047,11 @@ Subtotal: 405
 - 13B01: 00 + head from E32
 - 13B0A: after 09
 - 13B0C: after 0B
+- 13B15: after ex.15, beard to curved (NewGardiner wins)
+- 13B16: after 20, beard to curved (NewGardiner wins)
 - 13B1C: after 1D, minus beard
 - 13B1E: after 1D, minus beard
-- 13B20: after 1A, changed beard, added own vase W22
+- 13B20: after OLD 1A, changed beard, added own vase W22
 - 13B26: after E259 and E259A
 - 13B4A: after E95 + some uraeus
 - 13B4F: after E102C + uraeus from 4A
@@ -1223,7 +1225,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 557
+Subtotal: 559
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1231,4 +1233,4 @@ Subtotal: 557
 
 Subtotal: 2
 
-Total: 1432
+Total: 1434
