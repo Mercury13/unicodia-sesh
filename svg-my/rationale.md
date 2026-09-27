@@ -6,28 +6,31 @@ March = campaign (dedicated effort) to fill in order of codes
 Near-march = not really march but something close to the 1st hole
 Optimized march = going through similar hieros
 Franken = Frankenstein’s monster, made from small pieces of different pictures
+(PD) = public domain by author
+(all PD) = all to public domain
+(marked PD) = marked with ^ to public domain
 
 # Will never extend
-- 130C9, 130CA, 130CB, 130CC, 130CD / 130CE, 130CF, 130D1, 130D2 = counting circles **(9)**
+- 130C9, 130CA, 130CB, 130CC, 130CD / 130CE, 130CF, 130D1, 130D2 = counting circles (all PD) **(9)**
 - 13064, 1381E, 1381F, 13820 = Min **(4)**
   - made dwarfier, enlarged pencil, removed sun, changed hat, main is 1F now
-- 130AD, 130AE, 130AF, 130B0, 130B1 / 130B2, 130B3, 130B4, 130B5, 130B6 / 130B7 = counting fingers **(11)**
-- 13139, 1313A, 1313B, 1313C, 1313D = flesh and shit **(5)**
-- 131BC, 131BD, 131BE, 131BF, 131C0 / 131C1, 131C2, 1313, 1314 = counting flowers **(9)**
+- 130AD, 130AE, 130AF, 130B0, 130B1 / 130B2, 130B3, 130B4, 130B5, 130B6 / 130B7 = counting fingers (all PD) **(11)**
+- 13139, 1313A, 1313B, 1313C, 1313D = flesh and shit (all PD) **(5)**
+- 131BC, 131BD, 131BE, 131BF, 131C0 / 131C1, 131C2, 1313, 1314 = counting flowers (all PD) **(9)**
     **(warning, in BC_2 fixed curvature and aligned stalk)**
-- 131E0, 131E1, 131E2, 13EA5 = grains **(4)**
-- 131E8, 13EB1, 13EB2 = baskets **(3)**
-- 13212, 13213, 13F1F = campaign for sand **(3)**
-- 1321E, 1321F, 13F44, 13F45 = campaign for wells **(4)**
-- 13250, 13251, 13252, 13253, 13254 / 13255, 13256, 13257, 13258, 13259…
-- 1325A, 1325B, 1325C, 1325D, 1325E / 1325F, 13260, 13261, 13262, 13263…
-- 13269, 1326A, 1326B, 13280, 13F97 = campaign for walls **(25)**
+- 131E0, 131E1, 131E2, 13EA5 = grains (all PD) **(4)**
+- 131E8, 13EB1, 13EB2 = baskets (all PD) **(3)**
+- 13212, 13213, 13F1F = campaign for sand (all PD) **(3)**
+- 1321E, 1321F, 13F44, 13F45 = campaign for wells (all PD) **(4)**
+- ^13250, 13251, 13252, 13253, ^13254 / ^13255, ^13256, ^13257, ^13258, ^13259… (marked PD)
+- ^1325A, ^1325B, ^1325C, ^1325D, ^1325E / 1325F, 13260, 13261, 13262, 13263… (marked PD)
+- ^13269, 1326A, 1326B, ^13280, 13F97 = campaign for walls (marked PD) **(25)**
 - 13338, 13339, 1333A, 1333B, 1333C = campaign for hoes **(5)**
 - 13362, 13363, 13364, 13365, 13366 / 13367, 13368, 13369, 1336A, 1336B = counting ropes **(10)**
-- 13376, 13377, 13378, 13379, 1337A / 1337B, 1342F = campaign for cartouches **(7)**
-- 13386, 13387, 13388, 13389, 1338A / 1338B, 1338C, 1338D, 1338E, 1338F…
-- 13390, 13391, 13392, 133AD, 133AE = counting hobbles **(15)**
-- 133E4, 133E5, 133E6, 133E7, 133EA / 133EB, 133EC, 133ED, 133EE, 133F0 / 143E7, 143E8 = sticks and dots **(12)**
+- 13376, 13377, 13378, 13379, 1337A / 1337B, 1342F = campaign for cartouches (all PD) **(7)**
+- 13386, 13387, 13388, 13389, 1338A / 1338B, 1338C, 1338D, 1338E, 1338F… (all PD)
+- 13390, 13391, 13392, 133AD, 133AE = counting hobbles (all PD)**(15)**
+- 133E4, 133E5, 133E6, 133E7, 133EA / 133EB, 133EC, 133ED, 133EE, 133F0 / 143E7, 143E8 = sticks and dots (all PD) **(12)**
 - 13460, 61, 62, 63, 64, 65, 67 = above the fold **(7)**
 - 134CC, 135EC, 1372D, 1374C 137CA / 13804, 13806, 13887, 1393B 13983…
 - 13B52, 13B9E, 13CCE, 13F3D 14016 / 14198, 142СС = tofu **(17)**
@@ -43,9 +46,9 @@ Franken = Frankenstein’s monster, made from small pieces of different picture
 - 13551, 54, 5D, 60, 61, 62, A1: campaign for terror beard, 1 fixed + 6 new **(7)**
 - 13700..0D = campaign for tits, cannot make new w/o fixing existing, 9 fixed + 5 new **(14)**
 - 13972, 13973, 13975, 13977, 1397B / 1397E, 13985, 13989, 1398B, 1398F = eyes **(10)**
-- 14224, 14225, 14226, 14227, 14228 = bowstrings, 4 fixed + 1 new **(5)**
-- 1437A, 1437B, 1437C, 1437D, 1437E = 60 unit racks **(5)**
-- 143CA, 143CB, 143CC, 143DF, 143E0 = circles, 4 fixed + 1 new **(5)**
+- 14224, 14225, 14226, 14227, 14228 = bowstrings, 4 fixed + 1 new (all PD) **(5)**
+- 1437A, 1437B, 1437C, 1437D, 1437E = 60 unit racks (all PD) **(5)**
+- 143CA, 143CB, 143CC, 143DF, 143E0 = circles, 4 fixed + 1 new (all PD) **(5)**
 
 Subtotal: 266
 
@@ -114,7 +117,7 @@ Subtotal: 266
 - 13072: greatly simplified Bes, half + reflection
 - 13078: drew hair from scratch (PD)
 - 1308A: more cursive image
-- 13091: too thick outline, decided to make it variable-width
+- 13091: too thick outline, decided to make it variable-width (PD)
 - 13092: same
 - 13095: shorter tail
 - 13096: after block-A, enlarged arms
@@ -122,7 +125,7 @@ Subtotal: 266
 - 13098: after block-A
 - 1309A: franken from craggy 1309A and nice 9B
 - 130AB: strange shape of egg
-- 130AC: too thick outline
+- 130AC: too thick outline (PD)
 - 130B9: wanted to fit into 1100×1000
 - 130BC: strange dimensions + strange hook
 - 130C5: thinner lines, flags closer
@@ -133,7 +136,7 @@ Subtotal: 266
 - 130F8: head swap F7-F8
 - 130FB: removed individual fingers
 - 130FC: after FB, squeezed monkey just a bit, removed diamond
-- 13101: the former was anyone but hippo
+- 13101: the former was anyone but hippo (PD)
 - 13108: U18, after coffin w/bubalis
 - 13109: 13108 + removed line
 - 1310A: extended + thin solid stick
@@ -169,16 +172,16 @@ Subtotal: 266
 - 131D1: righted, symmetrized, removed unnecessary cusp corners
 - 131D2: 2×D1
 - 131D3: based on D1
-- 131E4: was thick and craggy
-- 131F3: too thick
+- 131E4: was thick and craggy (PD)
+- 131F3: too thick (PD)
 - 131F4: with elusive self-intersection, decided to remake
 - 131FE: after other strips like 13EFC
 - 131FF: same
-- 13214: too thick
+- 13214: too thick (PD)
 - 1321B: in harmony with other pools
-- 13204: double line
-- 13206: double line
-- 1320D: thick line
+- 13204: double line (PD)
+- 13206: double line (PD)
+- 1320D: thick line (PD)
 - 13233: not really U18, but added white crown, replaced head
 - 13234: added double crown
 - 13247: added basket
@@ -199,8 +202,8 @@ Subtotal: 266
 - 1329B: from other crescents, mainly 14022
 - 1329C: 1329B inverted
 - 132A6: different P8 as source
-- 132AA: bigger, thicker
-- 132AB: thinner
+- 132AA: bigger, thicker (PD)
+- 132AB: thinner (PD)
 - 132AE: after 140C6 and C7
 - 132BF: U18 different perch
 - 132C2: removed hollow handle
@@ -242,7 +245,7 @@ Subtotal: 266
 - 133D0: as a pair to JSesh’s X3
 - 133D6: consistency with other breads
 - 133D7: same
-- 133F7: wanted thicker and lower
+- 133F7: wanted thicker and lower (PD)
 - 133FA: vertical stick; the rest counting marks are programmatic
 - 13404: horizontal stick; the rest counting marks are programmatic
 - 1340E: from scratch, consistent pustules (PD)
@@ -435,7 +438,7 @@ Subtotal: 202
 - 139B9: bigger shield
 - 139D3: grafted knife from EB, simplified
 - 13A16: after D54, the initial was really small
-- 13A31: thinner, more resembling Unicode (it’s a toe rather than finger)
+- 13A31: thinner, more resembling Unicode (it’s a toe rather than finger) (PD)
 - 13A36: +bundle of straw
 - 13A5C: nothing on neck
 - 13A6E: wings in V-shape
@@ -522,7 +525,7 @@ Subtotal: 202
 - 13E5C: after 131BC
 - 13E5D: solid line
 - 13E5F: after 5D, craggy
-- 13E64: too thick
+- 13E64: too thick (PD)
 - 13E7D: craggy, after 7C and 7E
 - 13E84: was not hollow, did not look like reed
 - 13E85: craggy
@@ -542,16 +545,16 @@ Subtotal: 202
 - 13F4E: campaign for plans
 - 13F4F: campaign for plans
 - 13F51: campaign for plans
-- 13F52: campaign for plans
-- 13F53: campaign for plans
-- 13F54: campaign for plans
-- 13F55: campaign for plans
-- 13F56: campaign for plans
-- 13F57: campaign for plans
-- 13F58: campaign for plans
-- 13F59: campaign for plans
-- 13F5B: campaign for plans, consistent
-- 13F5C: campaign for plans, consistent
+- 13F52: campaign for plans (PD)
+- 13F53: campaign for plans (PD)
+- 13F54: campaign for plans (PD)
+- 13F55: campaign for plans (PD)
+- 13F56: campaign for plans (PD)
+- 13F57: campaign for plans (PD)
+- 13F58: campaign for plans (PD)
+- 13F59: campaign for plans (PD)
+- 13F5B: campaign for plans, consistent (PD)
+- 13F5C: campaign for plans, consistent (PD)
 - 13F5D: campaign for plans, thinner basket
 - 13F60: campaign for plans, after 13260
 - 13F72: campaign for walls
@@ -608,7 +611,7 @@ Subtotal: 202
 - 14160: removed hat on uraeus
 - 14176: back after 77
 - 14177: not slanted, after 76
-- 1417B: too thick lines, redrew
+- 1417B: too thick lines, redrew (PD)
 - 1417F: more symmetry, removed suns from uraei
 - 14183: after 84
 - 14184: thinner “sun”, base for 83
@@ -667,10 +670,10 @@ Subtotal: 202
 - 1432F: after main V21
 - 14366: poles → hands
 - 14386: removed PLACEHOLDERS
-- 1438E: thinner, redrew from scratch
+- 1438E: thinner, redrew from scratch (PD)
 - 14392: other pile of bricks, redrew from scratch
 - 1439E: well rather than vessel
-- 143BE: after CC, previous was thicker
+- 143BE: after CC, previous was thicker (PD)
 - 143C7: after other X4’s, consistency
 - 143CE: wider but lower, redrew from scratch
 
