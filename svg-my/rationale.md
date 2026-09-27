@@ -449,13 +449,17 @@ Subtotal: 202
 - 13ACE: another sistrum
 - 13AF0: holds staff
 - 13AF1: same
+- 13B15: after ex.15, beard to curved (NewGardiner wins)
+- 13B16: after 20, beard to curved (NewGardiner wins)
+- 13B17: after ex.17, beard to curved (NewGardiner wins)
+- 13B18: after ex.18, beard to curved (NewGardiner wins)
 - 13B2D: assembled from scratch, a bit narrower, neutered bulls
 - 13B42: simplified, more pronounced beard
-- 13B64: other feathers
+- 13B64: other feathers: TWO HUNDRED
 - 13B66: greatly simplified
 - 13B68: uraeus, not snake
 - 13B69: 40% bigger rams
-- 13B82: U18 consistency: TWO HUNDRED
+- 13B82: U18 consistency
 - 13B83: U18 consistency, after 13B82
 - 13B93: after 94
 - 13B94: false hole, symmetry
@@ -551,11 +555,11 @@ Subtotal: 202
 - 13FB4: simplified, thinned two slabs
 - 13FBB: other roof
 - 13FBE: campaign for forked booth
-- 13FC4: campaign for forked booth
+- 13FC4: campaign for forked booth: THREE HUNDRED
 - 13FC9: campaign for forked booth
 - 13FCA: campaign for forked booth
 - 13FD7: self-intersections, no beard
-- 13FD0: campaign for O22: THREE HUNDRED
+- 13FD0: campaign for O22
 - 13FDB: thinner lines
 - 13FEA: thinner lines
 - 13FEC: bovid’s ears
@@ -651,18 +655,18 @@ Subtotal: 202
 - 14329: other thing inside
 - 1432B: consistency
 - 1432C: consistency
-- 1432E: consistency after 13383
+- 1432E: consistency after 13383: FOUR HUNDRED
 - 1432F: after main V21
 - 14366: poles → hands
 - 14386: removed PLACEHOLDERS
-- 1438E: thinner, redrew from scratch: FOUR HUNDRED
+- 1438E: thinner, redrew from scratch
 - 14392: other pile of bricks, redrew from scratch
 - 1439E: well rather than vessel
 - 143BE: after CC, previous was thicker
 - 143C7: after other X4’s, consistency
 - 143CE: wider but lower, redrew from scratch
 
-Subtotal: 405
+Subtotal: 409
 
 # Duped with NewGardiner
 - 13007: basic, after 08
@@ -1047,10 +1051,6 @@ Subtotal: 405
 - 13B01: 00 + head from E32
 - 13B0A: after 09
 - 13B0C: after 0B
-- 13B15: after ex.15, beard to curved (NewGardiner wins)
-- 13B16: after 20, beard to curved (NewGardiner wins)
-- 13B17: after ex.17, beard to curved (NewGardiner wins)
-- 13B18: after ex.18, beard to curved (NewGardiner wins)
 - 13B1C: after 1D, minus beard
 - 13B1E: after 1D, minus beard
 - 13B20: after OLD ex. 1A, changed beard, added own vase W22
@@ -1227,7 +1227,7 @@ Subtotal: 405
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 561
+Subtotal: 557
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
