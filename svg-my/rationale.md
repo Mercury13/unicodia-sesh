@@ -1071,6 +1071,7 @@ Subtotal: 417
 - 13B34: 35 − knife
 - 13B35: 36 + tail
 - 13B4A: after E95 + some uraeus
+- 13B4D: after 13B2E + double from some boy
 - 13B4F: after E102C + uraeus from 4A
 - 13B58: after extended E268
 - 13B5D: after 5C
@@ -1242,7 +1243,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 561
+Subtotal: 562
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1250,4 +1251,4 @@ Subtotal: 561
 
 Subtotal: 2
 
-Total: 1448
+Total: 1449
