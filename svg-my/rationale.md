@@ -907,7 +907,9 @@ Subtotal: 417
 - 1373C: redone from scratch after Kolya
 - 13747: after 46
 - 1374B: Kolya
+- 13752: Kolya + fixing his troubles
 - 13753: Kolya + fixing his troubles
+- 13754: 13752 (Kolya), just changed top
 - 13758: after 1375A
 - 1376C: Kolya (requested to change head) + fixes
 - 13776: after 75
@@ -1243,7 +1245,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 562
+Subtotal: 564
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1251,4 +1253,4 @@ Subtotal: 562
 
 Subtotal: 2
 
-Total: 1449
+Total: 1451
