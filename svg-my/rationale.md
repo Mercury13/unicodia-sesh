@@ -945,6 +945,7 @@ Subtotal: 417
 - 137F0: after EF
 - 137F3: F1 + own basket
 - 13808: Kolya
+- 13809: Kolya, fixed
 - 1380F: poor Kolya’s work, redrew hat almost completely
 - 13810: after 0F
 - 13811: after 0F
@@ -1245,7 +1246,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 564
+Subtotal: 565
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1253,4 +1254,4 @@ Subtotal: 564
 
 Subtotal: 2
 
-Total: 1451
+Total: 1452
