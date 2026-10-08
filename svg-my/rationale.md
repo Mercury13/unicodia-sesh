@@ -956,6 +956,7 @@ Subtotal: 417
 - 13818: Kolya’s work, highly fixed
 - 13819: after 17
 - 1381C: Kolya, after 1B
+- 1382D: Kolya, after some pharaoh
 - 1382E: extended C97, more curved beard, simple stick
 - 13835: Lots of complaints to Kolya, 13836 minus horns now
 - 13836: 13835 + banged ram’s horns
@@ -972,9 +973,10 @@ Subtotal: 417
 - 1385D: 5C + pestle
 - 13860: Kolya’s work with minimal fixes
 - 13861: Kolya’s work with minimal fixes
-- 13862: Kolya’s work with minimal fixes
-- 13863: Kolya’s work with minimal fixes
+- 13862: Kolya’s work with minimal fixes  [!!!! What’s happening, check everything?]
+- 13863: Kolya’s work with minimal fixes  [!!!! What’s happening, check everything?]
 - 13862: more modern than Kolya’s
+- 13863: after some Ptah
 - 13865: after 69
 - 13866: after 65
 - 1386A: after C115A and Kolya’s work on other Thoths
@@ -1248,7 +1250,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 567
+Subtotal: 569
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1256,4 +1258,4 @@ Subtotal: 567
 
 Subtotal: 2
 
-Total: 1454
+Total: 1456
