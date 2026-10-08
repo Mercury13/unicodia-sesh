@@ -31,7 +31,7 @@ Franken = Frankenstein’s monster, made from small pieces of different picture
 - 13386, 13387, 13388, 13389, 1338A / 1338B, 1338C, 1338D, 1338E, 1338F… (all PD)
 - 13390, 13391, 13392, 133AD, 133AE = counting hobbles (all PD)**(15)**
 - 133E4, 133E5, 133E6, 133E7, 133EA / 133EB, 133EC, 133ED, 133EE, 133F0 / 143E7, 143E8 = sticks and dots (all PD) **(12)**
-- 13460, 61, 62, 63, 64, 65, 67 = above the fold **(7)**
+- 13460, 13461, 13462, 13463, 13464, 13465, 13467 = above the fold **(7)**
 - 134CC, 135EC, 1372D, 1374C 137CA / 13804, 13806, 13887, 1393B 13983…
 - 13B52, 13B9E, 13CCE, 13F3D 14016 / 14198, 142СС = tofu **(17)**
 - 136AE, 142AD = campaign for phasing out NewGardinerNonCore **(2)**
@@ -43,7 +43,7 @@ Franken = Frankenstein’s monster, made from small pieces of different picture
 - 134E0, 134E1, 134E2, 134E3, 134E5 / 134E7, 134E8, 134E9, 134EB, 134EE…
 - 134EF, 134F0, 134F6, 134F7, 134F9 = campaign for sitting with props **(15)**
 - 1354E, 1354F, 13550, 13556, 13557 / 13558, 13559, 1355C = seat-covered #1, 1 fixed, 7 new **(8)**
-- 13551, 54, 5D, 60, 61, 62, A1: campaign for terror beard, 1 fixed + 6 new **(7)**
+- 13551, 13554, 1355D, 13560, 13561, 13562, 135A1: campaign for terror beard, 1 fixed + 6 new **(7)**
 - 13700..0D = campaign for tits, cannot make new w/o fixing existing, 9 fixed + 5 new **(14)**
 - 13972, 13973, 13975, 13977, 1397B / 1397E, 13985, 13989, 1398B, 1398F = eyes **(10)**
 - 14224, 14225, 14226, 14227, 14228 = bowstrings, 4 fixed + 1 new (all PD) **(5)**
@@ -1065,7 +1065,9 @@ Subtotal: 417
 - 13AD2: after my new lioness
 - 13AD3: symmetry + lioness
 - 13AE9: E8 + feather, baboon
+- 13AEF: after ED
 - 13AF7: after E45, baboon
+- 13AFF: after ED
 - 13B01: 00 + head from E32
 - 13B0A: after 09
 - 13B0C: after 0B
@@ -1250,7 +1252,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 569
+Subtotal: 571
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1258,4 +1260,4 @@ Subtotal: 569
 
 Subtotal: 2
 
-Total: 1456
+Total: 1458
