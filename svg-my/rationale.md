@@ -865,6 +865,8 @@ Subtotal: 417
 - 13677: 76 + 70
 - 1367E
 - 1367F: filled that seated hole
+- 13682: Kolya’s work with minimal fixes
+- 13683: Kolya’s work with minimal fixes
 - 13685: Kolya’s work re-grafted to 16384
 - 13686: Kolya’s work re-grafted to 16384, removed uraeus
 - 13687: Kolya’s work re-grafted to 16384, removed uraeus
@@ -973,8 +975,6 @@ Subtotal: 417
 - 1385D: 5C + pestle
 - 13860: Kolya’s work with minimal fixes
 - 13861: Kolya’s work with minimal fixes
-- 13862: Kolya’s work with minimal fixes  [!!!! What’s happening, check everything?]
-- 13863: Kolya’s work with minimal fixes  [!!!! What’s happening, check everything?]
 - 13862: more modern than Kolya’s
 - 13863: after some Ptah
 - 13865: after 69
