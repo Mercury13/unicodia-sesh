@@ -995,6 +995,7 @@ Subtotal: 417
 - 13899: backported Kolya’s changes to source of 13897
 - 1389B: after 9A
 - 138A4: backported Kolya’s finding (stick of Seth) to 138A0
+- 138AD: Kolya
 - 138B8: backported Kolya’s finding (O49) to cleaner lioness
 - 138BA: B7 + filled uraeus + changed thing
 - 138BB: after BA but sun from scratch
@@ -1252,7 +1253,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 571
+Subtotal: 572
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1260,4 +1261,4 @@ Subtotal: 571
 
 Subtotal: 2
 
-Total: 1458
+Total: 1459
