@@ -1049,6 +1049,7 @@ Subtotal: 417
 - 13A0D: after 0E, and 0E is from new JSesh
 - 13A26: after 25
 - 13A35: obvious
+- 13A37: after 39
 - 13A41: campaign for donkeys, after E216k
 - 13A44: Kolya, almost (changed standard, moved knives)
 - 13A63: master class
@@ -1255,7 +1256,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 574
+Subtotal: 575
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1263,4 +1264,4 @@ Subtotal: 574
 
 Subtotal: 2
 
-Total: 1461
+Total: 1462
