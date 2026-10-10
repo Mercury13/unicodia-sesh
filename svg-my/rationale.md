@@ -987,6 +987,7 @@ Subtotal: 417
 - 13889: Kolya
 - 13889: Kolya forgot, so I made after 89
 - 1388B: Kolya
+- 1388E: Kolya, changed arm
 - 13892: after 90
 - 13893: Kolya
 - 13895: Kolya, lots of fixes
@@ -1253,7 +1254,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 572
+Subtotal: 573
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1261,4 +1262,4 @@ Subtotal: 572
 
 Subtotal: 2
 
-Total: 1459
+Total: 1460
