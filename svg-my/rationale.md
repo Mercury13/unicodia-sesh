@@ -936,6 +936,7 @@ Subtotal: 417
 - 137C7: Kolya, slightly modified
 - 137C8: C56 + base
 - 137C9: Kolya’s work + base from 7C8
+- 137CB: Kolya
 - 137CE: Kolya’s work + some fixes
 - 137D2: master class, after 7D1?
 - 137DE: after DD, excellent Kolya’s work + master class
@@ -1005,7 +1006,8 @@ Subtotal: 417
 - 138C2: Kolya
 - 138C3: C166 + left head only
 - 138C4: found some base in extensions, reversed hands
-- 138C5: partial Kolys’a work after 138C4; took for myself, edited right arm, reversed left
+- 138C5: partial Kolya’s work after 138C4; took for myself, edited right arm, reversed left
+- 138C6: Kolya
 - 138D2: Kolya, cool, just took a few features from D3 for consistency
 - 138DF: Kolya’s bad, was forced to do for myself
 - 138E0: everything’s pixel-perfect to DF
@@ -1257,7 +1259,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 576
+Subtotal: 578
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1265,4 +1267,4 @@ Subtotal: 576
 
 Subtotal: 2
 
-Total: 1463
+Total: 1465
