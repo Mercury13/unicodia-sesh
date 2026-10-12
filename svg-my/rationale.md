@@ -226,9 +226,9 @@ Subtotal: 266
 - 13315: made from cowhide pierced by arrow
 - 13316: 2×13315×1.0
 - 13317: campaign for bowstrings
-- 13328: from 14283
-- 13329: from 14283
-- 1332A: from 14283
+- 13328: from 14283 (PD)
+- 13329: from 14283 (PD)
+- 1332A: from 14283 (PD)
 - 1322D: my new folded cloth
 - 1322F: my new folded cloth
 - 13337: 34 + 36
