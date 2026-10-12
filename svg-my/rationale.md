@@ -1201,6 +1201,7 @@ Subtotal: 417
 - 140B4: from JSesh Q28
 - 140C8: after Q7=132AE
 - 140F4: after 132B7
+- 140F3: from scratch (PD)
 - 140FD: after FC and some extended V30
 - 140FE: after FC
 - 14107: U18: swapped with 132BC
@@ -1263,7 +1264,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 582
+Subtotal: 583
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1271,4 +1272,4 @@ Subtotal: 582
 
 Subtotal: 2
 
-Total: 1469
+Total: 1470
