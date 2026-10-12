@@ -453,6 +453,8 @@ GLYPH_SIZES = {
     0x13DBE: MEDWIDE,  # wide snake is too much
     0x13DC5: EVERYBIT, 0x13DC6: EVERYBIT,
     0x13DC9: MEDIUM,
+    # K: fish
+    0x13DD2: MEDIUM,
     # L: bug
     0x13DE4: EVERYBIT,
     0x13DF7: SQUARE,

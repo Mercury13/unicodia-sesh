@@ -1142,6 +1142,7 @@ Subtotal: 417
 - 13DB4: exists as extended I86, just upgraded head
 - 13DBE: after BD and more snakes
 - 13DCC: found some catfish in extensions
+- 13DD2: after DD1
 - 13DEA: after Werning’s L11
 - 13DF0: L2 minus wings
 - 13E02: N112 minus canals
@@ -1262,7 +1263,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 581
+Subtotal: 582
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1270,4 +1271,4 @@ Subtotal: 581
 
 Subtotal: 2
 
-Total: 1468
+Total: 1469
