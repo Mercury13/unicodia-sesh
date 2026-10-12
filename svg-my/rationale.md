@@ -124,7 +124,7 @@ Subtotal: 266
 - 13097: enlarged arms
 - 13098: after block-A
 - 1309A: franken from craggy 1309A and nice 9B
-- 130AB: strange shape of egg
+- 130AB: strange shape of egg, from scratch (PD)
 - 130AC: too thick outline (PD)
 - 130B9: wanted to fit into 1100×1000
 - 130BC: strange dimensions + strange hook
@@ -1020,6 +1020,8 @@ Subtotal: 417
 - 138FE: JSesh C204 + strip of land
 - 13900: after 01
 - 1390C: remade Kolya’s work, after 0B
+- 1390D: Kolya
+- 1390E: Kolya
 - 13912: Werning + knees from 13911
 - 13914: Kolya’s work
 - 13922: Kolya’s work
@@ -1047,6 +1049,7 @@ Subtotal: 417
 - 139C9: after D35a, too small in NewG
 - 139E9: franken
 - 139FA: Werning + multiple improvements (phased out cusps…)
+- 139FF: after MY D48 (PD)
 - 13A02: after 01
 - 13A0D: after 0E, and 0E is from new JSesh
 - 13A26: after 25
@@ -1259,7 +1262,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 578
+Subtotal: 581
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1267,4 +1270,4 @@ Subtotal: 578
 
 Subtotal: 2
 
-Total: 1465
+Total: 1468
