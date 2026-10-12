@@ -641,22 +641,22 @@ Subtotal: 202
 - 142AF: 4 lines, filled
 - 142B0: more details, filled
 - 142B6: campaign for drills
-- 142B7: strange glitch, deleted almost everything, campaign for drills
+- 142B7: strange glitch, deleted almost everything, campaign for drills (PD)
 - 142B8: campaign for drills
 - 142BB: symmetrize, campaign for drills
-- 142C0: filled end, campaign for drills
-- 142C1: campaign for drills
-- 142C3: filled end, campaign for drills
+- 142C0: filled end, campaign for drills (PD)
+- 142C1: campaign for drills (PD)
+- 142C3: filled end, campaign for drills (PD)
 - 142C4: campaign for drills
-- 142C7: campaign for drills
+- 142C7: campaign for drills (PD)
 - 142C8: campaign for drills
 - 142C9: bolder feather, concentric, campaign for drills
 - 142CD: campaign for drills
-- 142CE: other head, campaign for drills
+- 142CE: other head, campaign for drills (PD)
 - 142CF: campaign for drills
-- 142D0: wrong head, filled end, campaign for drills
-- 142D2: concentric, campaign for drills
-- 142D7: filled end, campaign for drills
+- 142D0: wrong head, filled end, campaign for drills (PD)
+- 142D2: concentric, campaign for drills (PD)
+- 142D7: filled end, campaign for drills (PD)
 - 142E3: added heart, changed to solid lines
 - 142EB: changed top of column: FOUR HUNDRED
 - 142F6: square prongs, thicker rope
@@ -1239,12 +1239,12 @@ Subtotal: 417
 - 14297: after 96
 - 142A3: after U15 (ex)
 - 142A8: after U15 (ex) and N5 (my)
-- 142BA: after B7, BEFORE campaign for drills
+- 142BA: after B7, BEFORE campaign for drills (PD)
 - 142C2: campaign for drills
 - 142C5: campaign for drills
 - 142CA: campaign for drills
-- 142D1: campaign for drills
-- 142D6: campaign for drills
+- 142D1: campaign for drills (PD)
+- 142D6: campaign for drills (PD)
 - 142DA: after other U32’s
 - 142EA: after EB
 - 142F0: after F1
