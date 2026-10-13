@@ -1016,6 +1016,7 @@ Subtotal: 417
 - 138EE: greatly modified Kolya (was really messy)
 - 138EF: only arm and bird were taken from Kolya
 - 138F0: Kolya
+- 138F9: Kolya
 - 138FB: after FA
 - 138FE: JSesh C204 + strip of land
 - 13900: after 01
@@ -1264,7 +1265,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 583
+Subtotal: 584
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1272,4 +1273,4 @@ Subtotal: 583
 
 Subtotal: 2
 
-Total: 1470
+Total: 1471
