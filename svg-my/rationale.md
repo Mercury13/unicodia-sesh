@@ -922,6 +922,7 @@ Subtotal: 417
 - 137D4: found similar, drew sun
 - 13788: Kolya, slight fixes
 - 13789: Kolya, slight fixes
+- 1378B: franken of three hieros: some Anubis, some million, and some squatting
 - 1378F: after 8E
 - 13793: 95 + other Shu’s knees from base
 - 13794: same
@@ -1265,7 +1266,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 584
+Subtotal: 585
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1273,4 +1274,4 @@ Subtotal: 584
 
 Subtotal: 2
 
-Total: 1471
+Total: 1472
