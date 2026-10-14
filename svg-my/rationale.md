@@ -1010,6 +1010,8 @@ Subtotal: 417
 - 138C5: partial Kolya’s work after 138C4; took for myself, edited right arm, reversed left
 - 138C6: Kolya
 - 138C7: Kolya
+- 138CE: after D4
+- 138D1: after CF, only the block is Kolya’s
 - 138D2: Kolya, cool, just took a few features from D3 for consistency
 - 138DF: Kolya’s bad, was forced to do for myself
 - 138E0: everything’s pixel-perfect to DF
@@ -1267,7 +1269,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 586
+Subtotal: 588
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1275,4 +1277,4 @@ Subtotal: 586
 
 Subtotal: 2
 
-Total: 1473
+Total: 1475
