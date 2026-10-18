@@ -919,7 +919,7 @@ Subtotal: 417
 - 13776: after 75
 - 1377B: Kolys’a attempt + that’s a goddess, grafted on 13722
 - 1377F: Werning + flipped knife (actually knife from another hand), fixed rubber-hose anatomy
-- 137D4: found similar, drew sun
+- 13784: march; franken of two hieros: same Anubis as in 1378B, some sitting
 - 13788: Kolya, slight fixes
 - 13789: Kolya, slight fixes
 - 1378B: franken of three hieros: some Anubis, some million, and some squatting
@@ -940,6 +940,7 @@ Subtotal: 417
 - 137CB: Kolya
 - 137CE: Kolya’s work + some fixes
 - 137D2: master class, after 7D1?
+- 137D4: found similar, drew sun
 - 137DE: after DD, excellent Kolya’s work + master class
 - 137E2: JSesh C72, −staff, +spear
 - 137E8: campaign for millions
@@ -1269,7 +1270,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 588
+Subtotal: 589
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1277,4 +1278,4 @@ Subtotal: 588
 
 Subtotal: 2
 
-Total: 1475
+Total: 1476

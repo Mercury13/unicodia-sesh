@@ -64,7 +64,7 @@ def getSvgHeight(fname, errmsg):
     if (sNumber.endswith('px') or sNumber.endswith('pt')):
         sNumber = sNumber[:-2]
     return float(sNumber)
-    
+
 # @return  [+] smth was deleted
 def removeSmallPaths(layer, maxSize):
     nPaths = len(layer)
@@ -370,7 +370,7 @@ GLYPH_SIZES = {
     0x13856: WIDE,
     0x13872: WIDE,
     0x138BE: WIDE,
-    0x13923: WIDE, 0x13924: WIDE, 
+    0x13923: WIDE, 0x13924: WIDE,
     0x1392A: EVERYBIT,  # woman holding sky
     # D: parts of human
     0x1392D: MEDIUM, 0x1392E: SMALL, 0x1392F: SMALL,  # heads
@@ -419,7 +419,7 @@ GLYPH_SIZES = {
     0x13B60: MEDIUM,
     0x13B69: WIDE,
     0x13B73: WIDE,  # two cows’ heads
-    0x13B74: MEDWIDE, 0x13B75: MEDWIDE,  # push-pull cow    
+    0x13B74: MEDWIDE, 0x13B75: MEDWIDE,  # push-pull cow
     0x13B93: WIDE, 0x13B94: WIDE,
     0x13BAA: WIDE, 0x13BAB: WIDE,
     0x13BB1: MEDIUM,
@@ -442,7 +442,7 @@ GLYPH_SIZES = {
     0x13CF7: MEDWIDE, 0x13CF8: EVERYBIT,  # lapwings
     0x13D2B: MEDIUM, 0x13D2C: MEDIUM, 0x13D2D: MEDIUM,
     # I: amphibians/reptiles
-    0x13D2F: MEDWIDE, 0x13D30: WIDE,    
+    0x13D2F: MEDWIDE, 0x13D30: WIDE,  # snake god - lizard
     0x13D4D: SMALL, 0x13D4E: SMALL, 0x13D4F: TINY,
     0x13D61: MEDWIDE,
     0x13D65: MEDWIDE,
@@ -596,7 +596,7 @@ def fixBearings(glyph, cp):
             leftBearing = what
     glyph.left_side_bearing = leftBearing
     glyph.right_side_bearing = rightBearing
-    
+
 # @return [+] OK
 def improveGlyph(glyph, cp, logBad):
     global nSelfIntersecting
@@ -627,13 +627,13 @@ def improveGlyph(glyph, cp, logBad):
     return isOk
 
 NO_NOMINAL_HEIGHT = 99999
-    
+
 def fixupY(glyph, nominalHeight, checkCoord):
     # Hang properly
     [x1,y1,x2,y2] = glyph.boundingBox()
     if checkCoord and (abs(y1) > 1):  # some tolerance permitted
         raise Exception("Glyph does not lie on 0")
-    # default 
+    # default
     actualHeight = y2 - y1
     actualY = y1
     # Taller than nominal → fixup actual dimensions
@@ -677,7 +677,7 @@ def loadGlyph(glyph, cp, fname, svgHeight, logBad):
     glyph.importOutlines(fname, scale=False, correctdir=True)
     fixSize(cp, glyph, svgHeight)
     return improveGlyph(glyph, cp, logBad)
-    
+
 def newGlyph(font, code, glyphName):
     glyph = font.createChar(code)
     glyph.glyphname = glyphName
@@ -697,7 +697,7 @@ def checkLowPriority(fname):
     """
         Checks if low-priority MANUAL files are present.
         Cannot delete these files (they are man-made)
-    """    
+    """
     if os.path.exists(fname):   # More broad exists ere instead of isfile
         log.write("WARN: {} exists!\n".format(fname))
 
@@ -706,7 +706,7 @@ def checkAutoPriority(fname):
         More automatic version of checkLowPriority
         Use when the file is created automatically.
         Machine made, machine took.
-    """    
+    """
     if os.path.isfile(fname):
         log.write("INFO: {} exists, deleting!\n".format(fname))
         os.remove(fname)
@@ -774,25 +774,25 @@ def createNineChar(font, code, name, refName, stepX, stepY):
 # creates a programmatic char: even two-storey sticks
 # returns always True for convenience
 def createEvenSticks(font, code, name, nHalf):
-    return createMatrixChar(font, code, name, NAME_STICK, 
+    return createMatrixChar(font, code, name, NAME_STICK,
             STICK_STEP_FULL, STICK_2ND_FLOOR, nHalf, 2)
 
 # creates a programmatic char: even two-storey sticks
 # returns always True for convenience
 def createEvenHsticks(font, code, name, nHalf):
-    return createMatrixChar(font, code, name, NAME_HSTICK, 
+    return createMatrixChar(font, code, name, NAME_HSTICK,
             STICK_2ND_STACK, STICK_STEP_FULL, 2, nHalf)
 
 # creates a programmatic char: just a row of sticks
 # returns always True for convenience
 def createStickRow(font, code, name, count):
-    return createRowChar(font, code, name, NAME_STICK, 
+    return createRowChar(font, code, name, NAME_STICK,
             STICK_STEP_FULL, 0, count)
 
 # creates a programmatic char: row of horz even two-storey sticks
 # returns always True for convenience
 def createHstickCol(font, code, name, count):
-    return createRowChar(font, code, name, NAME_HSTICK, 
+    return createRowChar(font, code, name, NAME_HSTICK,
             0, STICK_STEP_FULL, count)
 
 # Creates a programmatic char
@@ -882,7 +882,7 @@ def loadUnikemet():
                             glyphName = "u{}_{}".format(sHex.upper(), sValue)
                             svgName = "svg/{}.svg".format(sValue)
                             svgRemadeName = "svg-remade/{}.svg".format(sValue)
-                            cacheName = "cache/{}.svg".format(sValue)                        
+                            cacheName = "cache/{}.svg".format(sValue)
                             extensionName = "svg-ex/{}.svg".format(sHex)
                             reallyMyName = "svg-my/{}.svg".format(sHex)
                             # Load?
