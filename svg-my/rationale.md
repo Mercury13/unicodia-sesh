@@ -951,6 +951,7 @@ Subtotal: 417
 - 137EE: incomplete EA + some smaller ankhs from 13671
 - 137F0: after EF
 - 137F3: F1 + own basket
+- 13807: after some C79ex + line
 - 13808: Kolya
 - 13809: Kolya, fixed
 - 1380F: poor Kolya’s work, redrew hat almost completely
@@ -960,6 +961,7 @@ Subtotal: 417
 - 13817: after initial 16
 - 13818: Kolya’s work, highly fixed
 - 13819: after 17
+- 1381A: builder + some ram
 - 1381C: Kolya, after 1B
 - 1382D: Kolya, after some pharaoh
 - 1382E: extended C97, more curved beard, simple stick
@@ -1270,7 +1272,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 589
+Subtotal: 591
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1278,4 +1280,4 @@ Subtotal: 589
 
 Subtotal: 2
 
-Total: 1476
+Total: 1478
