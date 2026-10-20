@@ -951,6 +951,7 @@ Subtotal: 417
 - 137EE: incomplete EA + some smaller ankhs from 13671
 - 137F0: after EF
 - 137F3: F1 + own basket
+- 137F6: 137EA + fists from F5
 - 13807: after some C79ex + line
 - 13808: Kolya
 - 13809: Kolya, fixed
@@ -1277,7 +1278,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 596
+Subtotal: 597
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1285,4 +1286,4 @@ Subtotal: 596
 
 Subtotal: 2
 
-Total: 1483
+Total: 1484
