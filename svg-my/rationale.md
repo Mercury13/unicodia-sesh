@@ -1018,6 +1018,7 @@ Subtotal: 417
 - 138D2: Kolya, cool, just took a few features from D3 for consistency
 - 138DF: Kolya’s bad, was forced to do for myself
 - 138E0: everything’s pixel-perfect to DF
+- 138E1: Kolya
 - 138E9: Kolya
 - 138EC: EB + ankh
 - 138EE: greatly modified Kolya (was really messy)
@@ -1168,6 +1169,8 @@ Subtotal: 417
 - 13F26: after 13F25
 - 13F41: after 42
 - 13F50: campaign for plans
+- 13F63: from scratch (PD)
+- 13F64: from scratch (PD)
 - 13F6B: after 6D
 - 13F6C: 6B + moved battlements + created boxes
 - 13F6D: some O13 + shorter inner wall + removed bad points
@@ -1272,7 +1275,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 591
+Subtotal: 594
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1280,4 +1283,4 @@ Subtotal: 591
 
 Subtotal: 2
 
-Total: 1478
+Total: 1481
