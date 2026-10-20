@@ -963,6 +963,7 @@ Subtotal: 417
 - 13819: after 17
 - 1381A: builder + some ram
 - 1381C: Kolya, after 1B
+- 1382A: C339a + other gods of Nile
 - 1382D: Kolya, after some pharaoh
 - 1382E: extended C97, more curved beard, simple stick
 - 13835: Lots of complaints to Kolya, 13836 minus horns now
@@ -1275,7 +1276,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 594
+Subtotal: 595
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1283,4 +1284,4 @@ Subtotal: 594
 
 Subtotal: 2
 
-Total: 1481
+Total: 1482
