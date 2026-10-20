@@ -1003,6 +1003,7 @@ Subtotal: 417
 - 13899: backported Kolya’s changes to source of 13897
 - 1389B: after 9A
 - 138A4: backported Kolya’s finding (stick of Seth) to 138A0
+- 138A9: Kolya + he could not graft true vulture, grafted for myself
 - 138AD: Kolya
 - 138B8: backported Kolya’s finding (O49) to cleaner lioness
 - 138BA: B7 + filled uraeus + changed thing
@@ -1276,7 +1277,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 595
+Subtotal: 596
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1284,4 +1285,4 @@ Subtotal: 595
 
 Subtotal: 2
 
-Total: 1482
+Total: 1483
