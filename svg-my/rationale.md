@@ -952,8 +952,9 @@ Subtotal: 417
 - 137F0: after EF
 - 137F3: F1 + own basket
 - 137F6: 137EA + fists from F5
-- 137FC: 137F6 + 137F7
-- 137FE: 137FC + own collar
+- 137FC: march, 137F6 + 137F7
+- 137FD: march, 13469 + 137F6
+- 137FE: march, 137FC + own collar
 - 13807: after some C79ex + line
 - 13808: Kolya
 - 13809: Kolya, fixed
@@ -1281,7 +1282,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 600
+Subtotal: 601
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1289,4 +1290,4 @@ Subtotal: 600
 
 Subtotal: 2
 
-Total: 1487
+Total: 1488
