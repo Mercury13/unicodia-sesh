@@ -1268,6 +1268,8 @@ Subtotal: 417
 - 142EA: after EB
 - 142F0: after F1
 - 142FE: after FD
+- 14308: from scratch (PD)
+- 1430D: after 08 (PD)
 - 1432A: after 2B/2C (PD)
 - 1432D: after the rest V17’s
 - 1435C: 1435A minus handle on lid, size preserved
@@ -1282,7 +1284,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 601
+Subtotal: 603
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1290,4 +1292,4 @@ Subtotal: 601
 
 Subtotal: 2
 
-Total: 1488
+Total: 1490
