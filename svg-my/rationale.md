@@ -1022,6 +1022,7 @@ Subtotal: 417
 - 138CE: after D4
 - 138D1: after CF, only the block is Kolya’s
 - 138D2: Kolya, cool, just took a few features from D3 for consistency
+- 138D9: Kolya, after D8
 - 138DF: Kolya’s bad, was forced to do for myself
 - 138E0: everything’s pixel-perfect to DF
 - 138E1: Kolya
@@ -1284,7 +1285,7 @@ Subtotal: 417
 - 143C4: after C3
 - 143D3: after D2
 
-Subtotal: 603
+Subtotal: 604
 
 # Found for myself in JSesh
 - 135D3 = A14E + union
@@ -1292,4 +1293,4 @@ Subtotal: 603
 
 Subtotal: 2
 
-Total: 1490
+Total: 1491
